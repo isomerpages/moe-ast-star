@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Music Programmes/Just–in–Time Support Programme.md
       - Music Programmes/Special Programmes.md
       - Music Programmes/.keep
       - Teacher Leadership Programmes.md
