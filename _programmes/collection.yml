@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Art Programmes/Teacher–Leadership Programme.md
       - Art Programmes/Supporting Programmes on Art Practice.md
       - Art Programmes/.keep
       - Music Programmes/Milestone Programmes.md
