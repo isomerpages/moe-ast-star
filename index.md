@@ -25,4 +25,13 @@ sections:
         picture-in-picture" allowfullscreen></iframe> '
       button: More Videos
       url: https://vimeo.com/moestar
+  - infobar:
+      title: Growing Musical Identities
+      subtitle: music teacher
+      description: '<iframe
+        src="https://player.vimeo.com/video/287198847?h=1aa9d8ef02" width="640"
+        height="360" frameborder="0" allow="autoplay; fullscreen;
+        picture-in-picture" allowfullscreen></iframe> '
+      button: more videos
+      url: https://vimeo.com/moestar
 ---
