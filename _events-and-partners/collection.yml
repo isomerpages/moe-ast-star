@@ -2,4 +2,5 @@ collections:
   events-and-partners:
     output: true
     order:
+      - Partners/Teacher Work Attachment.md
       - Partners/.keep
