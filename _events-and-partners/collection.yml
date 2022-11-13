@@ -2,5 +2,6 @@ collections:
   events-and-partners:
     output: true
     order:
+      - Partners/National Library Board (NLB).md
       - Partners/Teacher Work Attachment.md
       - Partners/.keep
