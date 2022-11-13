@@ -16,6 +16,10 @@ sections:
             url: ""
           - title: Music Resources
             url: ""
+          - title: Arts Events
+            url: ""
+          - title: Music Events
+            url: ""
   - infobar:
       title: Inclusive Classroom Video Resource
       subtitle: Music
