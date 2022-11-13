@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Just–in–Time Support Programme.md
       - Teacher Leadership Programmes.md
       - Supporting Programmes on Music Practice.md
       - Special Programmes.md
