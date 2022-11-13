@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - About STAR.md
       - Our Team.md
       - About our Logo.md
       - Contact Us.md
