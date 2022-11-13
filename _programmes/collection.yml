@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Teacher Leadership Programmes.md
       - Supporting Programmes on Music Practice.md
       - Special Programmes.md
