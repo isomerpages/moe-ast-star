@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Art Programmes/Milestone Programmes.md
       - Art Programmes/Upskilling Programmes.md
       - Art Programmes/Just–In–Time Support Programme.md
       - Art Programmes/Teacher–Leadership Programme.md
