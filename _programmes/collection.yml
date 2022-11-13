@@ -2,4 +2,5 @@ collections:
   programmes:
     output: true
     order:
+      - Supporting Programmes on Music Practice.md
       - Special Programmes.md
