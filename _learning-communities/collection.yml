@@ -2,6 +2,7 @@ collections:
   learning-communities:
     output: true
     order:
+      - Art STAR Champions.md
       - Music STAR Champions.md
       - Portraits.md
       - Social Media Links.md
