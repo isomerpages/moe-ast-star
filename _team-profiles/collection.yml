@@ -2,6 +2,7 @@ collections:
   team-profiles:
     output: true
     order:
+      - Ira Wati.md
       - Chun Wee San.md
       - Lim Kok Boon.md
       - Victoria Loy.md
