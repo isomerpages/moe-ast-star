@@ -1,0 +1,4 @@
+collections:
+  learning-communities:
+    output: true
+    order: []
