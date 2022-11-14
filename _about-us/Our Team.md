@@ -150,7 +150,7 @@ Academy Officer (Music)<br>
 Academy Officer (Music)<br>
 
 <p><a href="mailto:Marianne_Woo@moe.gov.sg">Marianne_Woo@moe.gov.sg</a></p>
-<img src="/images/matthewkham.jpg" 
+<img src="/images/matthewkam.jpg" 
          style="width:200px"
 	/>
 <br>
