@@ -3,7 +3,6 @@ title: Our Team
 permalink: /about-us/our-team/
 description: ""
 ---
-
 <img src="/images/cliffard.jpg" 
          style="width:200px"
 	/>
@@ -123,7 +122,8 @@ Academy Officer (Art)<br>
 <p><a href="/team-profiles/lorraine-lee">Lorraine Lee</a><br>
 Academy Officer (Art)<br>
 
-[Lorraine\_Lee@moe.gov.sg](mailto:Lorraine_Lee@moe.gov.sg)
+<p><a href="mailto:Lorraine_Lee@moe.gov.sg">Lorraine_Lee@moe.gov.sg</a></p>
+
 <img src="/images/limxiaoting.jpg" 
          style="width:200px"
 	/>
@@ -131,7 +131,7 @@ Academy Officer (Art)<br>
 <p><a href="/team-profiles/lim-xiao-ting">Lim Xiao Ting</a><br>
 Academy Officer (Art)<br>
 
-[Lim\_Xiao\_Ting@moe.gov.sg](mailto:Lim_Xiao_Ting@moe.gov.sg)
+<p><a href="mailto:Lim_Xiao_Ting@moe.gov.sg">Lim_Xiao_Ting@moe.gov.sg</a></p>
 <br>
 <img src="/images/xiaochun.jpg" 
          style="width:200px"
@@ -140,7 +140,7 @@ Academy Officer (Art)<br>
 <p><a href="/team-profiles/liow-xiao-chun">Liow Xiao Chun</a><br>
 Academy Officer (Music)<br>
 
-[Liow\_Xiao\_Chun@moe.gov.sg](mailto:Liow_Xiao_Chun@moe.gov.sg)
+<p><a href="mailto:Liow_Xiao_Chun@moe.gov.sg">Liow_Xiao_Chun@moe.gov.sg</a></p>
 <br>
 <img src="/images/marianne.jpg" 
          style="width:200px"
@@ -149,7 +149,7 @@ Academy Officer (Music)<br>
 <p><a href="/team-profiles/marianne-woo">Marianne Woo</a><br>
 Academy Officer (Music)<br>
 
-[Marianne\_Woo@moe.gov.sg](mailto:Marianne_Woo@moe.gov.sg)
+<p><a href="mailto:Marianne_Woo@moe.gov.sg">Marianne_Woo@moe.gov.sg</a></p>
 <img src="/images/matthewkham.jpg" 
          style="width:200px"
 	/>
@@ -157,7 +157,8 @@ Academy Officer (Music)<br>
 <p><a href="/team-profiles/matthew-chan">Matthew Chan</a><br>
 Academy Officer (Music)<br>
 
-[Matthew\_Chan@moe.gov.sg](mailto:Matthew_Chan@moe.gov.sg)
+<p><a href="mailto:Matthew_Chan@moe.gov.sg">Matthew_Chan@moe.gov.sg</a></p>
+
 <img src="/images/melissa.jpeg" 
          style="width:200px"
 	/>
@@ -165,7 +166,8 @@ Academy Officer (Music)<br>
 <p><a href="/team-profiles/melissa">Melissa Ong</a><br>
 Academy Officer (Music)<br>
 
-[Melissa\_Ong@moe.gov.sg](mailto:Melissa_Ong@moe.gov.sg)
+<p><a href="mailto:Melissa_Ong@moe.gov.sg">Melissa_Ong@moe.gov.sg</a></p>
+
 <img src="/images/angelayip.jpeg" 
          style="width:200px"
 	/>
@@ -173,7 +175,8 @@ Academy Officer (Music)<br>
 <p><a href="/team-profiles/angela-yip">Angela Yip</a><br>
 Lead Manager, Administration<br>
 
-[Angela\_Yip@moe.gov.sg](mailto:Angela_Yip@moe.gov.sg)
+<p><a href="mailto:Angela_Yip@moe.gov.sg">Angela_Yip@moe.gov.sg</a></p>
+
 <img src="/images/beengoh.jpg" 
          style="width:200px"
 	/>
@@ -181,12 +184,12 @@ Lead Manager, Administration<br>
 <p><a href="/team-profiles/tan-bee-ngoh">Tan Bee Ngoh</a><br>
 Senior Administrative Executive<br>
 
-[Tan\_Bee\_Ngoh@moe.gov.sg](mailto:Tan_Bee_Ngoh@moe.gov.sg)
+<p><a href="mailto:Tan_Bee_Ngoh@moe.gov.sg">Tan_Bee_Ngoh@moe.gov.sg</a></p>
+
 <img src="/images/surinder.jpg" 
          style="width:200px"
 	/>
 <br>
 <p><a href="/team-profiles/surinder-kaur">Surinder Kaur</a><br>
 Senior Administrative Executive<br>
-
-[Surinder\_Kaur@moe.gov.sg](mailto:Surinder_Kaur@moe.gov.sg)
+<p><a href="mailto:Surinder_Kaur@moe.gov.sg">Surinder_Kaur@moe.gov.sg</a></p>
