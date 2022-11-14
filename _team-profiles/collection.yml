@@ -2,6 +2,7 @@ collections:
   team-profiles:
     output: true
     order:
+      - Matthew Chan.md
       - Marianne Woo.md
       - Liow Xiao Chun.md
       - Lim Xiao Ting.md
