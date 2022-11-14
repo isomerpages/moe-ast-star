@@ -2,6 +2,7 @@ collections:
   team-profiles:
     output: true
     order:
+      - Liow Xiao Chun.md
       - Lim Xiao Ting.md
       - Lorraine Lee.md
       - Chia Ying.md
