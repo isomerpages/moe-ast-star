@@ -2,6 +2,7 @@ collections:
   events-and-partners:
     output: true
     order:
+      - Art Events/Technology–Enhanced Art Learning e–Symposium.md
       - Art Events/.keep
       - Music Events/Friends in Concert (FIC).md
       - Music Events/Share Fairs.md
