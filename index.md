@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Singapore Teachers' Academy for the aRts
+description: An Isomer site of the Singapore Government
+image: /images/logo.jpg
 permalink: /
 notification: ""
 sections:
@@ -48,3 +48,4 @@ sections:
       button: more videos
       url: https://vimeo.com/moestar
 ---
+
