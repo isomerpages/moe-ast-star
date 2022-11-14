@@ -2,6 +2,7 @@ collections:
   events-and-partners:
     output: true
     order:
+      - Music Events/Friends in Concert (FIC).md
       - Music Events/Share Fairs.md
       - Music Events/.keep
       - Partners/National Institute of Education (NIE).md
