@@ -2,6 +2,7 @@ collections:
   team-profiles:
     output: true
     order:
+      - Heryanty.md
       - Kelly Tang.md
       - Suriati.md
       - Li Yen See.md
