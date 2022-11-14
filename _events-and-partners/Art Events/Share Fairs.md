@@ -14,5 +14,4 @@ Publications from our Critical Inquiry projects can be found via this [link](ht
 
 ![5.2.2 Share Fair CI NLC_2](/images/5-2-2-share-fair-ci-nlc_2.jpg)
 
-file exceed 5MB
 ![5.2.2 Share Fair CI NLC_3](/images/5-2-2-share-fair-ci-nlc_3.jpg)
