@@ -2,6 +2,7 @@ collections:
   team-profiles:
     output: true
     order:
+      - Victoria Loy.md
       - Susanna.md
       - Ang Hwee Loo.md
       - Clifford.md
