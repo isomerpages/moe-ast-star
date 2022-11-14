@@ -2,5 +2,6 @@ collections:
   team-profiles:
     output: true
     order:
+      - Susanna.md
       - Ang Hwee Loo.md
       - Clifford.md
