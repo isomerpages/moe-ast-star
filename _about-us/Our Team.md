@@ -43,7 +43,7 @@ Master Teacher (Art)<br>
          style="width:200px"
 	/>
 <br>
-<p><a href="/team-profiles/li-kok-boon">Lim Kok Boon</a></p>
+<p><a href="/team-profiles/lim-kok-boon">Lim Kok Boon</a></p>
 Master Teacher (Art)<br>
 
 [Lim\_Kok\_Boon@moe.gov.sg](mailto:Lim_Kok_Boon@moe.gov.sg)
