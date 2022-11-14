@@ -2,7 +2,6 @@ collections:
   events-and-partners:
     output: true
     order:
-      - Art Education Conference (AEC)/main.md
       - Art Education Conference (AEC)/.keep
       - Art Events/aedge.md
       - Art Events/Share Fairs.md
