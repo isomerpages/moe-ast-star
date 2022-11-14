@@ -2,6 +2,7 @@ collections:
   team-profiles:
     output: true
     order:
+      - Chua Siew Ling.md
       - Ira Wati.md
       - Chun Wee San.md
       - Lim Kok Boon.md
