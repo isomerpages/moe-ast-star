@@ -2,6 +2,7 @@ collections:
   team-profiles:
     output: true
     order:
+      - Tan Bee Ngoh.md
       - Angela Yip.md
       - Melissa Ong.md
       - Matthew Chan.md
