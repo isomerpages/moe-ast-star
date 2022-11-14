@@ -2,4 +2,5 @@ collections:
   team-profiles:
     output: true
     order:
+      - Ang Hwee Loo.md
       - Clifford.md
