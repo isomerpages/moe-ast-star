@@ -2,6 +2,7 @@ collections:
   team-profiles:
     output: true
     order:
+      - Lim Kok Boon.md
       - Victoria Loy.md
       - Susanna.md
       - Ang Hwee Loo.md
