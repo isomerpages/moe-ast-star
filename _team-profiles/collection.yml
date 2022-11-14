@@ -1,4 +1,5 @@
 collections:
   team-profiles:
     output: true
-    order: []
+    order:
+      - Clifford.md
