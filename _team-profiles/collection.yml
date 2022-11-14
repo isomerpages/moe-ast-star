@@ -1,0 +1,4 @@
+collections:
+  team-profiles:
+    output: true
+    order: []
