@@ -6,3 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+2018 Arts Education Conference: Intersections and Transformation
+
+[Ebook link](https://viewer.joomag.com/star-post-music-january-2019-star-post-2019/0525667001547609824?short&)
+<br>
