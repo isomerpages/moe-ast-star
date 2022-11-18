@@ -6,6 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/annotateitposterthumbnail.png" 
+         style="width:600px"
+	/>
+
+
 An A1-sized art classroom poster that teaches students to add annotations to their drawings and sketches in their visual journals, digital journals, and preparatory studies.
 
 [Link](https://go.gov.sg/annotate-it)
