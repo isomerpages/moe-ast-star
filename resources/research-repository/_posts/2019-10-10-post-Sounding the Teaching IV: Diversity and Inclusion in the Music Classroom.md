@@ -6,3 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
+_Sounding the Teaching III:_ _Facilitating Music Learning with Digital Technology_ raises key learning points that are crucial to music learning, pedagogy, learning ecologies and the role of teachers in enabling students’ musical engagement and development, in an environment enabled by digital technologies. 
+
+To cite the book:  
+Singapore Teachers’ Academy for the aRts. (2019). _Sounding the Teaching III: Facilitating Music Learning with Digital Technology._ Singapore: Ministry of Education.
+
+[Ebook link](https://view.joomag.com/sounding-the-teaching-iii-facilitating-music-learning-with-music-tec-sounding-the-teaching-iii/0896008001554911343?short)
+
+ file more than 5MB
+
+[PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/research-publication/sounding-the-teaching-iii_v5_final.pdf?sfvrsn=73009fff_2)
