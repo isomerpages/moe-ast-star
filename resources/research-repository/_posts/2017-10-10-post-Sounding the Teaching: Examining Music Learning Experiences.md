@@ -21,5 +21,5 @@ Singapore Teachers’ Academy for the aRts. (2017). Sounding the Teaching: Exam
 * [Ebook link](https://joom.ag/pkaL)
 
  
-
+file exceeds 5MB
 * [PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/research-publication/sounding-the-teaching-pdf.pdf?sfvrsn=fb35a9c6_2)
