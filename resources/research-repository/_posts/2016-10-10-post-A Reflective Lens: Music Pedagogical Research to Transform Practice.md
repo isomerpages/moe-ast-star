@@ -6,6 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/be5d70a3cu8294.png" 
+         style="width:600px"
+	/>
+<br>
 
 
 The Arts Pedagogical Research Fund (APRF) goes beyond research funding to provide teachers a year-long professional development programme in pedagogical research. The journey sees the teachers steeped in reflective inquiry, as they research on a pedagogical approach applied in their classroom. Read about the teachers’ learning and research findings in this publication, which features teacher-researchers from these schools:
