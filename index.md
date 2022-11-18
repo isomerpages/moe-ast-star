@@ -48,4 +48,3 @@ sections:
       button: more videos
       url: https://vimeo.com/moestar
 ---
-
