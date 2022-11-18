@@ -7,3 +7,18 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/ebooktealforwebsite.png" 
+         style="width:600px"
+	/>
+
+
+This e-publication aims to help Art teachers learn about the affordances of technology for art learning. It takes a practical approach to explain theory and concepts that could help examine the use of technology in Art teaching and features many classroom examples of meaningful technology integration. The e-publication is divided into five sections:  
+
+
+1) e-Pedagogy in the Art Classroom  
+2) SAMR in the Context of Art Learning  
+3) Blends of Blended Learning  
+4) Harnessing STP for Seamless Blended Learning  
+5) Reflections from Our Art STAR Champions
+
+[Link](https://go.gov.sg/star-ebook-teal-2022)
