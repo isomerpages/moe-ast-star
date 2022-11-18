@@ -6,6 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/62c72a2746.png" 
+         style="width:600px"
+	/>
+
+
 _Sounding the Teaching III:_ _Facilitating Music Learning with Digital Technology_ raises key learning points that are crucial to music learning, pedagogy, learning ecologies and the role of teachers in enabling students’ musical engagement and development, in an environment enabled by digital technologies. 
 
 To cite the book:  
