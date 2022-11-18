@@ -6,6 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/growthmindsetposterforwebsite.png" 
+         style="width:600px"
+	/>
+
+
 Growth Mindset Poster is a visual reminder of the importance of adopting a growth mindset (Dweck, 2006). According to psychologist Professor Dweck, people with a growth mindset believe that intelligence, personality, and abilities can be developed.  
   
 This poster can help:  
