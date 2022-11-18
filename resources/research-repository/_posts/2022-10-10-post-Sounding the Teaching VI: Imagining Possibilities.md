@@ -6,6 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/uusttvicover.png" 
+         style="width:600px"
+	/>
+<br>
+
 
 Sounding the Teaching VI: Imagining Possibilities
 
