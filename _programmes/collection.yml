@@ -2,6 +2,8 @@ collections:
   programmes:
     output: true
     order:
+      - "Music resources/Sounding the Teaching IV: Diversity and Inclusion in
+        the Music Classroom (Video Resources).md"
       - Music resources/Online Learning Resources.md
       - Music resources/.keep
       - STAR Professional Development Framework.md
