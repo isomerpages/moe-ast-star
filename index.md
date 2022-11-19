@@ -13,13 +13,13 @@ sections:
         title: I'm interested in.....
         options:
           - title: Arts Resources
-            url: ""
+            url: /resources/art-resources/
           - title: Music Resources
-            url: ""
-          - title: Arts Events
-            url: ""
-          - title: Music Events
-            url: ""
+            url: /resources/music-resources/
+          - title: Arts STAR Posts
+            url: /resources/art-star-posts/
+          - title: Music STAR Posts
+            url: /resources/music-star-posts/
   - infobar:
       title: Inclusive Classroom Video Resource
       subtitle: Music
