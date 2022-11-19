@@ -6,18 +6,19 @@ layout: post
 description: ""
 image: ""
 ---
-
 <img src="/images/0580c1507u9586.png" 
          style="width:600px"
 	/>
 <br>
 
-Sound Explorations (Secondary)
+Sound Explorations II (Secondary)
 
-This resource book is a compilation of lesson ideas for teaching music composition at the lower secondary level.  It contains a rich bank of ideas from which to draw from, with the objectives of encouraging greater student creativity and exploration of music making.
+Sound Explorations II is a resource of Teaching Actions compiled by the 2018 Secondary Music STAR Champions. These Teaching Actions extend the examples provided in the Singapore Teaching Practice (STP) to encourage more creative work to enrich and stimulate students' musical learning. 
 
-[Ebook link](https://joom.ag/oHCI)
+[Ebook link](https://joom.ag/hmXe)
 
+ 
+
+[PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/music-resources/sound-explorations-ii-(sec).pdf?sfvrsn=7f73daf6_0)
  files more than 5MB
 
-[PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/music-resources/sound-explorations-i-(sec).pdf?sfvrsn=f2272299_0)
