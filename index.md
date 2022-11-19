@@ -47,4 +47,10 @@ sections:
         picture-in-picture" allowfullscreen></iframe> '
       button: more videos
       url: https://vimeo.com/moestar
+  - infopic:
+      title: EVENTS
+      button: explore
+      url: /events-and-partners/art-education-conference/aec-timeline/
+      image: /images/5-2-3-muses-1.jpg
+      alt: Image alt text
 ---
