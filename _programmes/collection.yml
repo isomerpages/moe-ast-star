@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Music resources/.keep
       - STAR Professional Development Framework.md
       - PROFESSIONAL DEVELOPMENT PROGRAMMES AT A GLANCE.md
       - Art Programmes/Milestone Programmes.md
