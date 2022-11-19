@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Music resources/Music Compendium (Videos).md
       - "Music resources/Sounding the Teaching IV: Diversity and Inclusion in
         the Music Classroom (Video Resources).md"
       - Music resources/Online Learning Resources.md
