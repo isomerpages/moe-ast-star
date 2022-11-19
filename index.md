@@ -53,4 +53,11 @@ sections:
       url: /events-and-partners/art-education-conference/aec-timeline/
       image: /images/5-2-3-muses-1.jpg
       alt: Image alt text
+  - infopic:
+      title: PROGRAMMES
+      description: Learn more about Art & Music programmes
+      button: EXPLORE
+      url: /programmes/art-programmes/milestone-programmes/
+      image: /images/245supportingprogrammesonmusicpractice.jpg
+      alt: Image alt text
 ---
