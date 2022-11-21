@@ -3,6 +3,8 @@ title: Ira Wati
 permalink: /team-profiles/ira-wati/
 description: ""
 ---
+![](/images/profile7updated.png)
+
 A passionate educator and a strong advocate for the visual arts, Mdm Ira Wati Binte Sukaimi believes that the quality of an education system cannot exceed the quality of its teachers. As such, she constantly strives to improve the collective efficacy of the fraternity through effective and relevant PD. For her work in professional development of teachers, she was conferred Fellow of the Academy of Singapore Teachers in 2017.   
   
 Mdm Ira was a member of the MOE Ethos and Code Outreach Committee (ECOC) from 2017-2018 and member of the MOE Teachers’ Council from 2019-2020, both chaired by the DyDGE and DGE respectively. She also served as a panel member of the National Arts Council, Arts Education Programme from 2017 to 2020.   
