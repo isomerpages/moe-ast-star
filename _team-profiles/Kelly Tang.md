@@ -3,6 +3,8 @@ title: Kelly Tang
 permalink: /team-profiles/kelly-tang/
 description: ""
 ---
+![](/images/profile11.png)
+
 Kelly Tang's compositions have been performed by world-renowned ensembles such as the Russian National Orchestra, Nagoya Philharmonic Orchestra, Ensemble Contemporain of Montreal and Warsaw Philharmonic Orchestra. His wind band works have been performed by Band of Her Majesty’s Royal Marines (UK) and "The President's Own" United States Marine Band.  
    
 In Singapore, Tang's music is performed regularly by the Singapore Symphony Orchestra and the Singapore Chinese Orchestra.  His commissioned set works for the Singapore Youth Festival are performed annually by all bands and choirs in schools.  His compositions have been presented worldwide at Vienna Musikverien, Berlin Konzerthaus, Carnegie Hall (New York), Auditorium di Milano (Italy), Sydney Opera House, Suntory Hall (Tokyo) and St. Paul's Cathedral (London).  
