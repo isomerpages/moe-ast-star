@@ -3,7 +3,6 @@ title: Portraits
 permalink: /learning-communities/portraits/
 description: ""
 ---
-
 Portraits presents the personal stories of our art and music educators. Each volume features the individual journeys of various art and music educators, as well as the unique roles that they play in nurturing their students.
 
 
@@ -30,6 +29,7 @@ PORTRAITS II  was launched at [Arts Education Conference 2016](https://www.sta
 * [Ebook link](https://view.joomag.com/portraits-ii-narratives-of-singapore-arts-educators/M0328361001479782354)
 
 * [PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/star-publications/portraits/portraits-ii-final_reduced-size.pdf?sfvrsn=4d134b84_2)
+file more than 5MB
 
 ### Portraits: Narratives of Singapore Arts Educators
 
