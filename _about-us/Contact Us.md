@@ -3,8 +3,11 @@ title: Contact Us
 permalink: /about-us/contact-us/
 description: ""
 ---
-
-![Star Logo](/images/star-logo.png)
+<br>
+<img src="/images/star-logo.png" 
+         style="width:500px"
+	/>
+<br>
 
 <h3>Singapore Teachers Academy for the aRts</h3>
 
