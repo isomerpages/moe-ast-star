@@ -20,4 +20,4 @@ STAR-Post Art Issue 2 / July 2020
 
  
 
-[PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/star-publications/art-star-post/star-post-(art)-july-2020_a-re-imagined-culture-of-care-through-art_spreads-v7reduced.pdf?sfvrsn=e9f6c8a1_0)
+[PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/star-publications/art-star-post/star-post-(art)-july-2020_a-re-imagined-culture-of-care-through-art_spreads-v7reduced.pdf?sfvrsn=e9f6c8a1_0)file more than 5MB
