@@ -7,7 +7,7 @@ description: ""
          style="width:200px"
 	/>
 <br>
-<p><a href="/team-profiles/clifford-chua">Clifford Chua</a></p><b></b><br>
+<p><a href="/team-profiles/clifford-chua"><h4 style="color:red"align="center">Clifford Chua</a></p><b></b><br>
 Academy Principal<br>
 
 [Clifford\_chua@moe.gov.sg](mailto:Clifford_chua@moe.gov.sg)
