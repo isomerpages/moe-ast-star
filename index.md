@@ -61,4 +61,3 @@ sections:
       image: /images/245supportingprogrammesonmusicpractice.jpg
       alt: Image alt text
 ---
-
