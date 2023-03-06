@@ -91,7 +91,7 @@ description: ""
     <td class="tg-0lax"><img src="/images/feeza_star.jpg" 
          style="width:100px"
 	/></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/rafeeza-khaliq">Rafeeza Khaliq</a><br><b>Academy Officer (Art)</b><br><a href="mailto:rafeeza_KHALIQ@moe.gov.sg">rafeeza_KHALIQ@moe.gov.sg</a></p></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/marianne.jpg" 
