@@ -14,8 +14,6 @@ sections:
         options:
           - title: Arts Resources
             url: /resources/art-resources/
-          - title: Music Resources
-            url: /resources/music-resources/
           - title: Arts STAR Posts
             url: /resources/art-star-posts/
           - title: Music STAR Posts
