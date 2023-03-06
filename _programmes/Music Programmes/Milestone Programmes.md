@@ -52,7 +52,7 @@ Classroom Practice
 **FOR**: Experienced Teachers  
 **PERIOD**: At least one run per year
 
-![Milestone Programmes (Teaching Living Legends)](/images/teachinglivinglegends.jpg)
+![](/images/teaching-living-legends-min.jpg)
 
 Teaching Living Legends is a milestone programme designed by STAR to address the teaching of Singapore living music traditions in the context of the 21st century student-centric classroom. This programme supports teachers in their implementation of the Primary and Lower Secondary Music syllabus by developing them in music pedagogy, practice and perspective in relation to the teaching of Singapore music. Teachers explore how Singapore music traditions are kept relevant to students via the stories and narratives behind these pieces of music, thus providing engaging music experiences and raising awareness of Singapore's unique musical identity.  
   
@@ -63,7 +63,7 @@ The workshops are conducted by our Music Master Teachers in collaboration with S
 **FOR**: Experienced Teachers  
 **PERIOD**: At least one run per year
 
-![Milestone Programmes (Teaching ICT-Based Music Making)](/images/teachingictbasedmusicmaking.jpg)
+![](/images/teaching-ict-based-music-making-min.jpg)
 
 Teaching ICT-based Music Making is a milestone programme designed to support the use of ICT in teaching and facilitating music-making in the secondary music classroom. The workshop is a collaboration between STAR and AEB, conceptualised and conducted by our Music Senior Specialist, Master Teacher, Senior Academy Officer and Arts Education Officer with industry-based music artists. Participants will experience various teaching and music-making approaches harnessing technology.
 
@@ -102,7 +102,7 @@ The programme develops teachers’ understanding of the Orff approach. It also p
 **FOR**: Experienced Teachers  
 **PERIOD**: At least one run per year
 
-![Milestone Programmes (Dalcroze)](/images/dalcroze.jpg)
+![](/images/dalcroze-min.jpg)
 
 The Dalcroze Approach - eurhythmics, solfège and improvisation - is an effective way to develop deeper musicality and creative expression through whole body movement and space. In this approach, the teaching of music incorporates meaningful rhythmic movement in the learning experience for a deeper understanding of music concepts. With a focus on improvisation and expressions of an individual’s musical ideas through the movement of the body through space, the approach not only creates an environment where creativity and experiential learning flourish, but also allows curricular objectives like rhythm, structure, mood and tone to be explored.  
   
