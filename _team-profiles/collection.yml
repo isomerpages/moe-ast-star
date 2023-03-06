@@ -2,6 +2,7 @@ collections:
   team-profiles:
     output: true
     order:
+      - Vivian Loh.md
       - Rafeeza Khaliq.md
       - Clifford.md
       - Ang Hwee Loo.md
