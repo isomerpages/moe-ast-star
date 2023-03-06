@@ -4,7 +4,6 @@ permalink: /programmes/music-programmes/milestone-programmes/
 description: ""
 third_nav_title: Music Programmes
 ---
-![](/images/overviewof-musicprogrammes.jpg)
 
 ## Milestone Programmes
 
