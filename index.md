@@ -55,7 +55,7 @@ sections:
       title: PROGRAMMES
       description: Learn more about Art & Music programmes
       button: EXPLORE
-      url: /programmes/art-programmes/milestone-programmes/
+      url: /programmes/art-programmes/overview/
       image: /images/245supportingprogrammesonmusicpractice.jpg
       alt: Image alt text
 ---
