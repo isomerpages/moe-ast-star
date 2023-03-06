@@ -80,7 +80,7 @@ description: ""
          style="width:100px"
 	/></td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"><img src="/images/lorrainelee.jpg" 
+    <td class="tg-0lax"><img src="/images/feeza_star.jpg" 
          style="width:100px"
 	/></td>
     <td class="tg-0lax"></td>
