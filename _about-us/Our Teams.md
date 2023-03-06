@@ -80,7 +80,7 @@ description: ""
     <td class="tg-0lax"><img src="/images/vivian-loh-3_final.jpg" 
          style="width:100px"
 	/></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/vivian-loh">Vivian Loh Lai Kuen</a><br><b>Senior Academy Officer (Art)</b><br><a href="mailto:Vivian_LOH@moe.gov.sg">Vivian_LOH@moe.gov.sg</a></p></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/heryanty.png" 
