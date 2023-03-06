@@ -15,11 +15,13 @@ The Art Teacher Practitioner Programme (ATPP) serves as a bridging course to hel
 
 ![ArtUpskillingProgramme_1](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider4/default-album/artupskillingprogramme_1.jpg?sfvrsn=52b1595a_0)
 
-The ATPP programme includes the following components:*   3 full-day introductory course
+The ATPP programme includes the following components:
+* 3 full-day introductory course
 *   Studio fundamentals - Art materials and artistic processes (Friday afternoons)
 *   Pedagogies in art education
 *   Lesson observations (Including post-lesson conferencing)
 *   Art exhibition
+<br><br>
 Upon successful completion of the ATPP and clearance of the National Institute of Education (NIE) interview, participants will pursue the 4-month full-time Advanced Diploma in Primary Art Education at NIE to become a qualified art teacher.
 
 ### Advanced Diploma in Primary Art Education
