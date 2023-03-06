@@ -86,16 +86,6 @@ description: ""
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/limxiaoting.jpg" 
-         style="width:100px"
-	/></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"><img src="/images/xiaochun.jpg" 
-         style="width:100px"
-	/></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
     <td class="tg-0lax"><img src="/images/marianne.jpg" 
          style="width:100px"
 	/></td>
