@@ -50,7 +50,7 @@ description: ""
          style="width:100px"
 	/></td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"><img src="/images/chuasiewling.jpg" 
+    <td class="tg-0lax"><img src="/images/star_siewling.jpg" 
          style="width:100px"
 	/></td>
     <td class="tg-0lax"></td>
@@ -70,13 +70,13 @@ description: ""
          style="width:100px"
 	/></td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"><img src="/images/heryanty.png" 
+    <td class="tg-0lax"><img src="/images/vivian-loh-3_final.jpg" 
          style="width:100px"
 	/></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/chiaying.jpg" 
+    <td class="tg-0lax"><img src="/images/heryanty.png" 
          style="width:100px"
 	/></td>
     <td class="tg-0lax"></td>
@@ -110,10 +110,15 @@ description: ""
          style="width:100px"
 	/></td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"><img src="/images/angelayip.jpeg" 
+    <td class="tg-0lax"><img src="/images/beengoh.jpg" 
          style="width:100px"
-	/></td>
+	/>
+</td>
     <td class="tg-0lax"></td>
   </tr>
+	<tr>
+    <td class="tg-0lax"><img src="/images/surinder.jpg" 
+         style="width:100px"
+	/></td>
 </tbody>
 </table>
