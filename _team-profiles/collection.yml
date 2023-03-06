@@ -2,8 +2,6 @@ collections:
   team-profiles:
     output: true
     order:
-      - Vivian Loh.md
-      - Rafeeza Khaliq.md
       - Clifford.md
       - Ang Hwee Loo.md
       - Susanna Chau.md
@@ -15,7 +13,9 @@ collections:
       - Li Yen See.md
       - Suriati.md
       - Kelly Tang.md
+      - Vivian Loh.md
       - Heryanty.md
+      - Rafeeza Khaliq.md
       - Marianne Woo.md
       - Matthew Chan.md
       - Melissa Ong.md
