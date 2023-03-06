@@ -26,6 +26,6 @@ MUS.E.S centers around inquiry-based approaches to art teaching and learning in 
 **Videos of Keynote Addresses and Teacher Presentations are available on Vimeo via the following links:**
 
 *   MUSES 2019 - Keynote Lecture - Ms Pamela Streeter: [https://vimeo.com/325596112](https://vimeo.com/325596112)
-*   MUSES 2019 - MBL Sharing 1 - MS. Teh Ting Ting: [https://vimeo.com/325598858](https://vimeo.com/325598858)
+*   MUSES 2019 - MBL Sharing 1 - Ms. Teh Ting Ting: [https://vimeo.com/325598858](https://vimeo.com/325598858)
 *   MUSES 2019 - MBL Sharing 2 - Ms. Wong Yu Ling: [https://vimeo.com/325601195](https://vimeo.com/325601195)
 *   MUSES 2019 - MBL Sharing 3 - Ms. Wong Nga Lin & Ms. Peh Pei Ying: [https://vimeo.com/325602320](https://vimeo.com/325602320)
