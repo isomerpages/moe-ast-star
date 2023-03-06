@@ -86,7 +86,8 @@ description: ""
     <td class="tg-0lax"><img src="/images/heryanty.png" 
          style="width:100px"
 	/></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/heryanty">Heryanty binte Mohamed Yahaya</a><br><b>
+	Senior Academy Officer (Art)</b><br><a href="mailto:Heryanty_MOHAMED_YAHAYA@moe.gov.sg">Heryanty_MOHAMED_YAHAYA@moe.gov.sg</a></p></td>
     <td class="tg-0lax"><img src="/images/feeza_star.jpg" 
          style="width:100px"
 	/></td>
