@@ -5,7 +5,7 @@ description: ""
 ---
 <br>
 <img src="/images/star-logo.png" 
-         style="width:500px"
+         style="width:200px"
 	/>
 <br>
 
