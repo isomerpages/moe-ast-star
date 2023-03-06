@@ -87,4 +87,3 @@ a;edge 2020 Pared down Exhibition Opening
 ![104-AE20-3999-B7](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider4/aedge/aedge-2020-photos/104-ae20-3999-b7.jpg?sfvrsn=cf740d54_2)
 
 ![128-AE20-3388-A7](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider4/aedge/aedge-2020-photos/128-ae20-3388-a7.jpg?sfvrsn=175daedc_2)
-
