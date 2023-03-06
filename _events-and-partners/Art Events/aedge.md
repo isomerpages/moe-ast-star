@@ -23,3 +23,5 @@ Details on _aedge 2022_ can be found on the microsite at [https://staraedge.c
 _(Footnote: )_
 
 1 aedge is the acronym for Art Educators’ Developmental and Generative Explorations.
+
+
