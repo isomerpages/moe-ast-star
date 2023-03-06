@@ -4,8 +4,6 @@ permalink: /events-and-partners/art-events/drawing-symposium-2020/
 description: ""
 third_nav_title: Art Events
 ---
-
-
 ![LogoGIFDarkBG](/images/logogiftransparent.gif)
 
 **About Drawing Symposium 2020**
@@ -93,3 +91,6 @@ Video of Post-symposium Workshops are available on Vimeo via the following links
 *   Point of View\_Incorporating Spatial Reasoning 2-2: [https://vimeo.com/404514563](https://vimeo.com/404514563)
 *   Storytelling through Visualisation 3-1: [https://vimeo.com/404514605](https://vimeo.com/404514605)
 *   Storytelling through Visualisation 3-2: [https://vimeo.com/404514651](https://vimeo.com/404514651)
+
+
+## 21 images to be converted into a slideshow on flickr/vimeo to embed code in isomer
