@@ -4,8 +4,6 @@ permalink: /programmes/art-programmes/milestone-programmes/
 description: ""
 third_nav_title: Art Programmes
 ---
-
-
 Milestone programmes help participants to deepen their pedagogical understandings, and achieve professional renewal and transformation in teaching beliefs and practices.
 
 ### Art Beginning Teacher Programme
