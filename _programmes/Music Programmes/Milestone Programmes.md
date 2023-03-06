@@ -4,14 +4,13 @@ permalink: /programmes/music-programmes/milestone-programmes/
 description: ""
 third_nav_title: Music Programmes
 ---
-
 Milestone programmes help participants to deepen their pedagogical understandings, and achieve professional renewal and gain transformation in teaching beliefs and practices
 
 ### Music Beginning Teacher Programme
 
 <table style="box-sizing: border-box;"><colgroup style="box-sizing: border-box;"><col style="box-sizing: border-box;"><col style="box-sizing: border-box;"></colgroup><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td style="box-sizing: border-box;"><strong style="box-sizing: border-box; font-weight: 600;">FOR:</strong></td><td style="box-sizing: border-box;">Beginning Teachers</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box;"><strong style="box-sizing: border-box; font-weight: 600;">PERIOD:</strong></td><td style="box-sizing: border-box;">Part-time basis over the course of one year</td></tr></tbody></table>
 
-![2.4.1 Dalcroze 2](/images/241dalcroze2.jpg)
+![](/images/2-4-1-dalcroze.jpg)
 
 The Music Beginning Teacher Programme: Music Teaching Through the Lens of the Singapore Teaching Practice (STP) is a blended-learning programme that has been designed to deepen BTs’ understanding and application of Music pedagogical practices based on the STP. This one-year long programme provides support for new music teachers, in essential music classroom routines, engaging music pedagogies for effective classroom teaching, awareness about the music curriculum and networking opportunities with fellow colleagues. Apart from workshop sessions, the Programme also includes a Learning Journey to music classrooms taught by experienced music teachers.  
   
