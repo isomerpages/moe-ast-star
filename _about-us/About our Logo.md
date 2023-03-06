@@ -4,8 +4,11 @@ permalink: /about-us/about-our-logo/
 description: ""
 ---
 ## STAR Logo
+<img src="/images/star-logo.png" 
+         style="width:300px"
+	/>
+<br>
 
-![](/images/star-logo.png)
 
 The STAR logo embodies the fundamental idea of a luminous star, with many unique individual spheres coming together to form a cogent whole. Each sphere represents an arts teacher, with his/her own teacher agency, radiating passion and illuminating inspiration. Held together by each sphere’s gravitational force, this collaborative confluence symbolises us, the arts teaching fraternity.
 
