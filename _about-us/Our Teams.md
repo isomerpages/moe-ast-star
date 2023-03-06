@@ -17,11 +17,12 @@ description: ""
     <th class="tg-0lax"><img src="/images/cliffard.jpg" 
          style="width:100px"
 	/></th>
-    <th class="tg-0lax"></th>
+    <th class="tg-0lax"><p><a href="/team-profiles/clifford-chua">Clifford Chua</h4></a><br>Academy Principal<br><a href="mailto:Clifford_chua@moe.gov.sg">Clifford_chua@moe.gov.sg</a></p>
+</th>
     <th class="tg-0lax"><img src="/images/mdmang.jpg" 
          style="width:100px"
 	/></th>
-    <th class="tg-0lax"></th>
+    <th class="tg-0lax"><p><a href="/team-profiles/ang-hwee-loo">Ang Hwee Loo</a><br>Deputy Director (Art)<br><a href="mailto:ang_hwee_loo@moe.gov.sg">ang_hwee_loo@moe.gov.sg</a></p></th>
   </tr>
 </thead>
 <tbody>
