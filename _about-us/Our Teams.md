@@ -87,7 +87,7 @@ description: ""
          style="width:200px"
 	/></td>
     <td class="tg-0lax"><p><a href="/team-profiles/heryanty">Heryanty binte Mohamed Yahaya</a><br><b>
-	Senior Academy Officer (Art)</b><br><a href="mailto:Heryanty_MOHAMED_YAHAYA@moe.gov.sg">Heryanty_MOHAMED_YAHAYA@moe.gov.sg</a></p></td>
+	Senior Academy Officer (Art)</b><br><a href="mailto:Heryanty_MOHAMED_YAHAYA@moe.gov.sg">Heryanty_MOHAMED_<br>YAHAYA@moe.gov.sg</a></p></td>
     <td class="tg-0lax"><img src="/images/feeza_star.jpg" 
          style="width:200px"
 	/></td>
@@ -97,24 +97,26 @@ description: ""
     <td class="tg-0lax"><img src="/images/marianne.jpg" 
          style="width:200px"
 	/></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/marianne-woo">Marianne Woo</a><br><b>Academy Officer (Music)</b><br><a href="mailto:Marianne_Woo@moe.gov.sg">Marianne_Woo@moe.gov.sg</a></p></td>
     <td class="tg-0lax"><img src="/images/matthewkam.jpg" 
          style="width:200px"
 	/></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/matthew-chan">Matthew Chan</a><br><b>Academy Officer (Music)</b><br><a href="mailto:Matthew_Chan@moe.gov.sg">Matthew_Chan@moe.gov.sg</a></p></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/melissa.jpeg" 
-         style="width:100px"
+         style="width:200px"
 	/></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/melissa">Melissa Ong</a><br><b>Academy Officer (Music)</b><br><a href="mailto:Melissa_Ong@moe.gov.sg">Melissa_Ong@moe.gov.sg</a></p></td>
     <td class="tg-0lax"><img src="/images/beengoh.jpg" 
-         style="width:100px"
+         style="width:200px"
 	/>
 </td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/tan-bee-ngoh">Tan Bee Ngoh</a><br><b>Senior Administrative Executive</b><br><a href="mailto:Tan_Bee_Ngoh@moe.gov.sg">Tan_Bee_Ngoh@moe.gov.sg</a></p></td>
   </tr>
 	<tr>
     <td class="tg-0lax"><img src="/images/surinder.jpg" 
-         style="width:100px"
-	/></td>
+         style="width:200px"
+/>
+</td>
+		<td class="tg-0lax"><p><a href="/team-profiles/surinder-kaur">Surinder Kaur</a><br><b>Senior Administrative Executive</b><br><a href="mailto:Surinder_Kaur@moe.gov.sg">Surinder_Kaur@moe.gov.sg</a></p></td>
