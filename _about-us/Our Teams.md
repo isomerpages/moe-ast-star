@@ -14,65 +14,105 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax">image</th>
+    <th class="tg-0lax"><img src="/images/cliffard.jpg" 
+         style="width:100px"
+	/></th>
     <th class="tg-0lax"></th>
-    <th class="tg-0lax">image</th>
+    <th class="tg-0lax"><img src="/images/mdmang.jpg" 
+         style="width:100px"
+	/></th>
     <th class="tg-0lax"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">image</td>
+    <td class="tg-0lax"><img src="/images/susanna.jpg" 
+         style="width:100px"
+	/></td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax">image</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">image</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">image</td>
+    <td class="tg-0lax"><img src="/images/victoria.jpg" 
+         style="width:100px"
+	/></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">image</td>
+    <td class="tg-0lax"><img src="/images/kokboon.jpg" 
+         style="width:100px"
+	/></td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax">image</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">image</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">image</td>
+    <td class="tg-0lax"><img src="/images/chunweesan.jpg" 
+         style="width:100px"
+	/></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">image</td>
+    <td class="tg-0lax"><img src="/images/irawati.jpg" 
+         style="width:100px"
+	/></td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax">image</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">image</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">image</td>
+    <td class="tg-0lax"><img src="/images/chuasiewling.jpg" 
+         style="width:100px"
+	/></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">image</td>
+    <td class="tg-0lax"><img src="/images/yensee.jpg" 
+         style="width:100px"
+	/></td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax">image</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">image</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">image</td>
+    <td class="tg-0lax"><img src="/images/suriati.jpg" 
+         style="width:100px"
+	/></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">image</td>
+    <td class="tg-0lax"><img src="/images/kellytang.jpg" 
+         style="width:100px"
+	/></td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax">image</td>
+    <td class="tg-0lax"><img src="/images/heryanty.png" 
+         style="width:100px"
+	/></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="/images/chiaying.jpg" 
+         style="width:100px"
+	/></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/lorrainelee.jpg" 
+         style="width:100px"
+	/></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="/images/limxiaoting.jpg" 
+         style="width:100px"
+	/></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/xiaochun.jpg" 
+         style="width:100px"
+	/></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="/images/marianne.jpg" 
+         style="width:100px"
+	/></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/matthewkam.jpg" 
+         style="width:100px"
+	/></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="/images/melissa.jpeg" 
+         style="width:100px"
+	/></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/angelayip.jpeg" 
+         style="width:100px"
+	/></td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
