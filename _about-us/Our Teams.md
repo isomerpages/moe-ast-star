@@ -111,5 +111,3 @@ description: ""
     <td class="tg-0lax"><img src="/images/surinder.jpg" 
          style="width:100px"
 	/></td>
-</tbody>
-</table>
