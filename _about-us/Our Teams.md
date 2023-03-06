@@ -30,41 +30,46 @@ description: ""
     <td class="tg-0lax"><img src="/images/susanna.jpg" 
          style="width:100px"
 	/></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/susanna-chau">Susanna Chau</a><br><b>Deputy Director (Music)</b>
+<br><a href="mailto:Susanna_Chau@moe.gov.sg">Susanna_Chau@moe.gov.sg</a></p></td>
     <td class="tg-0lax"><img src="/images/victoria.jpg" 
          style="width:100px"
 	/></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/victoria-loy">Victoria Loy</a><br><b>Master Teacher (Art)</b><br><a href="mailto:Victoria_Loy@moe.gov.sg">Victoria_Loy@moe.gov.sg</a></p></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/kokboon.jpg" 
          style="width:100px"
 	/></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/lim-kok-boon">Lim Kok Boon</a><br><b>
+			Master Teacher (Art)</b><br><a href="mailto:Lim_Kok_Boon@moe.gov.sg">Lim_Kok_Boon@moe.gov.sg</a></p></td>
     <td class="tg-0lax"><img src="/images/chunweesan.jpg" 
          style="width:100px"
 	/></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/chun-wee-san">Chun Wee San</a><br><b>
+			Master Teacher (Art)</b><br><a href="mailto:Chun_Wee_San@moe.gov.sg">Chun_Wee_San@moe.gov.sg</a></p></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/irawati.jpg" 
          style="width:100px"
 	/></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/ira-wati">Ira Wati Binte Sukaimi</a><br><b>Master Teacher (Art)</b><br><a href="mailto:Ira_Wati_Sukaimi@moe.gov.sg">Ira_Wati_Sukaimi@moe.gov.sg</a></p></td>
     <td class="tg-0lax"><img src="/images/star_siewling.jpg" 
          style="width:100px"
 	/></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/chua=siew-ling">Chua Siew Ling</a><br><b>Principal Master Teacher (Music)</b><br><a href="mailto:Chua_Siew_Ling@moe.gov.sg">Chua_Siew_Ling@moe.gov.sg</a></p></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/yensee.jpg" 
          style="width:100px"
 	/></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/li-yen-see">Li Yen See</a><br><b>
+	Master Teacher (Music)</b><br><a href="mailto:Chan_Yen_See@moe.gov.sg">Chan_Yen_See@moe.gov.sg</a></p><br>
+</td>
     <td class="tg-0lax"><img src="/images/suriati.jpg" 
          style="width:100px"
 	/></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/suriati">Suriati Bte Suradi</a><br><b>Master Teacher (Music)</b><br><a href="mailto:Suriati_Suradi@moe.gov.sg">Suriati_Suradi@moe.gov.sg</a></p></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/kellytang.jpg" 
