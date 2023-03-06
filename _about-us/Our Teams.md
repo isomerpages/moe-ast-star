@@ -57,7 +57,7 @@ description: ""
     <td class="tg-0lax"><img src="/images/star_siewling.jpg" 
          style="width:200px"
 	/></td>
-    <td class="tg-0lax"><p><a href="/team-profiles/chua=siew-ling">Chua Siew Ling</a><br><b>Principal Master Teacher (Music)</b><br><a href="mailto:Chua_Siew_Ling@moe.gov.sg">Chua_Siew_Ling@moe.gov.sg</a></p></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/chua-siew-ling">Chua Siew Ling</a><br><b>Principal Master Teacher (Music)</b><br><a href="mailto:Chua_Siew_Ling@moe.gov.sg">Chua_Siew_Ling@moe.gov.sg</a></p></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/yensee.jpg" 
