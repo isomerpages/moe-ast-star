@@ -15,10 +15,15 @@ Upskilling programmes aim to level up the pedagogical knowledge and skills, as w
 
 The Music Teacher Practitioner Programme (MTPP) serves as a bridging course to equip primary school teachers who are without prior pre-service music training with the basic pedagogical skills for classroom music teaching.  
   
-Teacher participants develop their music practice through participation in various solo and group performances. The MTPP programme includes the following components:*   4 full-day introductory course
+Teacher participants develop their music practice through participation in various solo and group performances. The MTPP programme includes the following components:
+*   4 full-day introductory course
 *   Weekly instrumental and music theory lessons
 *   Lesson observations (including post-lesson conferencing)
 *   Concert
+
+
+<br>
+
 Upon successful completion of the programme, these teachers will be better equipped to apply for the full-time Advanced Diploma in Primary Music Education at the National Institute of Education (NIE) to become a qualified music teacher.
 
 ### NIE Advanced Diploma in Primary Music Education
