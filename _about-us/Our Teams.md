@@ -75,7 +75,8 @@ description: ""
     <td class="tg-0lax"><img src="/images/kellytang.jpg" 
          style="width:100px"
 	/></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/kelly-tang">Kelly Tang</a><br><b>
+	Master Teacher (Music)</b><br><a href="mailto:Kelly_Tang@moe.gov.sg">Kelly_Tang@moe.gov.sg</a></p></td>
     <td class="tg-0lax"><img src="/images/vivian-loh-3_final.jpg" 
          style="width:100px"
 	/></td>
