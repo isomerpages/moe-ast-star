@@ -18,6 +18,10 @@ sections:
             url: /resources/art-star-posts/
           - title: Music STAR Posts
             url: /resources/music-star-posts/
+          - title: Art Programmes
+            url: /programmes/art-programmes/overview/
+          - title: Music Programmes
+            url: /programmes/music-programmes/overview/
   - infobar:
       title: Inclusive Classroom Video Resource
       subtitle: Music
