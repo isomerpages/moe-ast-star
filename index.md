@@ -12,8 +12,6 @@ sections:
       dropdown:
         title: I'm interested in.....
         options:
-          - title: Arts Resources
-            url: /resources/art-resources/
           - title: Art Programmes
             url: /programmes/art-programmes/overview/
           - title: Music Programmes
