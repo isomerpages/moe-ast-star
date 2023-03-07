@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/sttiv-cover.jpg" style="width:600px" />
+
 _Sounding The Teaching IV_ puts together a collection of 22 studies that feature teachers’ critical inquiry projects focusing on the issues of diversity and inclusion in the music classroom.   
 
 To cite the book: Singapore Teachers’ academy for the aRts. (2020). _Sounding the Teaching IV: Diversity and Inclusion in the Music Classroom._ Singapore: Ministry of Education.
