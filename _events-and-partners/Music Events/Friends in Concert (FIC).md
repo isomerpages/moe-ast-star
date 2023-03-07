@@ -23,7 +23,7 @@ third_nav_title: Music Events
     <td class="tg-0lax">Friends in Concert (FIC) is an annual concert that celebrates the musical expressions of our teacher-musicians. Showcasing the musical talents of music teachers since 2014, this platform aims to bring about a deeper sense of belonging to the music teaching fraternity as they continue to hone their music practice. In preparation for their performances, our music educators are also supported through mentorship programmes. These mentoring sessions also provide opportunities for our music educators to continue developing their artistic practice, which will in turn inform their classroom practices.
 </td>
     <td class="tg-0lax"><img src="/images/fic-2019.jpg" 
-         style="width:1000px"
+         style="width:2000px"
 	/>
 </td>
   </tr>
