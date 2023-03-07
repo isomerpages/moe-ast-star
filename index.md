@@ -22,6 +22,8 @@ sections:
             url: /programmes/art-programmes/overview/
           - title: Music Programmes
             url: /programmes/music-programmes/overview/
+          - title: Art Events
+            url: /events-and-partners/art-events/art-events/
   - infobar:
       title: Inclusive Classroom Video Resource
       subtitle: Music
