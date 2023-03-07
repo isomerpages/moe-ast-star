@@ -16,14 +16,14 @@ sections:
             url: /resources/art-resources/
           - title: Arts STAR Posts
             url: /resources/art-star-posts/
-          - title: Music STAR Posts
-            url: /resources/music-star-posts/
           - title: Art Programmes
             url: /programmes/art-programmes/overview/
           - title: Music Programmes
             url: /programmes/music-programmes/overview/
           - title: Art Events
             url: /events-and-partners/art-events/art-events/
+          - title: Music Events
+            url: /events-and-partners/music-events/friends-in-concert/
   - infobar:
       title: Inclusive Classroom Video Resource
       subtitle: Music
