@@ -7,8 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-<img src="/images/62c72a2746.png" 
+<img src="/images/62c72a2746.jpg" 
          style="width:600px"
 	/>
 
