@@ -14,8 +14,6 @@ sections:
         options:
           - title: Arts Resources
             url: /resources/art-resources/
-          - title: Arts STAR Posts
-            url: /resources/art-star-posts/
           - title: Art Programmes
             url: /programmes/art-programmes/overview/
           - title: Music Programmes
@@ -51,17 +49,4 @@ sections:
         picture-in-picture" allowfullscreen></iframe> '
       button: more videos
       url: https://vimeo.com/moestar
-  - infopic:
-      title: EVENTS
-      button: explore
-      url: /events-and-partners/art-education-conference/aec-timeline/
-      image: /images/5-2-3-muses-1.jpg
-      alt: Image alt text
-  - infopic:
-      title: PROGRAMMES
-      description: Learn more about Art & Music programmes
-      button: EXPLORE
-      url: /programmes/art-programmes/overview/
-      image: /images/245supportingprogrammesonmusicpractice.jpg
-      alt: Image alt text
 ---
