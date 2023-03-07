@@ -26,8 +26,8 @@ Drawing on concepts and resources featured in STAR’s Inquiry In and Through Ar
 
 ### **Contemporary Art Practices in Schools (CAPS)**
 
-**FOR:** Experienced Teachers**  
-PERIOD:** 5 days in Term 4
+**FOR:** Experienced Teachers  
+**PERIOD:** 5 days in Term 4
 
 ![2.3.1 Milestone Programme_Photo_4_CAPS](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider4/default-album/2-3-1-milestone-programme_photo_4_caps.jpg?sfvrsn=e1c6a3a8_0)
 
@@ -35,8 +35,8 @@ CAPS introduces contemporary art practices that will expand teachers’ ideas ab
 
 ### STAR Senior / Lead Teacher Programme
 
-**FOR:** Senior Teachers**  
-PERIOD:** Part-time basis over the course of one year
+**FOR:** Senior Teachers  
+**PERIOD:** Part-time basis over the course of one year
 
 ![2.3.1 Milestone Programme_Photo_3_STLT](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider4/default-album/2-3-1-milestone-programme_photo_3_stlt.jpg?sfvrsn=7c705abb_0)
 
