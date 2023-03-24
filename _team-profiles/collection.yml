@@ -2,7 +2,7 @@ collections:
   team-profiles:
     output: true
     order:
-      - Clifford.md
+      - Clifford Chua.md
       - Ang Hwee Loo.md
       - Susanna Chau.md
       - Victoria Loy.md
