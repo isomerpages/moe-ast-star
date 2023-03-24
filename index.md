@@ -47,4 +47,10 @@ sections:
         picture-in-picture" allowfullscreen></iframe> '
       button: more videos
       url: https://vimeo.com/moestar
+  - infopic:
+      title: Events
+      button: Click here
+      url: /events-and-partners/art-education-conference-aec/10-nov/
+      image: /images/events.png
+      alt: events
 ---
