@@ -22,7 +22,7 @@ This unique star burst represents the distinctive academy that STAR is: created 
 <br><br>
 We encourage your continued participation in making the arts classrooms collaborative and creative, and in giving STAR feedback on how we can better share our metacognitive processes on the premise of a sound Singapore arts education. Join us to see more of what excellent arts teaching is about.</td>
     <td class="tg-0lax"><img src="/images/star-logo.png" 
-         style="width:3500px"/>
+         style="width:4500px"/>
 		</td>
   </tr>
 </thead>
