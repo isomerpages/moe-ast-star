@@ -5,8 +5,7 @@ description: ""
 ---
 <br>
 <img src="/images/star-logo.png" 
-         style="width:200px"
-	/>
+         style="width:200px"/>
 <br>
 
 <h3>Singapore Teachers Academy for the aRts</h3>
