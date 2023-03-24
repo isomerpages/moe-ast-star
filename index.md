@@ -2,7 +2,7 @@
 layout: homepage
 title: Singapore Teachers' Academy for the aRts
 description: An Isomer site of the Singapore Government
-image: /images/star-logo.png
+image: /images/logo.png
 permalink: /
 notification: ""
 sections:
@@ -39,3 +39,4 @@ sections:
       image: /images/videos.png
       alt: Videos
 ---
+
