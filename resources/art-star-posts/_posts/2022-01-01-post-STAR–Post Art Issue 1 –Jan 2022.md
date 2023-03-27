@@ -6,11 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/jan2022.jpg" 
-         style="width:500px"
-	/>
-<br>
-	 
+![](/images/jan-2022.jpg)
 
 **STAR-Post (Art): Conversations about Care, Capabilities and Confidence** centers on the 3Cs that were highlighted by Minister Chan at Work Plan Seminar 2021. In this issue, colleagues share how they collaborate to build capabilities, grow confidence in their Art teaching practice and care practically for each other and for themselves. Self-Determination Theory is revisited in the context of what schools can do to meet teachers’ psychological needs. Read also about debunking myths associated with teacher self-care and start the year with 22 words to consider for 2022.
 
