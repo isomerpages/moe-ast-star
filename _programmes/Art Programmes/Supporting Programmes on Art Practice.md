@@ -21,8 +21,4 @@ Teachers looking to deepen their artistic practice and expand their pedagogical 
 *   Priming the Art Classroom
 *   Culture of Care in the Art Classroom
 
-[![2.3.5 Supporting Programmes on Art Practice_Photo_1](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider4/default-album/2-3-5-supporting-programmes-on-art-practice_photo_1.jpg?sfvrsn=75c8b0f0_0)](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider4/default-album/2-3-5-supporting-programmes-on-art-practice_photo_1.jpg?sfvrsn=75c8b0f0_0)
-
-[![2.3.5 Supporting Programmes on Art Practice_Photo_2](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider4/default-album/2-3-5-supporting-programmes-on-art-practice_photo_2.jpg?sfvrsn=26b2900_0)](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider4/default-album/2-3-5-supporting-programmes-on-art-practice_photo_2.jpg?sfvrsn=26b2900_0)
-
-[![2.3.5 Supporting Programmes on Art Practice_Photo_3](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider4/default-album/2-3-5-supporting-programmes-on-art-practice_photo_3.jpg?sfvrsn=6e80cc19_0)](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider4/default-album/2-3-5-supporting-programmes-on-art-practice_photo_3.jpg?sfvrsn=6e80cc19_0)
+![](/images/art%20programme.png)
