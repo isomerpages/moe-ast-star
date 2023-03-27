@@ -10,7 +10,6 @@ third_nav_title: Music Events
 
 Friends in Concert (FIC) is an annual concert that celebrates the musical expressions of our teacher-musicians. Showcasing the musical talents of music teachers since 2014, this platform aims to bring about a deeper sense of belonging to the music teaching fraternity as they continue to hone their music practice. In preparation for their performances, our music educators are also supported through mentorship programmes. These mentoring sessions also provide opportunities for our music educators to continue developing their artistic practice, which will in turn inform their classroom practices.
   
-
  <iframe width="560" height="315" src="https://www.youtube.com/embed/l3nrEIgpcfk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _Friends in Concert_ (FIC) 2022 [playlist](https://go.gov.sg/fic2022yt)
