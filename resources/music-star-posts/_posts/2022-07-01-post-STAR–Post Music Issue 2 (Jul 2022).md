@@ -8,6 +8,8 @@ image: ""
 ---
 STAR-Post Music Issue 2 / Jul 2022
 
+![](/images/star-post-jul-cover-page.png)
+
 STAR-Post (Music)  Harmonising Differences explores ways that teachers can harness students’ strengths, meet their learning needs, and stretch and uplift them.  We share how teachers can facilitate learning for heterogenous classrooms through Differentiated Instruction, as well as in the context of Full Subject-based Banding Music classes.
 
 [Ebook link](https://go.gov.sg/spmusjul22)
