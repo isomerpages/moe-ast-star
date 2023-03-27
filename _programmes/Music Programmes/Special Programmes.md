@@ -37,6 +37,3 @@ Find out more about the Engaging with Songs programme in the following videos. T
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vSuu1rB2x7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Engaging with Songs Programme 2015(Private video unable to upload)
-
-Engaging with Songs Day 2014(Private video)
