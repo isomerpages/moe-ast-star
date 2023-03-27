@@ -21,9 +21,6 @@ Teacher participants develop their music practice through participation in vario
 *   Lesson observations (including post-lesson conferencing)
 *   Concert
 
-
-<br>
-
 Upon successful completion of the programme, these teachers will be better equipped to apply for the full-time Advanced Diploma in Primary Music Education at the National Institute of Education (NIE) to become a qualified music teacher.
 
 ### NIE Advanced Diploma in Primary Music Education
