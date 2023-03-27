@@ -23,7 +23,7 @@ The new normal in schools presents teachers with exciting possibilities to integ
 
 ![SI_GIF_BG](/images/si_gif_bg.gif)  
 
-## TEAL2021 Programme
+# #TEAL2021 Programme
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
