@@ -8,31 +8,8 @@ Special Programmes help participants to broaden their perspectives and immerse t
 
 ### Engaging With Songs
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-dgl5"><span style="font-weight:600">FOR:</span></th>
-    <th class="tg-zr06">Primary School Music Teachers (by invitation)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-dgl5"><span style="font-weight:600">PERIOD:</span></td>
-    <td class="tg-zr06">Part-time basis over the course of 1.5 years</td>
-  </tr>
-</tbody>
-</table>
-
+**FOR:** Primary School Music Teachers (by invitation)<br>
+**PERIOD:** Part-time basis over the course of 1.5 years
 
 ![1S1A8827](/images/1s1a8827.jpg)
 
