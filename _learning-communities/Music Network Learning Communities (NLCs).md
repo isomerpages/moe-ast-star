@@ -3,7 +3,8 @@ title: Music Network Learning Communities (NLCs)
 permalink: /learning-communities/music-network-learning-communities/
 description: ""
 ---
-<table style="box-sizing: border-box;"><colgroup style="box-sizing: border-box;"><col style="box-sizing: border-box;"><col style="box-sizing: border-box;"></colgroup><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td style="box-sizing: border-box;"><strong style="box-sizing: border-box; font-weight: 600;">FOR</strong></td><td style="box-sizing: border-box;">Music Teachers and Allied Educators<ins cite="mailto:Macbook10" datetime="2019-08-01T13:14" style="box-sizing: border-box;"></ins></td></tr><tr style="box-sizing: border-box; height: 18.85pt;"><td style="box-sizing: border-box;"><span style="box-sizing: border-box; text-decoration: underline;"></span><strong style="box-sizing: border-box; font-weight: 600;">PERIOD</strong></td><td style="box-sizing: border-box;">Throughout the year<ins cite="mailto:Macbook10" datetime="2019-08-01T13:14" style="box-sizing: border-box;"></ins></td></tr></tbody></table>
+**FOR:** Music Teachers and Allied Educators <br>
+**PERIOD:** Throughout the year
 
 ![4.2 NLC](/images/4-2-nlc-min.jpg)
 
