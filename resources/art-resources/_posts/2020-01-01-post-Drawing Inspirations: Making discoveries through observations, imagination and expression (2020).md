@@ -7,10 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/drawinginspiration.png" 
-         style="width:600px"
-	/>
-
+![](/images/drawing-inspiration.jpg)
 
 Drawing is a core learning experience in the 2018 revised Primary art syllabus and integral in the Secondary and Junior College art curriculum. Drawing Inspirations is a teaching resource kit consisting of 20 unique drawing lesson ideas categorized in 5 different sets designed to support art teachers with a myriad of different ways drawing could be facilitated in the art classrooms.  
   
