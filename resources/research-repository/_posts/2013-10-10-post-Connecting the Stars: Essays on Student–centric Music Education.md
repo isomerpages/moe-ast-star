@@ -29,7 +29,4 @@ Singapore Teachers’ Academy for the aRts. (2013). _Connecting the stars: Essa
 To cite a chapter in the book (an example):   
 Chua, S. L. & Ho, H. P. (2013). Connecting findings, reflections and insights: student-centricity musically, creatively. In S. L. Chua and H. P. Ho. (Eds.). _Connecting the stars: Essays on student-centric music education_ (pp. 143-154). Singapore: Ministry of Education.
 
-FILE MORE THAN 5MB
-
-
 [PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/research-publication/connecting-the-stars.pdf?sfvrsn=e0a86808_2)
