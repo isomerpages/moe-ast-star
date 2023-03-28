@@ -6,10 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/41c5e7aaau7158.png" 
-         style="width:600px"
-	/>
-
+<img src="/images/41c5e7aaau7158.jpg" 
+         style="width:25%"/>
 
 _Making Art_ is an interactive card game created to encourage expression and the spirit of experimentation.
 
