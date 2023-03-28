@@ -17,8 +17,8 @@ image: ""
 To cite the book:  
 Singapore Teachers’ Academy for the aRts. (2019). Critical Inquiry in art education II. Singapore: Ministry of Education
 
-* [Ebook link](https://view.joomag.com/critical-inquiry-in-art-education-ii/M0379999001561340476)
+[Ebook link](https://view.joomag.com/critical-inquiry-in-art-education-ii/M0379999001561340476)
 
  
 
-* [Link](https://go.gov.sg/ci-art-education-2)
+[Link](https://go.gov.sg/ci-art-education-2)
