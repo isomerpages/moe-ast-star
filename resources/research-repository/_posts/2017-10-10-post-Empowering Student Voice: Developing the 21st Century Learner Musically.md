@@ -17,7 +17,4 @@ Singapore Teachers’ Academy for the aRts. (2017). _Empowering student voice: 
 
 [Ebook link](https://joom.ag/ykaL)
 
- 
-file more than 5MB
-
 [PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/research-publication/empowering-student-voice.pdf?sfvrsn=80e7b0b_2)
