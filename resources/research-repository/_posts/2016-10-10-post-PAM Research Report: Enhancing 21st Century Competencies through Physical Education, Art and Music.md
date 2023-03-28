@@ -22,10 +22,6 @@ Physical Education and Sports Teacher Academy (PESTA) and Singapore Teachers’ 
 
 * [Ebook link](https://www.joomag.com/magazine/pam-research-report/0284074001458527022?short)
 
- 
-file more than 5MB
 * [PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/research-publication/pam-full-single.pdf?sfvrsn=5d4939d0_2)
 
- 
-
-* [Link](https://www.opal2.moe.edu.sg/app/ccpm/content/fb6f671b-8468-4f36-ab59-013659ae763a)
+* [OPAL Link](https://www.opal2.moe.edu.sg/app/ccpm/content/fb6f671b-8468-4f36-ab59-013659ae763a)
