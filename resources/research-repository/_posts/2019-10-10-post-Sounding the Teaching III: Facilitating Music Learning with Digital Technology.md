@@ -19,6 +19,4 @@ Singapore Teachers’ Academy for the aRts. (2019). _Sounding the Teaching III:
 
 [Ebook link](https://view.joomag.com/sounding-the-teaching-iii-facilitating-music-learning-with-music-tec-sounding-the-teaching-iii/0896008001554911343?short)
 
- file more than 5MB
-
 [PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/research-publication/sounding-the-teaching-iii_v5_final.pdf?sfvrsn=73009fff_2)
