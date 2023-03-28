@@ -23,6 +23,4 @@ Singapore Teachers’ Academy for the aRts. (2020). Providing a Rich Music Lear
 
 [Ebook link](https://joom.ag/Yj0C)
 
- 
-filee more than 5MB
 [PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/music-resources/music-compendium-digital-pdf-linked-(7-jul)-(1).pdf?sfvrsn=d3616dd3_0)
