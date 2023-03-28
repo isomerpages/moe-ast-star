@@ -6,3 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/star-post-music-jan-2021-cover.jpg)
+
+**STAR-Post Music Issue 2 / 2021**
+
+Creating Effective Videos for Teaching
+
+[Ebook link](https://joom.ag/SVZI)
