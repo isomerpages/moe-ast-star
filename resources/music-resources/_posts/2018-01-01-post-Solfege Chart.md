@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <img src="/images/755ba1234u8233.jpg" 
-         style="width:15%"/>
+         style="width:22%"/>
 <br>
 
 
