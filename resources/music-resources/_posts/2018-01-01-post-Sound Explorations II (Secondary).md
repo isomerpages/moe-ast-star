@@ -17,8 +17,4 @@ Sound Explorations II is a resource of Teaching Actions compiled by the 2018 Sec
 
 [Ebook link](https://joom.ag/hmXe)
 
- 
-
 [PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/music-resources/sound-explorations-ii-(sec).pdf?sfvrsn=7f73daf6_0)
- files more than 5MB
-
