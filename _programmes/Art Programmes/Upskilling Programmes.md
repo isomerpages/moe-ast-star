@@ -21,7 +21,7 @@ The ATPP programme includes the following components:
 *   Pedagogies in art education
 *   Lesson observations (Including post-lesson conferencing)
 *   Art exhibition
-<br><br>
+<br>
 Upon successful completion of the ATPP and clearance of the National Institute of Education (NIE) interview, participants will pursue the 4-month full-time Advanced Diploma in Primary Art Education at NIE to become a qualified art teacher.
 
 ### Advanced Diploma in Primary Art Education
