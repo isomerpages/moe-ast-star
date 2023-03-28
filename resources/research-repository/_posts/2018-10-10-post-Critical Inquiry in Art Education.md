@@ -18,6 +18,4 @@ Singapore Teachers’ Academy for the aRts. (2018). Critical Inquiry in art edu
 
 [Ebook link](https://view.joomag.com/critical-inquiry-in-art-education/M0864598001561342515)
 
- 
-
 [Link](https://go.gov.sg/ci-art-education-1)
