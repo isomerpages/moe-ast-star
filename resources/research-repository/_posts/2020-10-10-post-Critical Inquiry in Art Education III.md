@@ -11,15 +11,11 @@ image: ""
 	/>
 <br>
 
-**_Critical Inquiry in Art Education III_**  shares critical inquiry projects by eight Art Teachers from five primary and three secondary schools. The publication records these teachers’ critical inquiry journey in exploring new possibilities in Art making, empowering learners, talking about Art and making meaningful connections, as well as play-based approaches in the Art classroom.   
+**_Critical Inquiry in Art Education II_** shares eight critical inquiry projects focused on empowering learners to make choices, encouraging engagement through various student-centric strategies, and ways to support self-directed learning in the art classroom and also at the museum.  
 
-To cite the book:   
-Singapore Teachers’ Academy for the aRts. (2020). _Critical Inquiry in art education III_. Singapore: Ministry of Education
+To cite the book:  
+Singapore Teachers’ Academy for the aRts. (2019). __Critical Inquiry in art education II._ Singapore: Ministry of Education_
 
+[Ebook link](https://view.joomag.com/critical-inquiry-in-art-education-ii/M0379999001561340476)
 
-lTo cite the book:  
-Singapore Teachers’ Academy for the aRts. (2018). _Critical Inquiry in art education._ Singapore: Ministry of Education
-
-[Ebook link](https://view.joomag.com/critical-inquiry-in-art-education/M0864598001561342515)
-
-[Link](https://go.gov.sg/ci-art-education-1)
+[Link](https://go.gov.sg/ci-art-education-2)
