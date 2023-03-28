@@ -6,11 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/7fdf27bcbu3777.png" 
-         style="width:600px"
-	/>
 
-
+![](/images/7fdf27bcbu3777.jpg)
 This publication provides teachers with teaching ideas to guide students to discuss and respond to artworks in engaging ways. Ideas here can be used to plan museum visits and classroom teaching.
 
 Teachers can use this publication to:
