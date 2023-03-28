@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 <img src="/images/09618f9dbu2750.png" 
          style="width:600px"
 	/>
@@ -21,6 +20,4 @@ These lesson ideas, designed and trialled by the 2018 Primary Music STAR Champio
 
 [Ebook link](https://joom.ag/mHCI)
 
- 
-file more than 5MB
 [PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/music-resources/sound-explorations-(pri).pdf?sfvrsn=d0bea17d_0)
