@@ -17,8 +17,4 @@ This resource book is a compilation of lesson ideas for teaching music compositi
 
 [Ebook link](https://joom.ag/oHCI)
 
- 
-
 [PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/music-resources/sound-explorations-i-(sec).pdf?sfvrsn=f2272299_0)
-
-files more than 5MB
