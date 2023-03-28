@@ -6,10 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/9d6fbaa48u9239.png" 
-         style="width:600px"
-	/>
-
+<img src="/images/9d6fbaa48u9239.jpg">
 
 _Language of Art_ aims to equip art teachers and students with art vocabulary. It provides users with a common set of vocabulary to understand and talk about art in our classrooms and museums.
 
