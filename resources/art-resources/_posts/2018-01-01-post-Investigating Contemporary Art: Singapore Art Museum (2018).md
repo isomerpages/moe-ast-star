@@ -6,10 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/l1000239.png" 
-         style="width:600px"
-	/>
-
+![](/images/l1000239.jpg)
 
 “Investigating contemporary art: Singapore Art Museum” is a publication made up of 11 booklets and 11 sets of image cards, archived here as a series of 11 PDF files. [Booklet 1](https://go.gov.sg/investigating-art-sam-intro) consists of a curatorial essay, while booklet 2 to 11 consist of information on 10 artists and their respective artworks, gallery teaching ideas and short activities, as well as re-printable image cards. The texts provide teachers with contextual information on the artworks and artists, empowering teachers to control the role of information as they plan meaningful dialogues and discussions on artworks. Together with the first publication, "Investigating art: Ideas on museum-based learning", art teachers will gain a deeper understanding of an inquiry-based approach to art teaching. Singapore artists featured include:   
   
