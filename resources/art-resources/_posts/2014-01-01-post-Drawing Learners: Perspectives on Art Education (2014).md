@@ -6,8 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/762e4f13du7428.png" 
-         style="width:600px"
+<img src="/images/762e4f13du7428.jpg" 
+         style="width:60%"
 	/>
 
 
