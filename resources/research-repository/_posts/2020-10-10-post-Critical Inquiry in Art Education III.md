@@ -17,5 +17,9 @@ To cite the book: 
 Singapore Teachers’ Academy for the aRts. (2020). _Critical Inquiry in art education III_. Singapore: Ministry of Education
 
 
-linkis not working
-[Link](https://go.gov.sg/ci-art-education-3)
+lTo cite the book:  
+Singapore Teachers’ Academy for the aRts. (2018). _Critical Inquiry in art education._ Singapore: Ministry of Education
+
+[Ebook link](https://view.joomag.com/critical-inquiry-in-art-education/M0864598001561342515)
+
+[Link](https://go.gov.sg/ci-art-education-1)
