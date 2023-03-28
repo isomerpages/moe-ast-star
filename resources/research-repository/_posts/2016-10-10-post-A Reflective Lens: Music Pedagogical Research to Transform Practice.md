@@ -21,8 +21,6 @@ The Arts Pedagogical Research Fund (APRF) goes beyond research funding to provid
 
 To cite the book: Singapore Teachers’ Academy for the aRts. (2016). A reflective lens: Music pedagogical research to transform practice. Singapore: Ministry of Education.
 
-* [Ebook link](https://joom.ag/OF0Q)
+[Ebook link](https://joom.ag/OF0Q)
 
- 
-file more than 5MB
-* [PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/research-publication/a_reflective_lens_full_publication.pdf?sfvrsn=2dac507d_2)
+[PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/research-publication/a_reflective_lens_full_publication.pdf?sfvrsn=2dac507d_2)
