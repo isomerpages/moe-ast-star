@@ -23,7 +23,4 @@ Singapore Teachers’ Academy for the aRts. (2016). Providing a Rich Music Lear
 
 [Ebook link](https://view.joomag.com/e-compendium-eclectic-music-pedagogies/M0527045001452688889)
 
- 
-
 [PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/default-document-library/ecompendium_eclectic-pedagogies.pdf?sfvrsn=3f2bc087_0)
-file more than 5MB
