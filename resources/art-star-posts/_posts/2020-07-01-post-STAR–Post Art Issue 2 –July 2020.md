@@ -6,10 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/artcoverimagepage0001.jpg" 
-         style="width:500px"
-	/>
-<br>
+![](/images/art-cover-image_page-0001.jpg)
 
 
 STAR-Post Art Issue 2 / July 2020
@@ -18,6 +15,4 @@ STAR-Post Art Issue 2 / July 2020
 
 [Ebook link](https://joom.ag/Ew0C)
 
- 
-
-[PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/star-publications/art-star-post/star-post-(art)-july-2020_a-re-imagined-culture-of-care-through-art_spreads-v7reduced.pdf?sfvrsn=e9f6c8a1_0)file more than 5MB
+[PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/star-publications/art-star-post/star-post-(art)-july-2020_a-re-imagined-culture-of-care-through-art_spreads-v7reduced.pdf?sfvrsn=e9f6c8a1_0)
