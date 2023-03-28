@@ -6,10 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/artstarpostjul21coverimage.png" 
-         style="width:500px"
-	/>
-<br>
+![](/images/art-star-post-jul-21-cover-image.png)
 
 
 **The Lifestyle of Learning** features Art teachers as learners and as learning designers to promote student’s self-directed learning. Colleagues share their perspectives as learners themselves and ideas on how they have equipped students to take charge of their learning in the art classroom through Differentiated Instruction and through mentorship. Read also about how teachers can nurture the intrinsic motivation of our students through instruction strategies in the Autonomy-supportive Motivating Style that can be applied in the art room. Enjoy your learning!
