@@ -11,7 +11,5 @@ image: ""
 		 
 [PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/default-document-library/86d507547_u0541.pdf?sfvrsn=65b923ba_0)
 
- 
-
 [Link](https://www.star.moe.edu.sg/star/slot/resource_star/pf01/86d507547_u0541.pdf)
 
