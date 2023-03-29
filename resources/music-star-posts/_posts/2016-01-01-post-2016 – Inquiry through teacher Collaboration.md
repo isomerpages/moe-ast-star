@@ -6,3 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/inquiry.png" 
+     style="width:50%">
+		 
+2016 - Inquiry through teacher Collaboration
+
+[PDF link](/files/5c3e3053e_u2897.pdf)
+
+[Link](https://www.star.moe.edu.sg/star/slot/resource_star/pf01/5c3e3053e_u2897.pdf)
