@@ -12,4 +12,3 @@ image: ""
 [PDF link](/files/59033f935_97.pdf)
 
 [Link](/files/59033f935_97.pdf)
-
