@@ -6,4 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/play-in-sound.png" 
+     style="width:50%">
+
+[PDF link](/files/59033f935_97.pdf)
+
+[Link](/files/59033f935_97.pdf)
 
