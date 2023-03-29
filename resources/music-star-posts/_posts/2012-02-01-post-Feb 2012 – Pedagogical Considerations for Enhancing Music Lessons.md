@@ -6,3 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/zz.png" 
+     style="width:50%">
+
+Feb 2012 - Pedagogical Considerations for Enhancing Music Lessons
+
+[PDF link](/files/d82fb6ac3_u6294.pdf)
+
+[Link](https://www.star.moe.edu.sg/star/slot/resource_star/pf01/d82fb6ac3_u6294.pdf)
+
