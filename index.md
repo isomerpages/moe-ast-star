@@ -1,32 +1,42 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Singapore Teachers' Academy for the aRts
+description: An Isomer site of the Singapore Government
+image: /images/logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Singapore Teachers' Academy for the aRts (STAR)
+      background: /images/homepage.gif
+      dropdown:
+        title: I'm interested in.....
+        options:
+          - title: Art Programmes
+            url: /programmes/art-programmes/overview/
+          - title: Music Programmes
+            url: /programmes/music-programmes/overview/
+          - title: Art Events
+            url: /events-and-partners/art-events/art-events/
+          - title: Music Events
+            url: /events-and-partners/music-events/friends-in-concert/
+  - infopic:
+      title: Events
+      button: Click here
+      url: /events-and-partners/art-education-conference-aec/10-nov/
+      image: /images/events.png
+      alt: events
+  - infopic:
+      title: Programmes
+      button: Click here
+      url: /programmes/star-professional-development-framework/
+      image: /images/Programmes.png
+      alt: Programmes
+  - infopic:
+      title: Videos
+      button: Click here
+      url: /videos/
+      image: /images/videos.png
+      alt: Videos
 ---
 

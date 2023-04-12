@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo2.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About US
+    collection: about-us
+  - title: Programmes
+    collection: programmes
+  - title: Learning Communities
+    collection: learning-communities
+  - title: Events & Partners
+    collection: events-and-partners
+  - title: resources
+    resource_room: true

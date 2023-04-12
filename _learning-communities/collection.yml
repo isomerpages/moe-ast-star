@@ -1,0 +1,10 @@
+collections:
+  learning-communities:
+    output: true
+    order:
+      - Art Network Learning Communities (NLCs).md
+      - Music Network Learning Communities (NLCs).md
+      - Art STAR Champions.md
+      - Music STAR Champions.md
+      - Portraits.md
+      - Social Media Links.md
