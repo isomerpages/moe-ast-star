@@ -2,6 +2,7 @@ collections:
   team-profiles:
     output: true
     order:
+      - Chia Wei Hou.md
       - Clifford Chua.md
       - Ang Hwee Loo.md
       - Susanna Chau.md
