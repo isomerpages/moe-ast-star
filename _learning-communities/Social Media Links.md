@@ -4,18 +4,18 @@ permalink: /learning-communities/social-media-links/
 description: ""
 ---
 # Communities
+<img style="width:60%" src="/images/starsingapore1.jpg">
 
-![STARSingapore_1](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider4/default-album/starsingapore_1.jpg?sfvrsn=75fa9a39_0)
 
 [STAR SINGAPORE (Public page)](https://www.facebook.com/STARSingapore/)  
 Follow our Facebook page for regular updates on upcoming events, programmes and happenings at STAR.
 
-![ArtCommunities_1](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider4/default-album/artcommunities_1.jpg?sfvrsn=7639f480_0)
+<img style="width:60%" src="/images/artcommunities1.jpg">
 
 [A|EDGE (private e-group)](https://www.facebook.com/groups/372862286087177/)  
 Informal facebook closed group for art teachers in our schools - Join our community!
 
-![MusicCommunities_1](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider4/default-album/musiccommunities_1.jpg?sfvrsn=13fa0f90_0)
+<img style="width:60%" src="/images/musiccommunities1.jpg">
 
 [MUSICATORS (private e-group)](https://www.facebook.com/groups/Musicators/#_=_)  
 Informal facebook closed group for music teachers in our schools - Join our community!
