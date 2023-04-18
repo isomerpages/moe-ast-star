@@ -9,7 +9,7 @@ third_nav_title: Art Programmes
 **For**: By nomination of Cluster Superintendents  
 **Period**: Part-time basis over the course of two years
 
-![2.3.4 Teacher-Leadership Programme_Photo_1_STARChamps](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider4/default-album/2-3-4-teacher-leadership-programme_photo_1_starchamps.jpg?sfvrsn=e9b948c7_0)
+<img style="width:80%" src="/images/tlprog1.png">
 
 The STAR Champions programme deepens Art teachers’ teaching and pedagogical leadership competencies, and nurture a teacher-led culture within the arts fraternity. Nominated by their Cluster Superintendents, Art STAR Champions are acknowledged for their instructional leadership, dedication and passion towards their subject disciplines. They will attend a range of customized workshops that will deepen their understanding of student-centric strategies to nurture 21st century competencies. They will work with fellow Art STAR Champions to lead other teachers in their clusters and/or zones and advocate for the art fraternity.
 
@@ -18,7 +18,7 @@ The STAR Champions programme deepens Art teachers’ teaching and pedagogical le
 **FOR**: Senior Teachers  
 **PERIOD**: Part-time basis over the course of one year
 
-![aa](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider4/default-album/aa.jpg?sfvrsn=c74f2456_0)
+<img style="width:80%" src="/images/tlprog2.png">
 
 Designed for STs and LTs (Art/Music), this professional learning support programme aims to develop our teacher leaders’ competencies as pedagogical leaders. The course focuses on deepening participants’ disciplinary thinking, and keeping them updated on emergent trends in arts pedagogy and professional practice. The STAR ST/LTs’ Programme is designed to complement the Academy of Singapore Teachers’ (AST) Teacher Leader Programme 1 and 2 (TLP1 and TLP2). It is strongly recommended that Art and Music STs and LTs attend both the TLP1/2 and STAR ST/LT Programme within the first five years of their appointment. Teachers can select the order of their professional learning sequence to better suit their own learning needs.
 
