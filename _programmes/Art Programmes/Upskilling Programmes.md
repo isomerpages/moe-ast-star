@@ -13,7 +13,7 @@ Upskilling programmes aim to level up the pedagogical knowledge and skills, as w
   
 The Art Teacher Practitioner Programme (ATPP) serves as a bridging course to help participants build up their art competencies and art teaching portfolio, in preparation for the NIE Advanced Diploma in Primary Art Education course.
 
-![ArtUpskillingProgramme_1](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider4/default-album/artupskillingprogramme_1.jpg?sfvrsn=52b1595a_0)
+<img style="width:80%" src="/images/artupskillingprogramme_1.png">
 
 The ATPP programme includes the following components:
 * 3 full-day introductory course
@@ -26,17 +26,17 @@ Upon successful completion of the ATPP and clearance of the National Institute o
 
 ### Advanced Diploma in Primary Art Education
 
-**For**: Graduates of the ATPP and SP3 Art Teachers  
+**For**:&nbsp;Graduates of the ATPP and SP3 Art Teachers  
 **Period**: Full time over the course of 4 months  
 
 The programme is designed to build on the knowledge and skills of teachers who were trained to teach art as a third subject, and equips them with the essential breadth and depth of content knowledge and competencies to deliver quality art lessons to students.
 
 The duration of each full-time course is four months. Upon completion of the course, the teacher will be required to serve a minimum of 1 year in the school.
 
-Read more about the course outline of the Advanced Diploma in Art Education Programme here - [here(.pdf, 124.92 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/programmes/adv-diploma-in-art-teaching_course-outline.pdf?sfvrsn=d8e47c9f_2 "here").
+Read more about the course outline of the Advanced Diploma in Art Education Programme here -&nbsp;[here(.pdf, 124.92 KB)](/files/adv-diploma-in-art-teaching_course-outline.pdf).
 
-Applicants of the Advanced Diploma Programme are required to attend a portfolio interview with NIE. Details of the portfolio interview requirements can be found [here(.pdf, 452.31 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/programmes/adv-dip-in-pri-art-education-2019_portfolio-requirement.pdf?sfvrsn=af8bb4d1_2 "here").
+Applicants of the Advanced Diploma Programme are required to attend a portfolio interview with NIE. Details of the portfolio interview requirements can be found&nbsp;[here(.pdf, 452.31 KB)](/files/2adv-dip-in-pri-art-education-2019_portfolio-requirement.pdf).
 
-For enquiries on the Advanced Diploma, kindly contact STAR at [MOE\_STAR@moe.gov.sg](mailto:MOE_STAR@moe.gov.sg).
+For enquiries on the Advanced Diploma, kindly contact STAR at&nbsp;[MOE\_STAR@moe.gov.sg](mailto:MOE_STAR@moe.gov.sg).
 
 MOE collaborates with the National Institute of Education (NIE) to offer the full-time in-service Advanced Diploma in Primary Art Education for teachers without the requisite qualifications to teach the subject. This is aligned with MOE's aim of enhancing the quality of art instruction in primary schools.
