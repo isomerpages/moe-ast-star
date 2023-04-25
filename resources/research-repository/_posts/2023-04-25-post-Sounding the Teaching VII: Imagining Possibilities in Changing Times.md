@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Sounding the Teaching VII: Imagining Possibilities in Changing Times**
+Sounding the Teaching VII: Imagining Possibilities in Changing Times
 
 ![](images/sttvii.png)
 
