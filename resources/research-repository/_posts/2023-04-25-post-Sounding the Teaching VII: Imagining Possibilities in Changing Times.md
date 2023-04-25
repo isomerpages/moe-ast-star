@@ -18,11 +18,11 @@ Through the CI NLC, teachers exercised adaptability, creativity, and criticality
 
 Their teaching approaches and findings are presented according to the six SkillsFuture for Educators (SFEd) areas:
 
-1.  Social and Emotional Learning
-2.  Assessment for Learning
-3.  Differentiated Instruction
-4.  e-Pedagogy
-5.  Inquiry-Based Learning
-6.  Supporting Students with Special Education Needs
+1.&nbsp; Social and Emotional Learning <br>
+2.&nbsp; Assessment for Learning <br>
+3.&nbsp; Differentiated Instruction <br>
+4.&nbsp; e-Pedagogy <br>
+5.&nbsp; Inquiry-Based Learning <br>
+6.&nbsp; Supporting Students with Special Education Needs
 
-Please click [here](https://joom.ag/Cy8d) to view the e-publication.
+Please click&nbsp;[here](https://joom.ag/Cy8d)&nbsp;to view the e-publication.
