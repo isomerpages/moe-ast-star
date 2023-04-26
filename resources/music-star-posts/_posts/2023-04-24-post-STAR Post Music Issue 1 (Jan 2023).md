@@ -1,6 +1,6 @@
 ---
 title: STAR Post Music Issue 1 (Jan 2023)
-permalink: /resources/music-star-posts/permalink/
+permalink: /music-star-post/music/issue-1-jan-2023/
 date: 2023-04-24
 layout: post
 description: ""

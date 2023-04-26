@@ -1,6 +1,6 @@
 ---
 title: "Sounding the Teaching VII: Imagining Possibilities in Changing Times"
-permalink: /resources/research-repository/permalink/
+permalink: /resources/research-repository/sounding-the-teaching-vii/
 date: 2023-04-25
 layout: post
 description: ""
@@ -8,7 +8,7 @@ image: ""
 ---
 Sounding the Teaching VII: Imagining Possibilities in Changing Times
 
-![](images/sttvii.png)
+![](/images/sttvii.png)
 
 This e-publication features 20 studies conducted by teachers from STAR’s Music Critical Inquiry Networked Learning Community (CI NLC).
 
