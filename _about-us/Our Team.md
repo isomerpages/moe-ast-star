@@ -40,8 +40,8 @@ description: ""
   <tr>
     <td class="tg-0lax"><img src="/images/irawati.jpg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/ira-wati">Ira Wati Binte Sukaimi</a><br><b>Master Teacher (Art)</b><br><a href="mailto:Ira_Wati_Sukaimi@moe.gov.sg">Ira_Wati_Sukaimi@moe.gov.sg</a></p></td>
-		<td class="tg-0lax"><img src="/images/star_siewling.jpg" style="width:350px"></td>
-    <td class="tg-0lax"><p><a href="/team-profiles/chua-siew-ling">Chua Siew Ling</a><br><b>Principal Master Teacher (Music)</b><br><a href="mailto:Chua_Siew_Ling@moe.gov.sg">Chua_Siew_Ling@moe.gov.sg</a></p></td>
+		<td class="tg-0lax"><img src="/images/wei%20hou.jpg" style="width:350px"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/chia-wei-hou">Chia Wei Hou</a><br><b>Master Teacher (Art)</b><br><a href="mailto:Chia_Wei_Hou@moe.gov.sg">Chia_Wei_Hou@moe.gov.sg</a></p></td>
 		</tr>
     <tr>
     <td class="tg-0lax"><img src="/images/star_siewling.jpg" style="width:350px"></td>
@@ -84,4 +84,3 @@ description: ""
 		<td class="tg-0lax"><img src="/images/surinder.jpg" style="width:350px">
 </td>
 		<td class="tg-0lax"><p><a href="/team-profiles/surinder-kaur">Surinder Kaur</a><br><b>Senior Administrative Executive</b><br><a href="mailto:Surinder_Kaur@moe.gov.sg">Surinder_Kaur@moe.gov.sg</a></p></td></tr></tbody></table>
-    
