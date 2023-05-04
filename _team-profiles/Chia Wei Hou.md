@@ -1,9 +1,9 @@
 ---
 title: Chia Wei Hou
-permalink: /team-profiles/permalink/
+permalink: /team-profiles/chia-wei-hou/
 description: ""
 ---
-![](/images/wei%20hou.jpg)
+_<img src="/images/wei%20hou.jpg" style="width:45%">_
 
 Mr Chia Wei Hou is driven by a firm and fervor belief that art education can shape students’ lives in many positive and resounding ways—that had been his reason to become an Art teacher since 1999.
 
