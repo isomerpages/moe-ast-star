@@ -14,7 +14,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax"><img src="/images/cliffard.jpg" style="width:350px"></th>
+    <th class="tg-0lax"><img src="/images/Profile%20Pictures/cliffard.jpg" style="width:350px"></th>
     <th class="tg-0lax"><p><a href="/team-profiles/clifford-chua">Clifford Chua</a><br><b>Academy Principal</b><br><a href="mailto:Clifford_chua@moe.gov.sg">Clifford_chua@moe.gov.sg</a></p>
 </th>
     <th class="tg-0lax"><img src="/images/mdmang.jpg" style="width:350px"></th>
@@ -33,7 +33,7 @@ description: ""
     <td class="tg-0lax"><img src="/images/kokboon.jpg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/lim-kok-boon">Lim Kok Boon</a><br><b>
 			Master Teacher (Art)</b><br><a href="mailto:Lim_Kok_Boon@moe.gov.sg">Lim_Kok_Boon@moe.gov.sg</a></p></td>
-    <td class="tg-0lax"><img src="/images/chunweesan.jpg" style="width:350px"></td>
+    <td class="tg-0lax"><img src="/images/Profile%20Pictures/chunweesan.jpg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/chun-wee-san">Chun Wee San</a><br><b>
 			Master Teacher (Art)</b><br><a href="mailto:Chun_Wee_San@moe.gov.sg">Chun_Wee_San@moe.gov.sg</a></p></td>
   </tr>
@@ -74,7 +74,7 @@ description: ""
   <tr>
     <td class="tg-0lax"><img src="/images/melissa.jpeg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/melissa">Melissa Ong</a><br><b>Academy Officer (Music)</b><br><a href="mailto:Melissa_Ong@moe.gov.sg">Melissa_Ong@moe.gov.sg</a></p></td>
-    <td class="tg-0lax"><img src="/images/beengoh.jpg" style="width:350px">
+    <td class="tg-0lax"><img src="/images/Profile%20Pictures/beengoh.jpg" style="width:350px">
 </td>
     <td class="tg-0lax"><p><a href="/team-profiles/tan-bee-ngoh">Tan Bee Ngoh</a><br><b>Senior Administrative Executive</b><br><a href="mailto:Tan_Bee_Ngoh@moe.gov.sg">Tan_Bee_Ngoh@moe.gov.sg</a></p></td>
   </tr>
