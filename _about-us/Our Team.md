@@ -20,8 +20,6 @@ description: ""
     <th class="tg-0lax"><img src="/images/mdmang.jpg" style="width:350px"></th>
     <th class="tg-0lax"><p><a href="/team-profiles/ang-hwee-loo">Ang Hwee Loo</a><br><b>Deputy Director (Art)</b><br><a href="mailto:ang_hwee_loo@moe.gov.sg">ang_hwee_loo@moe.gov.sg</a></p></th>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td class="tg-0lax"><img src="/images/susanna.jpg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/susanna-chau">Susanna Chau</a><br><b>Deputy Director (Music)</b>
@@ -83,4 +81,4 @@ description: ""
     <td class="tg-0lax"><p><a href="/team-profiles/tan-bee-ngoh">Tan Bee Ngoh</a><br><b>Senior Administrative Executive</b><br><a href="mailto:Tan_Bee_Ngoh@moe.gov.sg">Tan_Bee_Ngoh@moe.gov.sg</a></p></td>
 		<td class="tg-0lax"><img src="/images/surinder.jpg" style="width:350px">
 </td>
-		<td class="tg-0lax"><p><a href="/team-profiles/surinder-kaur">Surinder Kaur</a><br><b>Senior Administrative Executive</b><br><a href="mailto:Surinder_Kaur@moe.gov.sg">Surinder_Kaur@moe.gov.sg</a></p></td></tr></tbody></table>
+		<td class="tg-0lax"><p><a href="/team-profiles/surinder-kaur">Surinder Kaur</a><br><b>Senior Administrative Executive</b><br><a href="mailto:Surinder_Kaur@moe.gov.sg">Surinder_Kaur@moe.gov.sg</a></p></td></tr></thead></table>
