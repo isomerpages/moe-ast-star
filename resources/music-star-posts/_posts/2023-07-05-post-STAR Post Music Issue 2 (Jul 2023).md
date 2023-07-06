@@ -1,10 +1,11 @@
 ---
 title: STAR Post Music Issue 2 (Jul 2023)
-permalink: /resources/music-star-posts/permalink/
+permalink: /resources/music-star-posts/issue-2-jul-2023/
 date: 2023-07-05
 layout: post
 description: ""
-image: ""
+image: "/images/Publications/STAR POST (Music)/star-post (music): issue 2 (jul
+  2023).PNG"
 ---
 ![](/images/Publications/STAR%20POST%20(Music)/star-post%20(music):%20issue%202%20(jul%202023).PNG)
 
