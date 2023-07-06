@@ -9,4 +9,4 @@ image: ""
 **STAR-Post (Art): ARTogether: Ignites, Empowers, Transforms** features the exciting highlights of the Teachers' Conference and ExCEL Fest 2023. Be inspired by the reflections and key learning points gleaned from the conference. Witness the power of coming together as a fraternity to ignite imagination, empower communities and transform practice.
 
 
-[EBook](go.gov.sg/spartjul23)
+[EBook Link](go.gov.sg/spartjul23)
