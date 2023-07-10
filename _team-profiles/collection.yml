@@ -2,7 +2,6 @@ collections:
   team-profiles:
     output: true
     order:
-      - Leong Su Juen.md
       - Clifford Chua.md
       - Ang Hwee Loo.md
       - Susanna Chau.md
@@ -21,5 +20,6 @@ collections:
       - Marianne Woo.md
       - Matthew Chan.md
       - Melissa Ong.md
+      - Leong Su Juen.md
       - Tan Bee Ngoh.md
       - Surinder Kaur.md
