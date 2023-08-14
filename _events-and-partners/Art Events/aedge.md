@@ -12,7 +12,7 @@ _(Footnote: )_
 
 1 aedge is the acronym for Art Educators’ Developmental and Generative Explorations.
 
-## [aedge 2022](/aedge-2021/)
+## [aedge 2022](/aedge-2022/)
 
 ## [aedge 2021](/aedge-2021/)
 
