@@ -8,8 +8,8 @@ image: ""
 ---
 ![](/images/star-post-music-jan-2021-cover.jpg)
 
-**STAR-Post Music Issue 2 / 2021**
+**STAR-Post Music Issue 1 / 2021**
 
-Creating Effective Videos for Teaching
+Arts for the Future: Imagining Possibilities
 
-[Ebook link](https://joom.ag/SVZI)
+[Ebook link](https://joom.ag/GmiI)
