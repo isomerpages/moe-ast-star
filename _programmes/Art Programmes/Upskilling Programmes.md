@@ -16,7 +16,7 @@ The Art Teacher Practitioner Programme (ATPP) serves as a bridging course to hel
 <img style="width:80%" src="/images/artupskillingprogramme_1.png">
 
 The ATPP programme includes the following components:
-*   Choice or 2 cross-listed Studio-based Supporting Programmes - (afternoons across April toll August 2024)
+*   Choice of 2 cross-listed Studio-based Supporting Programmes - (afternoons across April till August 2024)
 *   Pedagogies in art education
 *   Lesson observations (Including post-lesson conferencing)
 *   Portfolio Presentation and Assessment
