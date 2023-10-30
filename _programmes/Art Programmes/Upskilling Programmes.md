@@ -9,24 +9,23 @@ Upskilling programmes aim to level up the pedagogical knowledge and skills, as w
 ### Art Teacher Practitioner Programme
 
 **FOR**: Primary school English medium teachers without subject proficiency in art and Primary school teachers who are interested to teach art and will be deployed in the long run.  
-**PERIOD**: Part-time basis over the course of 6 months, culminating in an art exhibition.  
+**PERIOD**: Part-time basis over the course of 6 months.  
   
 The Art Teacher Practitioner Programme (ATPP) serves as a bridging course to help participants build up their art competencies and art teaching portfolio, in preparation for the NIE Advanced Diploma in Primary Art Education course.
 
 <img style="width:80%" src="/images/artupskillingprogramme_1.png">
 
 The ATPP programme includes the following components:
-* 3 full-day introductory course
-*   Studio fundamentals - Art materials and artistic processes (Friday afternoons)
+*   Choice or 2 cross-listed Studio-based Supporting Programmes - (afternoons across April toll August 2024)
 *   Pedagogies in art education
 *   Lesson observations (Including post-lesson conferencing)
-*   Art exhibition
+*   Portfolio Presentation and Assessment
 <br>
-Upon successful completion of the ATPP and clearance of the National Institute of Education (NIE) interview, participants will pursue the 4-month full-time Advanced Diploma in Primary Art Education at NIE to become a qualified art teacher.
+Upon successful completion of the ATPP participants will become a qualified SP3 Art teacher.
 
 ### Advanced Diploma in Primary Art Education
 
-**For**:&nbsp;Graduates of the ATPP and SP3 Art Teachers  
+**For**:&nbsp;Graduates of the ATPP and SP3 Art teachers  
 **Period**: Full time over the course of 4 months  
 
 The programme is designed to build on the knowledge and skills of teachers who were trained to teach art as a third subject, and equips them with the essential breadth and depth of content knowledge and competencies to deliver quality art lessons to students.
