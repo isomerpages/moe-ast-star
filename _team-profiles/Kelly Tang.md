@@ -2,8 +2,9 @@
 title: Kelly Tang
 permalink: /team-profiles/kelly-tang/
 description: ""
+variant: markdown
 ---
-![](/images/kelly%20tang.png)
+![](/images/Profile%20Pictures/13.png)
 
 Kelly Tang's compositions have been performed by world-renowned ensembles such as the Russian National Orchestra, Nagoya Philharmonic Orchestra, Ensemble Contemporain of Montreal and Warsaw Philharmonic Orchestra. His wind band works have been performed by Band of Her Majesty’s Royal Marines (UK) and "The President's Own" United States Marine Band.  
    
