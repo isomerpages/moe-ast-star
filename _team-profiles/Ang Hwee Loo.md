@@ -2,8 +2,9 @@
 title: Ang Hwee Loo
 permalink: /team-profiles/ang-hwee-loo/
 description: ""
+variant: markdown
 ---
-![](/images/ang%20hwee%20loo.png)
+![](/images/Profile%20Pictures/3.png)
 
 Mdm Ang Hwee Loo had served a few stints in MOE HQ; in the Curriculum Planning & Development Division as an Art Specialist (1999-2003) and in the Student Development Curriculum Division, Arts Education Branch (2012-2014), where she was involved in the pioneering work of setting up a new branch overseeing Visual Arts, Music, Dance and Drama Education in the schools.  Upon completion of her Leaders in Education Programme (2010) and her Masters in Curriculum and Teaching & Learning (2014-2015), she was posted to Rulang Primary School as a Vice-Principal.  
   
