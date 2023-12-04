@@ -2,9 +2,9 @@
 title: Ira Wati Binte Sukaimi
 permalink: /team-profiles/ira-wati/
 description: ""
+variant: markdown
 ---
-
-![](/images/ira%20wati.png)
+![](/images/Profile%20Pictures/7.png)
 
 A passionate educator and a strong advocate for the visual arts, Mdm Ira Wati Binte Sukaimi believes that the quality of an education system cannot exceed the quality of its teachers. As such, she constantly strives to improve the collective efficacy of the fraternity through effective and relevant PD. For her work in professional development of teachers, she was conferred Fellow of the Academy of Singapore Teachers in 2017.   
   
