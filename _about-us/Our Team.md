@@ -68,7 +68,6 @@ variant: markdown
     <td class="tg-0lax"><p><a href="/team-profiles/marianne-woo">Felicia Toh</a><br><b>Senior Academy Officer (Music)</b><br><a href="mailto:Felicia_TOH@moe.gov.sg">Felicia_TOH@moe.gov.sg</a></p></td>
    		 <td class="tg-0lax"><img src="/images/melissa.jpeg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/melissa">Melissa Ong</a><br><b>Academy Officer (Music)</b><br><a href="mailto:Melissa_Ong@moe.gov.sg">Melissa_ONG@moe.gov.sg</a></p></td>
-			
 	</tr>
 	<tr>
        <td class="tg-0lax"><img src="/images/Profile%20Pictures/Music%20Unit/sjprofilepic_small.png" style="width:350px">
