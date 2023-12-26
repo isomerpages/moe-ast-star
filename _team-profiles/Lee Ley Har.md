@@ -4,7 +4,7 @@ permalink: /team-profiles/lee-ley-har/
 description: ""
 variant: markdown
 ---
-![](/images/Profile%20Pictures/4.png)
+![](/images/Ley_Har_Banner.png)
 
 Prior to Joining AST, Ms Lee Ley Har held the role of Vice-Principal at Kong Hwa School for a period of 3 years. Her professional journey started as an educator at Damai Secondary School, where she taught both Music and Mathematics. Throughout her years at Damai Secondary School, she took on responsibilities ranging from her role as Subject Head CME to Head of Department PE, Aesthetics, & CCA and Head of Department CCE.
 
