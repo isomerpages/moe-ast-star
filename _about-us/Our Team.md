@@ -23,7 +23,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/Ley_Har.jpg" style="width:350px"></td>
-    <td class="tg-0lax"><p><a href="/team-profiles/susanna-chau">Lee Ley Har</a><br><b>Deputy Director (Music)</b>
+    <td class="tg-0lax"><p><a href="/team-profiles/lee-ley-har/">Lee Ley Har</a><br><b>Deputy Director (Music)</b>
 <br><a href="mailto:LEE_Ley_Har@moe.gov.sg">LEE_Ley_Har@moe.gov.sg</a></p></td>
     <td class="tg-0lax"><img src="/images/victoria.jpg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/victoria-loy">Victoria Loy</a><br><b>Master Teacher (Art)</b><br><a href="mailto:Victoria_Loy@moe.gov.sg">Victoria_LOY@moe.gov.sg</a></p></td>
