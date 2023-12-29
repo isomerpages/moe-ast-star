@@ -19,7 +19,7 @@ variant: markdown
     <th class="tg-0lax"><p><a href="/team-profiles/clifford-chua">Clifford Chua</a><br><b>Academy Principal</b><br><a href="mailto:Clifford_chua@moe.gov.sg">Clifford_CHUA@moe.gov.sg</a></p>
 </th>
     <th class="tg-0lax"><img src="/images/Zi_Rui.jpg" style="width:350px"></th>
-    <th class="tg-0lax"><p><a href="/team-profiles/ang-hwee-loo">Han Zi Rui</a><br><b>Deputy Director (Art)</b><br><a href="mailto:HAN_Zi_Rui@moe.gov.sg">HAN_Zi_Rui@moe.gov.sg</a></p></th>
+    <th class="tg-0lax"><p><a href="/team-profiles/han-zi-rui/">Han Zi Rui</a><br><b>Deputy Director (Art)</b><br><a href="mailto:HAN_Zi_Rui@moe.gov.sg">HAN_Zi_Rui@moe.gov.sg</a></p></th>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/Ley_Har.jpg" style="width:350px"></td>
@@ -65,7 +65,7 @@ variant: markdown
 	</tr>
 		<tr>
 		 <td class="tg-0lax"><img src="/images/Felicia.jpg" style="width:350px"></td>
-    <td class="tg-0lax"><p><a href="/team-profiles/marianne-woo">Felicia Toh</a><br><b>Senior Academy Officer (Music)</b><br><a href="mailto:TOH_Sze_Hui@moe.gov.sg">TOH_Sze_Hui@moe.gov.sg</a></p></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/felicia-toh/">Felicia Toh</a><br><b>Senior Academy Officer (Music)</b><br><a href="mailto:TOH_Sze_Hui@moe.gov.sg">TOH_Sze_Hui@moe.gov.sg</a></p></td>
    		 <td class="tg-0lax"><img src="/images/melissa.jpeg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/melissa">Melissa Ong</a><br><b>Academy Officer (Music)</b><br><a href="mailto:Melissa_Ong@moe.gov.sg">Melissa_ONG@moe.gov.sg</a></p></td>
 	</tr>
