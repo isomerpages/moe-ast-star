@@ -64,14 +64,18 @@ variant: markdown
     <td class="tg-0lax"><p><a href="/team-profiles/rafeeza-khaliq">Rafeeza Khaliq</a><br><b>Academy Officer (Art)</b><br><a href="mailto:rafeeza_KHALIQ@moe.gov.sg">rafeeza_KHALIQ@moe.gov.sg</a></p></td>
 	</tr>
 		<tr>
+					 <td class="tg-0lax"><img src="/images/Silvia.jpg" style="width:350px"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/silvia/">Silvia Lim</a><br><b>Academy Officer (Art)</b><br><a href="mailto:Silvia_LIM@moe.gov.sg">Silvia_LIM@moe.gov.sg</a></p></td>	
 		 <td class="tg-0lax"><img src="/images/Felicia.jpg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/felicia-toh/">Felicia Toh</a><br><b>Senior Academy Officer (Music)</b><br><a href="mailto:TOH_Sze_Hui@moe.gov.sg">TOH_Sze_Hui@moe.gov.sg</a></p></td>
-   		 <td class="tg-0lax"><img src="/images/melissa.jpeg" style="width:350px"></td>
-    <td class="tg-0lax"><p><a href="/team-profiles/melissa">Melissa Ong</a><br><b>Academy Officer (Music)</b><br><a href="mailto:Melissa_Ong@moe.gov.sg">Melissa_ONG@moe.gov.sg</a></p></td>
 	</tr>
 	<tr>
+   		 <td class="tg-0lax"><img src="/images/melissa.jpeg" style="width:350px"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/melissa">Melissa Ong</a><br><b>Academy Officer (Music)</b><br><a href="mailto:Melissa_Ong@moe.gov.sg">Melissa_ONG@moe.gov.sg</a></p></td>
        <td class="tg-0lax"><img src="/images/Profile%20Pictures/Music%20Unit/sjprofilepic_small.png" style="width:350px">
 			    </td><td class="tg-0lax"><p><a href="/team-profiles/leongsujuen">Leong Su Juen </a><br><b>Academy Officer (Music)</b><br><a href="mailto:leong_su_juen@moe.gov.sg">LEONG_Su_Juen@moe.gov.sg</a></p></td>
+	</tr>
+	<tr>
 		<td class="tg-0lax"><img src="/images/surinder.jpg" style="width:350px">
 		</td><td class="tg-0lax"><p><a href="/team-profiles/surinder-kaur">Surinder Kaur</a><br><b>Senior Administrative Executive</b><br><a href="mailto:Surinder_Kaur@moe.gov.sg">Surinder_KAUR@moe.gov.sg</a></p></td>
 	</tr></thead></table>
