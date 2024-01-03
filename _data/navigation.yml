@@ -1,0 +1,12 @@
+logo: /images/logo2.png
+links:
+  - title: About US
+    collection: about-us
+  - title: Programmes
+    collection: programmes
+  - title: Learning Communities
+    collection: learning-communities
+  - title: Events & Partners
+    collection: events-and-partners
+  - title: resources
+    resource_room: true
