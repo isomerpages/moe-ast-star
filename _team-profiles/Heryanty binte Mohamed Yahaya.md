@@ -4,6 +4,8 @@ permalink: /team-profiles/heryanty/
 description: ""
 variant: markdown
 ---
-![](/images/Profile%20Pictures/15.png)
+![](/images/Silvia_Banner.png)
 
-Heryanty believes that Art educators pave the way for students’ growth in critical thinking and verbal skills by challenging students with different points of view to be reflective learners. She also believes that Art education can connect people across disciplines more deeply and open them up to new ways of seeing. She maintains that a strong Art programme in school can level up social gaps for all students. Prior to joining STAR, she was the Head of Department for Aesthetics in Yio Chu Kang Primary School where she led the school’s Learning for Life Programme to enable every child a more level playing field - developing students into confident and self-directed learners through a myriad of Arts experiences; and active contributors and concerned citizens through community engagement in the Arts.
+Silvia brings nine years of valuable teaching experience from Qifa Primary School, where she advocates for a "play to learn" approach, creating an engaging environment for her students. With a passion for Art Pedagogy, she actively explores innovative methods to elevate the impact of Art Education. Silvia's teaching philosophy centres on a deep belief in the boundless imagination of children, fascinated by how it evolves as they grow. She advocates for making Art universally accessible, viewing it as a potent tool for self-expression.
+
+Beyond teaching, Silvia discovers joy in pottery and leatherwork, extending her artistic exploration outside the classroom. These activities serve as personal outlets and contribute to her continuous understanding of diverse creative mediums. In her free time, Silvia practises bouldering.She finds bouldering particularly invigorating, recognizing how it not only challenges the body but also stimulates the mind. Excited about joining AST, Silvia looks forward to sharing her passion and extensive experience, aligning with the academy's commitment to innovative Art Education.
