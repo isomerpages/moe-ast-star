@@ -7,7 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-![](/images/starpost%20cover_jan%202023.png)
-**STAR-Post (Art): Growing as a Teacher Leader** features some of our art teachers' journeys and insights as teacher leaders. What inspires them in their work and what keeps them going when the going gets tough? Be encouraged by their stories as they shared in candid, their personal convictions and commitment in growing teachers.
-
-[EBook Link](https://go.gov.sg/spartjan23)
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/starpost%20cover_jan%202023.png"></div><p><strong>STAR-Post (Art): Growing as a Teacher Leader</strong>&nbsp;features some of our art teachers' journeys and insights as teacher leaders. What inspires them in their work and what keeps them going when the going gets tough? Be encouraged by their stories as they shared in candid, their personal convictions and commitment in growing teachers.</p><p><a href="https://go.gov.sg/spartjan23" rel="noopener noreferrer nofollow" target="_blank">EBook Link</a></p>
