@@ -1,6 +1,6 @@
 ---
 title: STAR Post Art Issue 1 Jan 2024
-permalink: /resources/art-star-posts/permalink/
+permalink: /resources/art-star-posts/art-issue-1-jan-2024/
 date: 2024-01-09
 layout: post
 description: ""
