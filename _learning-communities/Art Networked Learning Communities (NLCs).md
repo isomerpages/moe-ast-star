@@ -1,7 +1,8 @@
 ---
-title: Art Network Learning Communities (NLCs)
-permalink: /learning-communities/art-network-learning-communities/
+title: Art Networked Learning Communities (NLCs)
+permalink: /learning-communities/art-networked-learning-communities/
 description: ""
+variant: tiptap
 ---
 Networked Learning Communities (NLCs) are small learning groups where like-minded Art teachers from different schools meet to collaborate, share and improve on their practice. Group size for the NLCs ranges from 10 to 30.  
 
