@@ -43,7 +43,7 @@ variant: markdown
     <td class="tg-0lax"><p><a href="/team-profiles/chia-wei-hou">Chia Wei Hou</a><br><b>Master Teacher (Art)</b><br><a href="mailto:Chia_Wei_Hou@moe.gov.sg">CHIA_Wei_Hou@moe.gov.sg</a></p></td>
 		</tr>
     <tr>
-		<td class="tg-0lax"><img src="/images/irawati.jpg" style="width:350px"></td>
+		<td class="tg-0lax"><img src="/images/aiwee.jpg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/ira-wati">Seow Ai Wee</a><br><b>Master Teacher (Art)</b><br><a href="mailto:Seow_Ai_Wee@moe.gov.sg">SEOW_Ai_Wee@moe.gov.sg</a></p></td>
 		<td class="tg-0lax"><img src="/images/star_siewling.jpg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/chua-siew-ling">Chua Siew Ling</a><br><b>Principal Master Teacher (Music)</b><br><a href="mailto:Chua_Siew_Ling@moe.gov.sg">CHUA_Siew_Ling@moe.gov.sg</a></p></td>
