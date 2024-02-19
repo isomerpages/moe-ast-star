@@ -54,7 +54,7 @@ variant: markdown
 	Master Teacher (Music)</b><br><a href="mailto:Chan_Yen_See@moe.gov.sg">CHAN_Yen_See@moe.gov.sg</a></p><br>
 </td>
    <td class="tg-0lax"><img src="/images/suriati.jpg" style="width:350px"></td>
-    <td class="tg-0lax"><p><a href="/team-profiles/suriati">Suriati Bte SURADI</a><br><b>Master Teacher (Music)</b><br><a href="mailto:Suriati_Suradi@moe.gov.sg">Suriati_Suradi@moe.gov.sg</a></p></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/suriati">Suriati Bte SuradiI</a><br><b>Master Teacher (Music)</b><br><a href="mailto:Suriati_Suradi@moe.gov.sg">Suriati_Suradi@moe.gov.sg</a></p></td>
 			</tr>
     <tr>
 		<td class="tg-0lax"><img src="/images/kellytang.jpg" style="width:350px"></td>
