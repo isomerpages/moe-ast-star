@@ -43,39 +43,41 @@ variant: markdown
     <td class="tg-0lax"><p><a href="/team-profiles/chia-wei-hou">Chia Wei Hou</a><br><b>Master Teacher (Art)</b><br><a href="mailto:Chia_Wei_Hou@moe.gov.sg">CHIA_Wei_Hou@moe.gov.sg</a></p></td>
 		</tr>
     <tr>
-    <td class="tg-0lax"><img src="/images/star_siewling.jpg" style="width:350px"></td>
+		<td class="tg-0lax"><img src="/images/irawati.jpg" style="width:350px"></td>
+    <td class="tg-0lax"><p><a href="/team-profiles/ira-wati">Seow Ai Wee</a><br><b>Master Teacher (Art)</b><br><a href="mailto:Seow_Ai_Wee@moe.gov.sg">SEOW_Ai_Wee@moe.gov.sg</a></p></td>
+		<td class="tg-0lax"><img src="/images/star_siewling.jpg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/chua-siew-ling">Chua Siew Ling</a><br><b>Principal Master Teacher (Music)</b><br><a href="mailto:Chua_Siew_Ling@moe.gov.sg">CHUA_Siew_Ling@moe.gov.sg</a></p></td>
+			</tr>
+    <tr>
 			<td class="tg-0lax"><img src="/images/yensee.jpg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/li-yen-see">Li Yen See</a><br><b>
 	Master Teacher (Music)</b><br><a href="mailto:Chan_Yen_See@moe.gov.sg">CHAN_Yen_See@moe.gov.sg</a></p><br>
 </td>
-  </tr>
-  <tr>
-        <td class="tg-0lax"><img src="/images/suriati.jpg" style="width:350px"></td>
+   <td class="tg-0lax"><img src="/images/suriati.jpg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/suriati">Suriati Bte SURADI</a><br><b>Master Teacher (Music)</b><br><a href="mailto:Suriati_Suradi@moe.gov.sg">Suriati_Suradi@moe.gov.sg</a></p></td>
+			</tr>
+    <tr>
 		<td class="tg-0lax"><img src="/images/kellytang.jpg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/kelly-tang">Kelly Tang</a><br><b>
 	Master Teacher (Music)</b><br><a href="mailto:Kelly_Tang@moe.gov.sg">Kelly_TANG@moe.gov.sg</a></p></td>
-  </tr>
-  <tr>
-        <td class="tg-0lax"><img src="/images/vivian-loh-3_final.jpg" style="width:350px"></td>
+    <td class="tg-0lax"><img src="/images/vivian-loh-3_final.jpg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/vivian-loh">Vivian Loh Lai Kuen</a><br><b>Senior Academy Officer (Art)</b><br><a href="mailto:Vivian_LOH@moe.gov.sg">Vivian_LOH@moe.gov.sg</a></p></td>
+			</tr>
+    <tr>
         <td class="tg-0lax"><img src="/images/feeza_star.jpg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/rafeeza-khaliq">Rafeeza Khaliq</a><br><b>Academy Officer (Art)</b><br><a href="mailto:rafeeza_KHALIQ@moe.gov.sg">rafeeza_KHALIQ@moe.gov.sg</a></p></td>
-	</tr>
-		<tr>
-					 <td class="tg-0lax"><img src="/images/Silvia.jpg" style="width:350px"></td>
+				 <td class="tg-0lax"><img src="/images/Silvia.jpg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/silvia/">Silvia Lim</a><br><b>Academy Officer (Art)</b><br><a href="mailto:Silvia_LIM@moe.gov.sg">Silvia_LIM@moe.gov.sg</a></p></td>	
+			</tr>
+    <tr>
 		 <td class="tg-0lax"><img src="/images/Felicia.jpg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/felicia-toh/">Felicia Toh</a><br><b>Senior Academy Officer (Music)</b><br><a href="mailto:TOH_Sze_Hui@moe.gov.sg">TOH_Sze_Hui@moe.gov.sg</a></p></td>
-	</tr>
-	<tr>
-   		 <td class="tg-0lax"><img src="/images/melissa.jpeg" style="width:350px"></td>
+		 <td class="tg-0lax"><img src="/images/melissa.jpeg" style="width:350px"></td>
     <td class="tg-0lax"><p><a href="/team-profiles/melissa">Melissa Ong</a><br><b>Academy Officer (Music)</b><br><a href="mailto:Melissa_Ong@moe.gov.sg">Melissa_ONG@moe.gov.sg</a></p></td>
+			</tr>
+    <tr>
        <td class="tg-0lax"><img src="/images/Profile%20Pictures/Music%20Unit/sjprofilepic_small.png" style="width:350px">
 			    </td><td class="tg-0lax"><p><a href="/team-profiles/leongsujuen">Leong Su Juen </a><br><b>Academy Officer (Music)</b><br><a href="mailto:leong_su_juen@moe.gov.sg">LEONG_Su_Juen@moe.gov.sg</a></p></td>
-	</tr>
-	<tr>
 		<td class="tg-0lax"><img src="/images/surinder.jpg" style="width:350px">
 		</td><td class="tg-0lax"><p><a href="/team-profiles/surinder-kaur">Surinder Kaur</a><br><b>Senior Administrative Executive</b><br><a href="mailto:Surinder_Kaur@moe.gov.sg">Surinder_KAUR@moe.gov.sg</a></p></td>
 	</tr></thead></table>
