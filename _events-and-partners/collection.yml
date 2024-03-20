@@ -2,13 +2,13 @@ collections:
   events-and-partners:
     output: true
     order:
+      - TCEF/.keep
+      - TCEF/TCEF2023.md
       - Art Education Conference (AEC)/.keep
       - Art Education Conference (AEC)/10 Nov 2020.md
       - Art Education Conference (AEC)/14 Nov 2018.md
       - Art Education Conference (AEC)/12 Oct 2016.md
       - Art Education Conference (AEC)/17 Jul 2013.md
-      - TCEF/.keep
-      - TCEF/TCEF2023.md
       - Art Events/.keep
       - Art Events/Art Events.md
       - Art Events/aedge.md
