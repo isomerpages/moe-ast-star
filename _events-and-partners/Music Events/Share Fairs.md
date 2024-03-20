@@ -3,8 +3,8 @@ title: Share Fairs
 permalink: /events-and-partners/music-events/share-fairs/
 description: ""
 third_nav_title: Music Events
+variant: markdown
 ---
-
 ![5.3.3 Share Fair 2](/images/5-3-3-share-fair-2.jpg)
 
 **Engaging With Songs (EWS) Share Fair**
