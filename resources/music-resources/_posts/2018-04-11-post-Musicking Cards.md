@@ -26,4 +26,4 @@ about their musical ideas and develop richer musical understandings in
 relation to the learning objectives of the respective music syllabuses.</p>
 <p></p>
 <p>Please click <a href="https://drive.google.com/drive/folders/1UqBfeuRBxKJyD3ks2x0Ekh_pK2h1tsYq?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-access the Musicking Cards resource (sign in to MOE iCON email required).</p>
+access the Musicking Cards resource (sign in using MOE iCON email is required).</p>
