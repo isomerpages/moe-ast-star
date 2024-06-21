@@ -7,7 +7,8 @@ variant: markdown
 ---
 ## aedge: Art Educators’ Developmental and Generative Explorations
 
-![](/images/aedge%202024%20open%20call.png)
+
+| ![](/images/aedge2024_1.png)| ![](/images/aedge2024_2.png)
 
 ##### Visit past exhibitions:
 
