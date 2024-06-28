@@ -109,4 +109,4 @@ The Dalcroze Approach - eurhythmics, solfège and improvisation - is an effectiv
   
 The programme focuses on eurhythmics and improvisation to facilitate learning of music concepts in the student-centric classroom, and involves teachers in group micro-teaching to apply their pedagogical learning.  
   
-You could find out more about each of these music-specific pedagogies in STAR’s publication&nbsp;[](https://www.star.moe.edu.sg/resources/star-post-music)[Providing a Rich Music Learning Experience](https://star.moe.edu.sg/resources/music-resources/providing-a-rich-music-learning-experience/).
+You could find out more about each of these music-specific pedagogies in STAR’s publication [Providing a Rich Music Learning Experience](https://star.moe.edu.sg/resources/music-resources/providing-a-rich-music-learning-experience/).
