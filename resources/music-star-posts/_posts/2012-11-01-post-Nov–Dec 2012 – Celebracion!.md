@@ -5,12 +5,10 @@ date: 2012-11-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-<img src="/images/wf.png" 
-     style="width:50%">
+<img src="/images/wf.png" style="width:50%">
 		 
 Nov-Dec 2012 - Celebracion!
 
-[PDF link](/files/967707fba_u7526.pdf)
-
-[Link](https://www.star.moe.edu.sg/star/slot/resource_star/pf01/967707fba_u7526.pdf)
+[PDF](/files/967707fba_u7526.pdf)
