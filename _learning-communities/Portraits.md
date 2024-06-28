@@ -2,6 +2,7 @@
 title: Portraits
 permalink: /learning-communities/portraits/
 description: ""
+variant: markdown
 ---
 Portraits presents the personal stories of our art and music educators. Each volume features the individual journeys of various art and music educators, as well as the unique roles that they play in nurturing their students.
 
@@ -10,7 +11,7 @@ Portraits presents the personal stories of our art and music educators. Each vol
 
 ![4.5 Portraits 3](/images/45portraits3.jpg)
 
-PORTRAITS III: Narratives of Singapore Arts Educators which was launched at [Arts Education Conference 2018](https://www.aec2018.sg/) on 8 November 2018, continues to thread insights into what makes our Singapore arts educator. Their beliefs guide their practice in the art and music classroom, and their individual journeys form the collective identity of the art and music teaching fraternity. 
+PORTRAITS III: Narratives of Singapore Arts Educators which was launched at [Arts Education Conference 2018](https://star.moe.edu.sg/events-and-partners/art-education-conference-aec/14-nov/) on 8 November 2018, continues to thread insights into what makes our Singapore arts educator. Their beliefs guide their practice in the art and music classroom, and their individual journeys form the collective identity of the art and music teaching fraternity. 
 
 [Ebook link](https://view.joomag.com/portraits-iii-narratives-of-singapore-arts-educators/M0441194001554911987)
 
@@ -24,7 +25,7 @@ The first volume of PORTRAITS: Narratives of Singapore Arts Educators was laun
 
 PORTRAITS II: Narratives of Singapore Arts Educators threads further insights into what makes our Singapore arts educator. Their beliefs guide their practice in the art and music classroom, and their individual journeys form the collective identity of the art and music teaching fraternity.   
 
-PORTRAITS II  was launched at [Arts Education Conference 2016](https://www.star.moe.edu.sg/conferences/arts-education-conference-2016) on 16 November 2016. 
+PORTRAITS II  was launched at [Arts Education Conference 2016](https://star.moe.edu.sg/events-and-partners/art-education-conference-aec/12-oct/) on 16 November 2016. 
 
 * [Ebook link](https://view.joomag.com/portraits-ii-narratives-of-singapore-arts-educators/M0328361001479782354)
 
