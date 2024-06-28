@@ -5,13 +5,10 @@ date: 2012-01-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-<img src="/images/fgb.png" 
-     style="width:50%">
+<img src="/images/fgb.png" style="width:50%">
 		 
 Jan 2012 - Strengthening Competencies, Enhancing Pedagogies
 
-[PDF link](/files/da27470a0_43.pdf)
-
-[Link](https://www.star.moe.edu.sg/star/slot/resource_star/pf01/da27470a0_43.pdf)
-
+[PDF](/files/da27470a0_43.pdf)
