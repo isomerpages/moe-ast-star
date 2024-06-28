@@ -5,12 +5,10 @@ date: 2013-02-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-<img src="/images/ggedf.png" 
-     style="width:50%">
+<img src="/images/ggedf.png" style="width:50%">
 		 
 Feb 2013 - Building the Fraternity through Teacher-Leadership
 
-[PDF link](/files/9a2ac86d3_u8478.pdf)
-
-[Link](https://www.star.moe.edu.sg/star/slot/resource_star/pf01/9a2ac86d3_u8478.pdf)
+[PDF](/files/9a2ac86d3_u8478.pdf)
