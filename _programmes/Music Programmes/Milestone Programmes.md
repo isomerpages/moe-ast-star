@@ -3,6 +3,7 @@ title: Milestone Programmes
 permalink: /programmes/music-programmes/milestone-programmes/
 description: ""
 third_nav_title: Music Programmes
+variant: markdown
 ---
 Milestone programmes help participants to deepen their pedagogical understandings, and achieve professional renewal and gain transformation in teaching beliefs and practices
 
@@ -37,14 +38,14 @@ Complementing the AST's TLP 1 and 2, the STAR Senior/Lead Teacher (ST/LT) Progra
 Senior Teachers also engage in reflective practice via completion of a personal reflection journal and participation in group discussions and presentations.
 
 Core learning areas are as follows:  
-**Module One:** Pedagogical Mastery for 21st CC Arts Educators  
+**Module One:**&nbsp;Pedagogical Mastery for 21st CC Arts Educators  
 Arts Pedagogical Workshop  
   
-**Module Two:** Situated Learning  
+**Module Two:**&nbsp;Situated Learning  
 Overseas Learning Journey  
-Industry Exposure   
+Industry Exposure&nbsp;  
   
-**Module Three:** Pedagogy in Practice  
+**Module Three:**&nbsp;Pedagogy in Practice  
 Classroom Practice
 
 ### Teaching Living Legends
@@ -56,7 +57,7 @@ Classroom Practice
 
 Teaching Living Legends is a milestone programme designed by STAR to address the teaching of Singapore living music traditions in the context of the 21st century student-centric classroom. This programme supports teachers in their implementation of the Primary and Lower Secondary Music syllabus by developing them in music pedagogy, practice and perspective in relation to the teaching of Singapore music. Teachers explore how Singapore music traditions are kept relevant to students via the stories and narratives behind these pieces of music, thus providing engaging music experiences and raising awareness of Singapore's unique musical identity.  
   
-The workshops are conducted by our Music Master Teachers in collaboration with Singapore music practitioners, who are experts in their respective fields. The programme is run in the form of blended-learning, which includes workshops run over four full-days plus an online learning component completed on the OPAL learning portal. Find out more about the Teaching Living Legends milestone programme in this [link](https://vimeo.com/159020637/46a2118096).   
+The workshops are conducted by our Music Master Teachers in collaboration with Singapore music practitioners, who are experts in their respective fields. The programme is run in the form of blended-learning, which includes workshops run over four full-days plus an online learning component completed on the OPAL learning portal. Find out more about the Teaching Living Legends milestone programme in this&nbsp;[link](https://vimeo.com/159020637/46a2118096).&nbsp;  
 
 ### Teaching ICT-based Music Making
 
@@ -108,4 +109,4 @@ The Dalcroze Approach - eurhythmics, solfège and improvisation - is an effectiv
   
 The programme focuses on eurhythmics and improvisation to facilitate learning of music concepts in the student-centric classroom, and involves teachers in group micro-teaching to apply their pedagogical learning.  
   
-You could find out more about each of these music-specific pedagogies in STAR’s publication [](https://www.star.moe.edu.sg/resources/star-post-music)[Providing a Rich Music Learning Experience](https://academyofsingaporeteachers.moe.edu.sg/star/resources/music-star-post).
+You could find out more about each of these music-specific pedagogies in STAR’s publication&nbsp;[](https://www.star.moe.edu.sg/resources/star-post-music)[Providing a Rich Music Learning Experience](https://star.moe.edu.sg/resources/music-resources/providing-a-rich-music-learning-experience/).
