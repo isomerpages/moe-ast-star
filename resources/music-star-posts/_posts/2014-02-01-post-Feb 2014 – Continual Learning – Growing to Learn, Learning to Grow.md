@@ -5,12 +5,10 @@ date: 2014-02-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-<img src="/images/ghj.png" 
-     style="width:50%">
+<img src="/images/ghj.png" style="width:50%">
 		 
 Feb 2014 - Continual Learning - Growing to Learn, Learning to Grow
 
-[PDF link](/files/27495fd6e_u2052.pdf) 
-
-[Link](https://www.star.moe.edu.sg/star/slot/resource_star/pf01/27495fd6e_u2052.pdf)
+[PDF](/files/27495fd6e_u2052.pdf)
