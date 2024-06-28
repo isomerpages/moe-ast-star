@@ -5,12 +5,10 @@ date: 2014-08-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-<img src="/images/slef.png" 
-     style="width:50%">
+<img src="/images/slef.png" style="width:50%">
 		 
 Aug 2014 - Teaching Living Legends
 
-[PDF link](/files/80865ccf9_u6623.pdf)
-
-[Link](https://www.star.moe.edu.sg/star/slot/resource_star/pf01/80865ccf9_u6623.pdf)
+[PDF](/files/80865ccf9_u6623.pdf)
