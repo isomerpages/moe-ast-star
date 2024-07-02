@@ -5,13 +5,10 @@ date: 2012-09-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-<img src="/images/ddv.png" 
-     style="width:50%">
+<img src="/images/ddv.png" style="width:50%">
 		 
 Sep 2012 - Teachers' Day Special
 
-[PDF link](/files/3747e5cb9_u7388.pdf)
-
-[Link](https://www.star.moe.edu.sg/star/slot/resource_star/pf01/3747e5cb9_u7388.pdf)
-
+[PDF](/files/3747e5cb9_u7388.pdf)

@@ -5,13 +5,10 @@ date: 2012-02-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-<img src="/images/zz.png" 
-     style="width:50%">
+<img src="/images/zz.png" style="width:50%">
 
 Feb 2012 - Pedagogical Considerations for Enhancing Music Lessons
 
-[PDF link](/files/d82fb6ac3_u6294.pdf)
-
-[Link](https://www.star.moe.edu.sg/star/slot/resource_star/pf01/d82fb6ac3_u6294.pdf)
-
+[PDF](/files/d82fb6ac3_u6294.pdf)
