@@ -38,5 +38,13 @@ sections:
       url: /videos/
       image: /images/videos.png
       alt: Videos
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: '<iframe scrolling="no" width="640" height="126" style="border:
+        none;"
+        src="https://www.redditmedia.com/r/HFY/comments/11q3q55/the_princesss_man_14/?ref_source=embed&ref=share&embed=true&showmedia=false&theme=dark"
+        id="reddit-embed"></iframe>'
+      button: Button Text
 ---
-
