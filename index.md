@@ -9,17 +9,13 @@ sections:
   - hero:
       title: Singapore Teachers' Academy for the aRts (STAR)
       background: /images/homepage.gif
-      dropdown:
-        title: I'm interested in.....
-        options:
-          - title: Art Programmes
-            url: /programmes/art-programmes/overview/
-          - title: Music Programmes
-            url: /programmes/music-programmes/overview/
-          - title: Art Events
-            url: /events-and-partners/art-events/art-events/
-          - title: Music Events
-            url: /events-and-partners/music-events/friends-in-concert/
+      key_highlights:
+        - title: "@sgartstories"
+          description: ""
+          url: https://www.instagram.com/sgartstories/
+        - title: "@starmusicators"
+          description: ""
+          url: https://www.instagram.com/starmusicators/
   - infopic:
       title: Events
       button: Click here
@@ -38,13 +34,4 @@ sections:
       url: /videos/
       image: /images/videos.png
       alt: Videos
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: '<iframe scrolling="no" width="640" height="126" style="border:
-        none;"
-        src="https://www.redditmedia.com/r/HFY/comments/11q3q55/the_princesss_man_14/?ref_source=embed&ref=share&embed=true&showmedia=false&theme=dark"
-        id="reddit-embed"></iframe>'
-      button: Button Text
 ---
