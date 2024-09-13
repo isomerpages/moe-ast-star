@@ -22,6 +22,7 @@ sections:
       button: "@sgartstories"
       url: https://www.instagram.com/sgartstories?igsh=MWx0djl5aTYzaWRkdQ==
       image: /images/WhatsApp_Image_2024_09_13_at_10_40_29_AM.jpg
+      alt: "@sgartstories"
   - infopic:
       id: infopic
       button: "@starmusicators"
