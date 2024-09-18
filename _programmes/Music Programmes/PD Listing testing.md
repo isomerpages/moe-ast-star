@@ -15,6 +15,8 @@ third_nav_title: Music Programmes
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSZsBOYhaCoPbf5MrjGy39-7z16aRclDWCLlobalsfCInflnqNxogwv7gIA49pu3rdD_VVY6I6bHanf/pubhtml?widget=true&amp;headers=false"></iframe>
 </div>
 <p></p>
+<p><a href="https://docs.google.com/spreadsheets/d/1eLuYPjzGVDkL_d2Vh4M4fGZe1iwFkz4Svm-CMU-eDjU/edit?usp=sharing" rel="noopener nofollow" target="_blank">External Link with Filter Function</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
