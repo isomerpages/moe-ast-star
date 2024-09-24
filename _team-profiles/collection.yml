@@ -2,7 +2,6 @@ collections:
   team-profiles:
     output: true
     order:
-      - Seah Cheng Tat.md
       - Clifford Chua.md
       - Lee Ley Har.md
       - Han Zi Rui.md
@@ -22,4 +21,5 @@ collections:
       - Melissa Ong.md
       - Leong Su Juen.md
       - Felicia Toh.md
+      - Seah Cheng Tat.md
       - Surinder Kaur.md
