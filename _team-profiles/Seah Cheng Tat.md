@@ -11,8 +11,8 @@ description: ""
 <p></p>
 <p><strong>Cheng Tat</strong> obtained his Masters Degree in Music and Music
 Education from Teachers College, Columbia University and Bachelors Degree
-of Music in Music (Hons.) from King's College London. Prior to joing STAR,
-he has taught the Music Elective Programme (MEP) for Integrated Programme
+of Music in Music (Hons.) from King's College London. Prior to joining
+STAR, he has taught the Music Elective Programme (MEP) for Integrated Programme
 (Years 1 to 4), MEP at A-Levels (Years 5 to 6) as well as the Aesthetics
 Programme of both Music and Dance, (Year 2) at Temasek Junior College.
 He believes that arts education is essential in nurturing every child holistically;
