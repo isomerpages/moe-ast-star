@@ -81,9 +81,7 @@ variant: markdown
 		<td class="tg-0lax"><img src="/images/Seah_Cheng_Tat.jpg" style="width:350px">
 		</td><td class="tg-0lax"><p><a href="/team-profiles/seahchengtat">Seah Cheng Tat</a><br><b>Academy Officer (Music)</b><br><a href="mailto:Seah_Cheng_Tat@moe.gov.sg">SEAH_Cheng_Tat@moe.gov.sg</a></p></td>
 	</tr>
-	
     <tr>
        <td class="tg-0lax"><img src="/images/surinder.jpg" style="width:350px">
 		</td><td class="tg-0lax"><p><a href="/team-profiles/surinder-kaur">Surinder Kaur</a><br><b>Senior Administrative Executive</b><br><a href="mailto:Surinder_Kaur@moe.gov.sg">Surinder_KAUR@moe.gov.sg</a></p></td>
 	</tr></thead></table>
-	
