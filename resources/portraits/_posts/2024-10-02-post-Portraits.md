@@ -27,7 +27,6 @@ the art and music teaching fraternity.&nbsp;</p>
 <p></p>
 <p><strong>Portraits II: Narratives of Singapore Arts Educators</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/45portraits2.jpg">
 </div>
