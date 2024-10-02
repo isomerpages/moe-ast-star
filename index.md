@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Singapore Teachers' Academy for the aRts (STAR)
-      background: /images/homepage.gif
+      background: /images/test_banner.png
       key_highlights:
         - title: Art Programme Listing
           description: ""
