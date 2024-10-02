@@ -1,5 +1,0 @@
-collections:
-  instagram-test:
-    output: true
-    order:
-      - Instagram Test.md
