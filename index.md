@@ -29,22 +29,4 @@ sections:
       url: https://www.instagram.com/starmusicators?igsh=MWR0djFwazhxdXRnag==
       image: /images/Screenshot_2024_09_13_at_10_49_16_AM.png
       alt: Image alt text
-  - infopic:
-      title: Events
-      button: Click here
-      url: /events-and-partners/art-education-conference-aec/10-nov/
-      image: /images/events.png
-      alt: events
-  - infopic:
-      title: Programmes
-      button: Click here
-      url: /programmes/star-professional-development-framework/
-      image: /images/Programmes.png
-      alt: Programmes
-  - infopic:
-      title: Videos
-      button: Click here
-      url: /videos/
-      image: /images/videos.png
-      alt: Videos
 ---
