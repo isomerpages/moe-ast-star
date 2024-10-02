@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/test_banner.png
+      background: /images/test_banner_1png.png
       key_highlights:
         - title: Art Programme Listing
           description: ""
@@ -15,6 +15,7 @@ sections:
         - title: Music Programme Listing
           description: ""
           url: https://star.moe.edu.sg/programmes/music-programmes/music-programme-listing/
+      variant: image
   - infopic:
       title: Connect With Us
       id: infopic
