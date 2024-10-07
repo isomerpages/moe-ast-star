@@ -2,9 +2,9 @@ collections:
   programmes:
     output: true
     order:
-      - Teacher Leadership Programmes.md
       - STAR Professional Development Framework.md
       - Professional Development Programmes at a Glance.md
+      - Teacher Leadership Programmes.md
       - Art Programmes/.keep
       - Art Programmes/Overview of Art Programmes.md
       - Art Programmes/Art Programme Listing.md
@@ -12,8 +12,8 @@ collections:
       - Art Programmes/Upskilling Programmes.md
       - Art Programmes/Teacher–Leadership Programme.md
       - Art Programmes/Supporting Programmes on Pedagogy and Art Practice.md
-      - Music Programmes/PD Listing testing.md
       - Music Programmes/.keep
+      - Music Programmes/PD Listing testing.md
       - Music Programmes/Overview of Music Programmes.md
       - Music Programmes/Music Programme Listing.md
       - Music Programmes/Milestone Programmes.md
