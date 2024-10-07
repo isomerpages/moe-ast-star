@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Instagram Test.md
       - About STAR.md
       - Our Team.md
       - About our Logo.md

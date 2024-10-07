@@ -7,44 +7,27 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Singapore Teachers' Academy for the aRts (STAR)
       background: /images/homepage.gif
-      dropdown:
-        title: I'm interested in.....
-        options:
-          - title: Art Programmes
-            url: /programmes/art-programmes/overview/
-          - title: Music Programmes
-            url: /programmes/music-programmes/overview/
-          - title: Art Events
-            url: /events-and-partners/art-events/art-events/
-          - title: Music Events
-            url: /events-and-partners/music-events/friends-in-concert/
+      key_highlights:
+        - title: Art Programme Listing
+          description: ""
+          url: https://star.moe.edu.sg/programmes/art-programmes/art-programme-listing/
+        - title: Music Programme Listing
+          description: ""
+          url: https://star.moe.edu.sg/programmes/music-programmes/music-programme-listing/
+      variant: center
+      title: Singapore Teachers' Academy for the aRts (STAR)
   - infopic:
-      title: Events
-      button: Click here
-      url: /events-and-partners/art-education-conference-aec/10-nov/
-      image: /images/events.png
-      alt: events
+      title: Connect With Us
+      id: infopic
+      button: "@sgartstories"
+      url: https://www.instagram.com/sgartstories?igsh=MWx0djl5aTYzaWRkdQ==
+      image: /images/WhatsApp_Image_2024_09_13_at_10_40_29_AM.jpg
+      alt: "@sgartstories"
   - infopic:
-      title: Programmes
-      button: Click here
-      url: /programmes/star-professional-development-framework/
-      image: /images/Programmes.png
-      alt: Programmes
-  - infopic:
-      title: Videos
-      button: Click here
-      url: /videos/
-      image: /images/videos.png
-      alt: Videos
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: '<iframe scrolling="no" width="640" height="126" style="border:
-        none;"
-        src="https://www.redditmedia.com/r/HFY/comments/11q3q55/the_princesss_man_14/?ref_source=embed&ref=share&embed=true&showmedia=false&theme=dark"
-        id="reddit-embed"></iframe>'
-      button: Button Text
+      id: infopic
+      button: "@starmusicators"
+      url: https://www.instagram.com/starmusicators?igsh=MWR0djFwazhxdXRnag==
+      image: /images/Screenshot_2024_09_13_at_10_49_16_AM.png
+      alt: Image alt text
 ---
