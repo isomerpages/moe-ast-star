@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Teacher Leadership Programmes.md
       - STAR Professional Development Framework.md
       - Professional Development Programmes at a Glance.md
       - Art Programmes/.keep
