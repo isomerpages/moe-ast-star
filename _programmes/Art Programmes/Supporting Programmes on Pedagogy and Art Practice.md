@@ -5,21 +5,36 @@ description: ""
 third_nav_title: Art Programmes
 variant: tiptap
 ---
-### Art Supporting Programmes
-
-**FOR**: Art teachers and Allied Educators  
-**PERIOD**: Throughout the year  
- 
- 
-Teachers looking to deepen their artistic practice and expand their pedagogical repertoire can look forward to variety of Studio-based and Pedagogy-focused Supporting Programmes offered throughout the school year. These multi-session workshops are conducted by practitioners and specialist instructors. Teachers can choose to deepen specific skills by taking multiple modules of the same artistic practice or expand their perspectives by signing up for different types of workshop.  
-  
-**Studio-based workshops include:**
-*   Drawing
-*   Plein Air Watercolour Painting
-*   New Media: Digital Drawing/ Photography/ Creating Digital Portfolio
-*   Printmaking
-*   Ceramics
-*   Priming the Art Classroom
-*   Culture of Care in the Art Classroom
-
-![](/images/art%20programme.png)
+<h3>Art Supporting Programmes (Studio-based)</h3>
+<p>Teachers looking to deepen their artistic practice and expand their pedagogical
+repertoire can look forward to a variety of Studio-based and Pedagogy-focused
+Supporting Programmes offered throughout the school year. These multi-session
+workshops are conducted by practitioners and specialist instructors.</p>
+<p><strong>Studio-based workshops include:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Drawing</p>
+</li>
+<li>
+<p>New Media: Augmented Reality/ Digital Drawing/ Photography/ Creating Digital
+Portfolio</p>
+</li>
+<li>
+<p>Printmaking</p>
+</li>
+<li>
+<p>Ceramics</p>
+</li>
+<li>
+<p>Play, Process &amp; Structure - Material Inquiry &amp; Strategies for
+Teaching &amp; Learning 3D Art</p>
+</li>
+<li>
+<p>AI Playground</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art%20programme.png">
+</div>
+<p></p>
