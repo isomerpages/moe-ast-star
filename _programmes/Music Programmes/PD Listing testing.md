@@ -19,6 +19,10 @@ third_nav_title: Music Programmes
 </p>
 <p></p>
 <p></p>
+<p><a href="https://gccprod-my.sharepoint.com/:x:/g/personal/seah_cheng_tat_moe_gov_sg/EVnpBlYyTEJEs5836gN2Sj0Bojlr5Jg7_gHpyTNw3p-VgA?e=wgjj23" rel="noopener noreferrer nofollow" target="_blank">Book.xlsx</a>
+</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
