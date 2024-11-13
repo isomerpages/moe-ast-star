@@ -2,25 +2,13 @@ collections:
   events-and-partners:
     output: true
     order:
+      - TCEF/TCEF.md
       - TCEF/.keep
       - TCEF/TCEF2023.md
-      - Art Education Conference (AEC)/.keep
-      - Art Education Conference (AEC)/10 Nov 2020.md
-      - Art Education Conference (AEC)/14 Nov 2018.md
-      - Art Education Conference (AEC)/12 Oct 2016.md
-      - Art Education Conference (AEC)/17 Jul 2013.md
       - Art Events/.keep
-      - Art Events/Art Events.md
       - Art Events/aedge.md
-      - Art Events/Share Fairs.md
-      - Art Events/Museum Education Symposium.md
-      - Art Events/Drawing Symposium 2020.md
-      - Art Events/Technology–Enhanced Art Learning e–Symposium.md
       - Music Events/.keep
       - Music Events/Friends in Concert (FIC).md
-      - Music Events/Share Fairs.md
       - Partners/.keep
-      - Partners/National Institute of Education (NIE).md
+      - Partners/Teacher Work Attachment Plus.md
       - Partners/Museum & Galleries.md
-      - Partners/National Library Board (NLB).md
-      - Partners/Teacher Work Attachment.md
