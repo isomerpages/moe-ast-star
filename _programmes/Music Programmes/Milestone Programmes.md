@@ -36,6 +36,9 @@ and practices.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2-4-1-dalcroze.jpg">
+</div>
 <p>The Music Beginning Teacher Programme: Music Teaching Through the Lens
 of the Singapore Teaching Practice (STP) is a blended-learning programme
 that has been designed to deepen BTs’ understanding and application of
