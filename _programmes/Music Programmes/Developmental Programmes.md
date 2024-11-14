@@ -144,4 +144,14 @@ and how students are more engaged in their music lessons through singing.</p>
 <iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/312041874?h=8e25a43a8e"></iframe>
 </div>
 <p></p>
+<p>Engaging with Songs Day 2017 Highlights</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t3zfXgBwrT0?si=WIooxVRg0c4fzfoM"></iframe>
+</div>
+<p></p>
+<p>Engaging with Songs Day 2016</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vSuu1rB2x7g?si=IwUm346wZGxMo_4y"></iframe>
+</div>
 <p></p>
