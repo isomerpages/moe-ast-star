@@ -14,7 +14,7 @@ championing good music pedagogies and leading other teachers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/starseniorlead.jpg">
 </div>
-<p>Senior Teachers are skilful and experienced teachers who serve as mentors
+<p>Senior Teachers are skillful and experienced teachers who serve as mentors
 and role models to the teachers in their schools, sharing with them their
 teaching expertise and pedagogical knowledge.</p>
 <p>Complementing the AST's TLP 1 and 2, the STAR Senior/Lead Teacher (ST/LT)
