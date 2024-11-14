@@ -134,23 +134,26 @@ and how students are more engaged in their music lessons through singing.</p>
 <iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/370027849?h=cc79a7f98e"></iframe>
 </div>
 <p></p>
-<p>Engaging with Songs 2018</p>
+<p><strong>Engaging with Songs 2018</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/298938422?h=d832898f53"></iframe>
 </div>
 <p></p>
-<p>Engaging with Songs Day 2018 Highlight</p>
+<p><strong>Engaging with Songs Day 2018 Highlight</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/312041874?h=8e25a43a8e"></iframe>
 </div>
 <p></p>
-<p>Engaging with Songs Day 2017 Highlights</p>
-<p></p>
+<p><strong>Engaging with Songs Day 2017 Highlights</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t3zfXgBwrT0?si=WIooxVRg0c4fzfoM"></iframe>
 </div>
 <p></p>
-<p>Engaging with Songs Day 2016</p>
+<p><strong>Engaging with Songs Day 2016</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vSuu1rB2x7g?si=IwUm346wZGxMo_4y"></iframe>
 </div>
