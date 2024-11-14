@@ -10,6 +10,10 @@ championing good music pedagogies and leading other teachers.</p>
 <h3>Senior / Lead Teacher Programme</h3>
 <p><strong>FOR</strong>: Senior Teachers
 <br><strong>PERIOD</strong>: Part-time basis over the course of 6 months</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/starseniorlead.jpg">
+</div>
 <p>Senior Teachers are skilful and experienced teachers who serve as mentors
 and role models to the teachers in their schools, sharing with them their
 teaching expertise and pedagogical knowledge.</p>
