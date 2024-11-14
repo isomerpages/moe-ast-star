@@ -18,4 +18,4 @@ Programme of both Music and Dance (Year 2) at Temasek Junior College. He
 believes that arts education is essential in nurturing every child holistically;
 including the development of values, character and competencies. He also
 plays a variety of musical instruments and is an active performer in the
-band scene.</p>
+symphonic band scene.</p>
