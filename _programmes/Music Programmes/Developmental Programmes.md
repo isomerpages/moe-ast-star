@@ -92,6 +92,21 @@ fields. The programme is run in the form of blended-learning, which includes
 workshops run over four full-days plus an online learning component completed
 on the OPAL learning portal. Find out more about the Teaching Living Legends
 programme in this <a href="https://vimeo.com/159020637/46a2118096" rel="noopener nofollow" target="_blank">link</a>.</p>
+<p></p>
+<h3>Critical Inquiry Networked Learning Community (CI NLC)</h3>
+<p><strong>FOR:</strong> SP1 / SP2 Music Teachers with at least 2 years of
+teaching experience
+<br><strong>PERIOD:</strong> January to December</p>
+<p>The Critical Inquiry Networked Learning Community (CI NLC) Programme provides
+a professional development opportunity through reflective inquiry based
+practices. It encourages critical reflection on teaching practices, broaden
+perspectives in Music education and develop teacher leadership.</p>
+<p>Programme participants are required to attend introductory sessions on
+critical inquiry and NLC discussions, implement school-based CI projects
+and present in the CI NLC Mini-Symposium.</p>
+<p>You could find out more of the CI NLC projects in STAR's publication
+<a href="https://star.moe.edu.sg/publications-and-resources/research-repository/" rel="noopener nofollow" target="_blank">Sounding the Teaching</a>.</p>
+<p></p>
 <h3>Engaging With Songs</h3>
 <p><strong>FOR:</strong> Primary School Music Teachers (by invitation)
 <br><strong>PERIOD:</strong> Part-time basis over the course of 1.5 years</p>
