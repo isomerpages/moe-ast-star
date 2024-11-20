@@ -94,8 +94,8 @@ on the OPAL learning portal. Find out more about the Teaching Living Legends
 programme in this <a href="https://vimeo.com/159020637/46a2118096" rel="noopener nofollow" target="_blank">link</a>.</p>
 <p></p>
 <h3>Critical Inquiry Networked Learning Community (CI NLC)</h3>
-<p><strong>FOR:</strong> SP1 / SP2 Music Teachers with at least 2 years of
-teaching experience
+<p><strong>FOR:</strong> SP1 &amp; SP2 Music Teachers with at least 2 years
+of teaching experience
 <br><strong>PERIOD:</strong> January to December</p>
 <p>The Critical Inquiry Networked Learning Community (CI NLC) Programme provides
 a professional development opportunity through reflective inquiry based
