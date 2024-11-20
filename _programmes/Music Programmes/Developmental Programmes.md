@@ -104,8 +104,8 @@ perspectives in Music education and develop teacher leadership.</p>
 <p>Programme participants are required to attend introductory sessions on
 critical inquiry and NLC discussions, implement school-based CI projects
 and present in the CI NLC Mini-Symposium.</p>
-<p>You could find out more of the CI NLC projects in STAR's publication
-<a href="https://star.moe.edu.sg/publications-and-resources/research-repository/" rel="noopener nofollow" target="_blank">Sounding the Teaching</a>.</p>
+<p>You could find out more of the CI NLC projects shared in the <a href="https://star.moe.edu.sg/publications-and-resources/music-resources/" rel="noopener nofollow" target="_blank">CI NLC Symposium</a> as
+well as in STAR's publication <a href="https://star.moe.edu.sg/publications-and-resources/research-repository/" rel="noopener nofollow" target="_blank">Sounding the Teaching</a>.</p>
 <p></p>
 <h3>Engaging With Songs</h3>
 <p><strong>FOR:</strong> Primary School Music Teachers (by invitation)
