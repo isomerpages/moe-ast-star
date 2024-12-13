@@ -5,10 +5,9 @@ date: 2022-10-10
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-<img src="/images/uusttvicover.png" 
-         style="width:600px"
-	/>
+<img src="/images/uusttvicover.png" style="width:600px">
 <br>
 
 
@@ -28,4 +27,4 @@ The e-publication is divided into nine sections:
 8.  Differentiated Instruction
 9.  Special Learning Needs and Differentiated Instruction
 
-[Ebook link](https://joom.ag/C0pd)
+[[Ebook Link]](https://issuu.com/moe_star/docs/sounding_the_teaching_vi)
