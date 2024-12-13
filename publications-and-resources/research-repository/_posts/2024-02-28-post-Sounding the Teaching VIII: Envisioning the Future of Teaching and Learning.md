@@ -19,4 +19,5 @@ attributes, and empowering learner-assessors.</p>
 <p>Through the CI NLC, teachers developed innovative teaching and learning
 approaches leveraging the uniqueness of music to empower students in this
 age of new literacies and 21CC development.</p>
-<p>Please click&nbsp;<a href="https://joom.ag/qZAd" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;to view the e-publication.</p>
+<p>Please click&nbsp;<a href="https://issuu.com/moe_star/docs/sounding_the_teaching_viii_-_envisioning_the_futur" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;to
+view the e-publication.</p>
