@@ -5,13 +5,17 @@ date: 2010-10-10
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
-<img src="/images/sttiv-cover.jpg" style="width:600px" />
-
-_Sounding The Teaching IV_ puts together a collection of 22 studies that feature teachers’ critical inquiry projects focusing on the issues of diversity and inclusion in the music classroom.   
-
-To cite the book: Singapore Teachers’ academy for the aRts. (2020). _Sounding the Teaching IV: Diversity and Inclusion in the Music Classroom._ Singapore: Ministry of Education.
-
-[PDF link](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider4/research-publication/(moe)stt_iv_(10mar)_for-star-website.pdf?sfvrsn=40f1ab88_0)
-
-[Link](https://joom.ag/p4qI)
+<div class="isomer-image-wrapper">
+<img style="width:600px" height="auto" width="100%" src="/images/sttiv-cover.jpg">
+</div>
+<p><em>Sounding The Teaching IV</em>&nbsp;puts together a collection of 22
+studies that feature teachers’ critical inquiry projects focusing on the
+issues of diversity and inclusion in the music classroom. &nbsp;&nbsp;</p>
+<p>To cite the book: Singapore Teachers’ academy for the aRts. (2020).&nbsp;<em>Sounding the Teaching IV: Diversity and Inclusion in the Music Classroom.</em>&nbsp;Singapore:
+Ministry of Education.</p>
+<p><a href="https://issuu.com/moe_star/docs/sounding_the_teaching_iv" rel="noopener noreferrer nofollow" target="_blank">PDF link</a>
+</p>
+<p><a href="https://joom.ag/p4qI" rel="noopener noreferrer nofollow" target="_blank">Link</a>
+</p>
