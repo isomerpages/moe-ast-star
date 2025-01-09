@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star_post_2025_jan_final_2_" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STAR Post Music Issue 1 (Jan 2025)" src="/images/15.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR-Post Music Issue 1 (Jan 2025)</div><div class="isomer-card-description">Future of Learning</div><div class="isomer-card-link">Read here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star_post_2025_jan_final_2_" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STAR Post Music Issue 1 (Jan 2025)" src="/images/15.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR–Post Music Issue 1 (Jan 2025)</div><div class="isomer-card-description">Future of Learning</div><div class="isomer-card-link">Read here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/2024_jul_-_heat_beat" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -16,11 +16,11 @@ variant: tiptap
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">STAR-Post Music Issue 2 (Jul 2024)</div>
+<div class="isomer-card-title">STAR–Post Music Issue 2 (Jul 2024)</div>
 <div class="isomer-card-description">Heart beat: The Heart of Education</div>
 <div class="isomer-card-link">Read here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star-post_music_january_2024_ignite_imagination_" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STAR Post Music Issue 1 (Jan 2024)" src="/images/2024_issue_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR-Post Music Issue 1 (Jan 2024)</div><div class="isomer-card-description">Ignite Imagination, Empower Communities</div><div class="isomer-card-link">Read here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star-post_music_january_2024_ignite_imagination_" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STAR Post Music Issue 1 (Jan 2024)" src="/images/2024_issue_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR–Post Music Issue 1 (Jan 2024)</div><div class="isomer-card-description">Ignite Imagination, Empower Communities</div><div class="isomer-card-link">Read here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star-post_music_july_2023" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -28,11 +28,11 @@ variant: tiptap
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">STAR-Post Music Issue 2 (Jul 2023)</div>
+<div class="isomer-card-title">STAR–Post Music Issue 2 (Jul 2023)</div>
 <div class="isomer-card-description">Freedom to Dream</div>
 <div class="isomer-card-link">Read here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star-post_music_january_2023" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STAR-Post Music Issue 1 (Jan 2023)" src="/images/2023_issue_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR-Post Music Issue 1 (Jan 2023)</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star-post_music_january_2023" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STAR-Post Music Issue 1 (Jan 2023)" src="/images/2023_issue_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR–Post Music Issue 1 (Jan 2023)</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star-post_music_july_2022" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
