@@ -32,7 +32,7 @@ variant: tiptap
 <div class="isomer-card-description">Freedom to Dream</div>
 <div class="isomer-card-link">Read here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star-post_music_january_2023" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STAR-Post Music Issue 1 (Jan 2023)" src="/images/2023_issue_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR–Post Music Issue 1 (Jan 2023)</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star-post_music_january_2023" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STAR-Post Music Issue 1 (Jan 2023)" src="/images/2023_issue_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR–Post Music Issue 1 (Jan 2023)</div><div class="isomer-card-description">Building Self, Building Others</div><div class="isomer-card-link">Read here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star-post_music_july_2022" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
