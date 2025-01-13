@@ -52,7 +52,7 @@ variant: tiptap
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Sounding the Teaching</div>
+<div class="isomer-card-title">Sounding the Teaching: Examining Music Learning Experiences</div>
 <div class="isomer-card-description">2017</div>
 <div class="isomer-card-link">Read here</div>
 </div>
