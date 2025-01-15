@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/STAR_Website_Homepage_Banner__9_.gif
+      background: /images/STAR_Website_Homepage_Banner__10_.gif
       key_highlights:
         - title: Art Programme Listing
           description: ""
