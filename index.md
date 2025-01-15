@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage.gif
+      background: /images/STAR_Website_Homepage_Banner__10_.gif
       key_highlights:
         - title: Art Programme Listing
           description: ""
@@ -15,7 +15,7 @@ sections:
         - title: Music Programme Listing
           description: ""
           url: https://star.moe.edu.sg/programmes/music-programmes/music-programme-listing/
-      variant: center
+      variant: image
       title: Singapore Teachers' Academy for the aRts (STAR)
   - infopic:
       title: Connect With Us
