@@ -15,7 +15,7 @@ sections:
         - title: Music Programme Listing
           description: ""
           url: https://star.moe.edu.sg/programmes/music-programmes/music-programme-listing/
-      variant: side
+      variant: center
       title: Singapore Teachers' Academy for the aRts (STAR)
   - infopic:
       title: Connect With Us
