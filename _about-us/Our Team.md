@@ -221,19 +221,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:350px" height="auto" width="100%" src="/images/melissa.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/team-profiles/melissa" rel="noopener noreferrer nofollow" target="_blank">Melissa Ong</a>
-<br><strong>Academy Officer (Music)</strong>
-<br><a href="mailto:Melissa_Ong@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Melissa_ONG@moe.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width:350px" height="auto" width="100%" src="/images/Profile%20Pictures/Music%20Unit/sjprofilepic_small.png">
 </div>
 </td>
@@ -243,6 +230,8 @@ variant: tiptap
 <br><a href="mailto:leong_su_juen@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LEONG_Su_Juen@moe.gov.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:350px" height="auto" width="100%" src="/images/Seah_Cheng_Tat.jpg">
@@ -254,8 +243,6 @@ variant: tiptap
 <br><a href="mailto:Seah_Cheng_Tat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SEAH_Cheng_Tat@moe.gov.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -263,11 +250,13 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/team-profiles/surinder-kaur" rel="noopener noreferrer nofollow" target="_blank">Teo Li Chin</a>
+<p><a href="/team-profiles/teolichin" rel="noopener noreferrer nofollow" target="_blank">Teo Li Chin</a>
 <br><strong>Academy Officer (Music)</strong>
-<br><a href="mailto:Teo_li_chin@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">TEO_Li_Chin@moe.gov.sg</a>
+<br><a href="mailto:TEO_li_chin@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">TEO_Li_Chin@moe.gov.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:350px" height="auto" width="100%" src="/images/surinder.jpg">
@@ -278,6 +267,12 @@ variant: tiptap
 <br><strong>Senior Administrative Executive</strong>
 <br><a href="mailto:Surinder_Kaur@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Surinder_KAUR@moe.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
