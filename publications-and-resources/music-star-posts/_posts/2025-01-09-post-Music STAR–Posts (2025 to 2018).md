@@ -145,6 +145,6 @@ the articles, please click on the icons via "Publications and Resources".</p>
 <div class="isomer-card-description">Every Music Teacher a Leader</div>
 <div class="isomer-card-link">Read here</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://star.moe.edu.sg/files/074702963_u8648.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STAR–Post Music (Sep 2013)" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR–Post Music (Sep 2013)</div><div class="isomer-card-description">More Support for Music Teachers through Artist–Mentorship and Pedagogical Research</div><div class="isomer-card-link">Read here</div></div></a>
 </div>
 <p></p>
