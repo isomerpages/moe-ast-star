@@ -250,7 +250,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/team-profiles/teolichin" rel="noopener noreferrer nofollow" target="_blank">Teo Li Chin</a>
+<p><a href="/team-profiles/teolichin/" rel="noopener noreferrer nofollow" target="_blank">Teo Li Chin</a>
 <br><strong>Academy Officer (Music)</strong>
 <br><a href="mailto:TEO_li_chin@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">TEO_Li_Chin@moe.gov.sg</a>
 </p>
