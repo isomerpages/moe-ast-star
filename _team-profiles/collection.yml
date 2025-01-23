@@ -2,6 +2,7 @@ collections:
   team-profiles:
     output: true
     order:
+      - Nurulhuda Mustafa.md
       - Clifford Chua.md
       - Lee Ley Har.md
       - Han Zi Rui.md
