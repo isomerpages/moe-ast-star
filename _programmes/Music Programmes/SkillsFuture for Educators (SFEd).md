@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Music Programmes
 ---
 <p>SkillsFuture for Educators (SFEd) courses improve our teachers' competencies
-in the areas of Assessment Literacy, Caracter and Citizenship Education,
+in the areas of Assessment Literacy, Character and Citizenship Education,
 Differentiated Instruction, E-Pedagogy, Inquiry-based Learning and Support
 for Students with Special Needs.</p>
 <h3>Teaching ICT-based Music Making</h3>
