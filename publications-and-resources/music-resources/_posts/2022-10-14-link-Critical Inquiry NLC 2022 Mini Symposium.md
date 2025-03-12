@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://padlet.com/moestaresearch/2022-ci-nlc-mini-symposium-ge9spb4tbl6bkydp
+external: https://padlet.com/moestaresearch/2022-ci-nlc-mini-symposium-ge9spb4tbl6bkydp
 ---
