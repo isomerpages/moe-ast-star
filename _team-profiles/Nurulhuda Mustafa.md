@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/24.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22.png">
 </div>
 <p>Nurul brings nine years of enriching experience from Mayflower Secondary
 School, where she harnessed the transformative power of art education to
