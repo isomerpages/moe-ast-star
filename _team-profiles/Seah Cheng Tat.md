@@ -4,11 +4,9 @@ permalink: /seah-cheng-tat/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Star_Website_Name_Banners_SCT.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
 </div>
-<p></p>
 <p><strong>Cheng Tat</strong> obtained his Masters Degree in Music and Music
 Education from Teachers College, Columbia University and Bachelors Degree
 of Music in Music (Hons.) from King's College London. Prior to joining
