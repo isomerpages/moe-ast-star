@@ -4,11 +4,9 @@ permalink: /team-profiles/teolichin/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/teo_li_chinStar_Website_Name_Banners.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
-<p></p>
 <p><strong>Li Chin</strong> is a versatile performer and dedicated educator
 who believes music should be an integral part of everyone's lives. Prior
 to joining the Ministry of Education (MOE), she was a highly sought-after
