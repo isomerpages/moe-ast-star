@@ -2,7 +2,6 @@ collections:
   team-profiles:
     output: true
     order:
-      - Nurulhuda Mustafa.md
       - Clifford Chua.md
       - Lee Ley Har.md
       - Han Zi Rui.md
@@ -19,8 +18,9 @@ collections:
       - Vivian Loh Lai Kuen.md
       - Silvia Lim.md
       - Rafeeza Khaliq.md
-      - Teo Li Chin.md
-      - Leong Su Juen.md
+      - Nurulhuda Mustafa.md
       - Felicia Toh.md
+      - Leong Su Juen.md
       - Seah Cheng Tat.md
+      - Teo Li Chin.md
       - Surinder Kaur.md
