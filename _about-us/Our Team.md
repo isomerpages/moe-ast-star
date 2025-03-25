@@ -212,7 +212,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/nurulhuda-mustafa/" rel="noopener nofollow" target="_blank">Nurulhuda Mustafa</a>
+<p><a href="https://star.moe.edu.sg/nurulhuda-mustafa/" rel="noopener nofollow" target="_blank">Nurulhuda Mustafa</a>
 </p>
 <p><strong>Academy Officer (Art)</strong>
 </p>
