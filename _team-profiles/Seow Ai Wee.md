@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Ai_Wee.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.png">
 </div>
 <p>Ms Seow Ai Wee designs and conducts professional learning experiences
 to enhance teaching competencies of Art Teachers in areas of inquiry-based
