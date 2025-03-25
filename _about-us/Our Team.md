@@ -69,7 +69,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/team-profiles/lim-kok-boon" rel="noopener noreferrer nofollow" target="_blank">Lim Kok Boon</a>
 <br><strong> Master Teacher (Art)</strong>
-<br><a href="mailto:Lim_Kok_Boon@moe.schools.sg" rel="noopener noreferrer nofollow" target="_blank">LIM_Kok_Boon@moe.schools.sg</a>
+<br><a href="mailto:Lim_Kok_Boon@moe.schools.sg" rel="noopener noreferrer nofollow" target="_blank">LIM_Kok_Boon@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
