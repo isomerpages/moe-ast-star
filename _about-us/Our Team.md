@@ -31,7 +31,7 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p><a href="/team-profiles/lee-ley-har/" rel="noopener noreferrer nofollow" target="_blank">Lee Ley Har</a>
-<br><strong>Deputy Director (Music)</strong>
+<br>Deputy Director (Music)
 <br><a href="mailto:LEE_Ley_Har@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LEE_Ley_Har@moe.gov.sg</a>
 </p>
 </th>
@@ -93,7 +93,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/team-profiles/ira-wati" rel="noopener noreferrer nofollow" target="_blank">Ira Wati Binte Sukaimi</a>
 <br><strong>Master Teacher (Art)</strong>
-<br><a href="mailto:Ira_Wati_Sukaimi@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ira_Wati_SUKAIMI@moe.gov.sg</a>
+<br><a href="mailto:Ira_Wati_Sukaimi@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ira_Wati_Sukaimi@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -190,7 +190,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/team-profiles/rafeeza-khaliq" rel="noopener noreferrer nofollow" target="_blank">Rafeeza Khaliq</a>
 <br><strong>Academy Officer (Art)</strong>
-<br><a href="mailto:rafeeza_KHALIQ@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rafeeza_KHALIQ@moe.gov.sg</a>
+<br><a href="mailto:rafeeza_KHALIQ@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rafeeza_Khaliq@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
