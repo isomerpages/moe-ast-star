@@ -7,9 +7,9 @@ variant: tiptap
 ---
 <h3>Developmental Programmes</h3>
 <p>Teachers looking to deepen their artistic practice and expand their pedagogical
-repertoire can look forward to a variety of Studio-based and Pedagogy-focused
-Supporting Programmes offered throughout the school year. These multi-session
-workshops are conducted by practitioners and specialist instructors.</p>
+repertoire can look forward to a variety of developmental programmes offered
+throughout the school year. These multi-session workshops are conducted
+by practitioners and specialist instructors.</p>
 <p><strong>Developmental programmes include workshops such as:</strong>
 </p>
 <ul data-tight="true" class="tight">
