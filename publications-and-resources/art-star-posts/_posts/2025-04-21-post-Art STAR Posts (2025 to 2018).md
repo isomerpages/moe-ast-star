@@ -45,5 +45,16 @@ variant: tiptap
 <div class="isomer-card-link">Read here</div>
 </div>
 </a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Jan 2022" src="/images/jan_2022.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">STAR-Post (Art) Issue 1 Jan 2022</div>
+<div class="isomer-card-description">Conversations about Care, Capabilities and Confidence</div>
+</div>
+</div>
 </div>
 <p></p>
