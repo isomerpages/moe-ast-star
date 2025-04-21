@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Art Programmes
 variant: tiptap
 ---
-<h3>Art Supporting Programmes (Studio-based)</h3>
+<h3>Developmental Programmes</h3>
 <p>Teachers looking to deepen their artistic practice and expand their pedagogical
 repertoire can look forward to a variety of Studio-based and Pedagogy-focused
 Supporting Programmes offered throughout the school year. These multi-session
