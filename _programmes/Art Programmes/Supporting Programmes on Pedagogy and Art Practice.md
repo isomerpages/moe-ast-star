@@ -10,7 +10,7 @@ variant: tiptap
 repertoire can look forward to a variety of Studio-based and Pedagogy-focused
 Supporting Programmes offered throughout the school year. These multi-session
 workshops are conducted by practitioners and specialist instructors.</p>
-<p><strong>Studio-based workshops include:</strong>
+<p><strong>Developmental programmes include workshops such as:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
