@@ -1,6 +1,6 @@
 ---
 title: Music STAR–Posts
-permalink: /music-star-posts-2025-to-2018/
+permalink: /music-star-posts/
 date: 2025-01-09
 layout: post
 description: ""
