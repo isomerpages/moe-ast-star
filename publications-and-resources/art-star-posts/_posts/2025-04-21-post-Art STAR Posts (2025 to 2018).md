@@ -44,17 +44,18 @@ variant: tiptap
 <div class="isomer-card-description">Digital Deluge: ICT in Art Education</div>
 <div class="isomer-card-link">Read here</div>
 </div>
-</a>
-<div class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star-post_art_jan_2022_issue_1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jan 2022" src="/images/jan_2022.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR-Post (Art) Issue 1 Jan 2022</div><div class="isomer-card-description">Conversations about Care, Capabilities and Confidence</div><div class="isomer-card-link">Read here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star-post_art_jul_2021_issue_2" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Jan 2022" src="/images/jan_2022.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="July 2021" src="/images/Screenshot_2025_05_07_at_11_30_05_AM.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">STAR-Post (Art) Issue 1 Jan 2022</div>
-<div class="isomer-card-description">Conversations about Care, Capabilities and Confidence</div>
+<div class="isomer-card-title">STAR-Post (Art) Issue 2 July 2021</div>
+<div class="isomer-card-description">The Lifestyle of Learning</div>
+<div class="isomer-card-link">Read here</div>
 </div>
-</div>
+</a><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star-post_art_2021_issue_1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jan 2021" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR-Post (Art) Issue 1 Jan 2021</div><div class="isomer-card-description">Arts for the Future: Imagining Possibilities</div><div class="isomer-card-link">Read here</div></div></a>
 </div>
 <p></p>
