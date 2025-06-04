@@ -30,4 +30,16 @@ sections:
       url: https://www.instagram.com/starmusicators?igsh=MWR0djFwazhxdXRnag==
       image: /images/Screenshot_2024_09_13_at_10_49_16_AM.png
       alt: Image alt text
+  - announcements:
+      title: Alert
+      id: announcements
+      announcement_items:
+        - title: Beware of impersonation scams
+          date: 04 June 2025
+          announcement: Government officials will NEVER ask you to transfer money or
+            disclose bank log-in details over a phone call. Call the 24/7
+            ScamShield Helpline at 1799 if you are unsure if something is a
+            scam.
+          link_text: Visit ScamShield for more information
+          link_url: scamshield.gov.sg
 ---
