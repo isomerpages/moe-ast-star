@@ -41,5 +41,5 @@ sections:
             ScamShield Helpline at 1799 if you are unsure if something is a
             scam.
           link_text: Visit ScamShield for more information
-          link_url: www.scamshield.gov.sg
+          link_url: https://www.scamshield.gov.sg/
 ---
