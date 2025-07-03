@@ -28,7 +28,7 @@ sections:
       id: infopic
       button: "@starmusicators"
       url: https://www.instagram.com/starmusicators?igsh=MWR0djFwazhxdXRnag==
-      image: /images/Screenshot_2024_09_13_at_10_49_16_AM.png
+      image: /images/WhatsApp_Image_2025_06_12_at_5_32_37_PM.jpg
       alt: Image alt text
   - announcements:
       title: Alert
