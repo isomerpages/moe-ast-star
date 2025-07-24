@@ -15,6 +15,6 @@ the point that collaboration is more than just working together—it's about
 combining our unique perspectives to create something truly extraordinary.
 By partnering on projects, sharing ideas, and learning from one another,
 teachers discover the magic that happens when creativity is multiplied.</p>
-<p><a href="https://go.gov.sg/spartjul24" rel="noopener noreferrer nofollow" target="_blank">EBook Link</a>
+<p><a href="https://issuu.com/moe_star/docs/starpost_july_2024_pages?fr=xKAE9_zU1NQ" rel="noopener noreferrer nofollow" target="_blank">EBook Link</a>
 </p>
 <p></p>

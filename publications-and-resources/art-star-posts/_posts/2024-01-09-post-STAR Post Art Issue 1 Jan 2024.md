@@ -16,6 +16,6 @@ STAR’s commitment to fostering student-centricity in the art classroom
 in its meticulously crafted resources that are designed to inspire curiosity,
 allowing students to discover their artistic voice while developing the
 essential 21CC.&nbsp;</p>
-<p><a href="https://go.gov.sg/starpostjanuary2024" rel="noopener noreferrer nofollow" target="_blank">EBook Link</a>
+<p><a href="https://issuu.com/moe_star/docs/star-post_art_jan_2024_issue_1?fr=xKAE9_zU1NQ" rel="noopener noreferrer nofollow" target="_blank">EBook Link</a>
 </p>
 <p></p>
