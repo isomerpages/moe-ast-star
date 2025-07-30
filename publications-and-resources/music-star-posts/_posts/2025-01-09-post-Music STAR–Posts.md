@@ -300,7 +300,6 @@ Research</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">STAR-Post Music (Jul 2011)</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Read here</div>
 </div>
 </a>
