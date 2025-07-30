@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star_post_music_july_2025" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STAR Post Music Issue 1 (Jul 2025)" src="/images/2025_July.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR Post Music Issue 1 (Jul 2025)</div><div class="isomer-card-description">Communities</div><div class="isomer-card-link">Read here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star_post_music_july_2025" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STAR Post Music Issue 2 (Jul 2025)" src="/images/2025_July.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR Post Music Issue 2 (Jul 2025)</div><div class="isomer-card-description">Communities</div><div class="isomer-card-link">Read here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star_post_2025_jan_final_2_" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
