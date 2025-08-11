@@ -17,6 +17,6 @@ Learning with Technology. TCEF now brings the Arts Education Conference
 (AEC), the ELIS Conference (ELISC) and the Physical and Sports Education
 Conference (PSEC) together as one.</p>
 <p>Click the following links to access previous conferences:</p>
-<p><a href="https://cms.isomer.gov.sg/sites/moe-ast-star/folders/events-and-partners/subfolders/TCEF/editPage/TCEF2023.md" rel="noopener nofollow" target="_blank">TCEF2023</a>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/events-and-partners/tcef/permalink/" rel="noopener nofollow" target="_blank">TCEF2023</a>
 </p>
 <p></p>
