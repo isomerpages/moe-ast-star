@@ -4,7 +4,6 @@ collections:
     order:
       - TCEF/.keep
       - TCEF/TCEF.md
-      - TCEF/TCEF2023.md
       - TCEF/TCEF2025.md
       - Art Events/.keep
       - Art Events/aedge.md
