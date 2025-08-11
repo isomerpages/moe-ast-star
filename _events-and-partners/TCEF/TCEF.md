@@ -18,5 +18,5 @@ Learning with Technology. TCEF now brings the Arts Education Conference
 Conference (PSEC) together as one.</p>
 <p>Click the following links to access previous conferences:</p>
 <p><a href="https://academyofsingaporeteachers.moe.edu.sg/tcef2023/" rel="noopener nofollow" target="_blank">TCEF2023</a>
+<br><a href="https://academyofsingaporeteachers.moe.edu.sg/tcef2025/" rel="noopener nofollow" target="_blank">TCEF2025</a>
 </p>
-<p></p>
