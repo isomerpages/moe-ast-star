@@ -139,7 +139,7 @@ variant: tiptap
 <div class="isomer-card-title">STAR-Post (Art) Issue 1 Jan 2013</div>
 <div class="isomer-card-link">Read here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/2012_star-post_art_4" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STAR-Post (Art) Issue 4 Dec 2012" src="/images/Screenshot_2025_08_18_at_12_17_55_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR-Post (Art) Issue 4 Dec 2012</div><div class="isomer-card-link">Read here </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/2012_star-post_art_4" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STAR-Post (Art) Issue 4 Dec 2012" src="/images/Screenshot_2025_08_18_at_12_17_55_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR-Post (Art) Issue 4 Dec 2012</div><div class="isomer-card-link">Read here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/2012_star-post_art_3" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
