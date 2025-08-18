@@ -8,6 +8,8 @@ image: ""
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star-post_art_july_2025" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_08_18_at_3_26_40_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR-Post (Art) Issue 2 July 2025</div><div class="isomer-card-description">Inspired Art Teachers</div><div class="isomer-card-link">Read here</div></div></a>
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/jan2025" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jan 2025" src="/images/Jan_2025.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR-Post (Art) Issue 1 Jan 2025</div><div class="isomer-card-description">Journeying The Changes in Art Learning Together</div><div class="isomer-card-link">Read here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/spartjul24" class="isomer-card">
 <div class="isomer-card-image">
@@ -94,6 +96,19 @@ variant: tiptap
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star-post-art-january-2018" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jan 2018" src="/images/Screenshot_2025_05_07_at_12_03_51_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR-Post (Art) Issue 1 Jan 2018</div><div class="isomer-card-description">Inquiry in Art: Discovering Wonder. Making Connections</div><div class="isomer-card-link">Read here</div></div></a>
 </div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/2016_star-post_art_issue_2" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_08_18_at_2_30_14_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR-Post (Art) Issue 2 July 2016</div><div class="isomer-card-link">Read here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/2016_star-post_art_1" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_08_18_at_2_31_47_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">STAR-Post (Art) Issue 1 Jan 2016</div>
+<div class="isomer-card-link">Read here</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/2015_star-post_art_2" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_08_18_at_2_24_43_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR-Post (Art) Issue 2 July 2015</div><div class="isomer-card-link">Read here</div></div></a>
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/2015_star-post_art_1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STAR-Post (Art) Issue 1 Jan 2015 Cover" src="/images/Screenshot_2025_08_18_at_12_44_04_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR-Post (Art) Issue 1 Jan 2015</div><div class="isomer-card-link">Read here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/2014_star-post_3" class="isomer-card">
 <div class="isomer-card-image">
@@ -163,4 +178,5 @@ variant: tiptap
 </div>
 </a>
 </div>
+<p></p>
 <p></p>
