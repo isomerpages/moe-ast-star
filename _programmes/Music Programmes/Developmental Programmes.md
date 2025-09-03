@@ -108,8 +108,8 @@ and present in the CI NLC Mini-Symposium.</p>
 well as in STAR's publication <a href="https://star.moe.edu.sg/sounding-the-teaching/" rel="noopener nofollow" target="_blank">Sounding the Teaching</a>.</p>
 <p></p>
 <h3>Engaging With Songs</h3>
-<p><strong>FOR:</strong> Primary School Music Teachers
-<br><strong>PERIOD:</strong> Part-time basis</p>
+<p><strong>FOR:</strong> Primary School Music Teachers (by invitation)
+<br><strong>PERIOD:</strong> Part-time basis over 1.5 years</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1s1a8827.jpg">
