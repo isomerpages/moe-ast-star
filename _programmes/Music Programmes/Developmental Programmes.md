@@ -105,16 +105,16 @@ perspectives in Music education and develop teacher leadership.</p>
 critical inquiry and NLC discussions, implement school-based CI projects
 and present in the CI NLC Mini-Symposium.</p>
 <p>You could find out more of the CI NLC projects shared in the <a href="https://star.moe.edu.sg/publications-and-resources/music-resources/" rel="noopener nofollow" target="_blank">CI NLC Symposium</a> as
-well as in STAR's publication <a href="https://star.moe.edu.sg/publications-and-resources/research-repository/" rel="noopener nofollow" target="_blank">Sounding the Teaching</a>.</p>
+well as in STAR's publication <a href="https://star.moe.edu.sg/sounding-the-teaching/" rel="noopener nofollow" target="_blank">Sounding the Teaching</a>.</p>
 <p></p>
 <h3>Engaging With Songs</h3>
 <p><strong>FOR:</strong> Primary School Music Teachers (by invitation)
-<br><strong>PERIOD:</strong> Part-time basis over the course of 1.5 years</p>
+<br><strong>PERIOD:</strong> Part-time basis over 1.5 years</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1s1a8827.jpg">
 </div>
-<p>Engaging with Songs (EWS)is a special professional development programme
+<p>Engaging with Songs (EWS) is a special professional development programme
 designed by STAR to deepen music teachers' pedagogical understanding in
 leading singing in the music classroom. It also aims to build a repertoire
 of songs, including those of our multicultural traditions, to engender
