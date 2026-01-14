@@ -214,7 +214,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://star.moe.edu.sg/nurulhuda-mustafa/" rel="noopener nofollow" target="_blank"><u>Nurulhuda Mustafa</u></a>
-<a href="/team-profiles/leongsujuen" rel="noopener noreferrer nofollow" target="_blank"></a>
 <br><strong>Academy Officer (Music)</strong>
 <br><a href="Nurulhuda_Mustafa@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurulhuda_Mustafa@moe.gov.sg</a>
 </p>
