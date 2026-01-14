@@ -165,9 +165,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/team-profiles/chua-siew-ling" rel="noopener noreferrer nofollow" target="_blank">Loo Teng Kiat</a>
-</p>
-<p><strong>Master Teacher (Music)</strong>
+<p><a href="https://cms.isomer.gov.sg/team-profiles/suriati" rel="noopener noreferrer nofollow" target="_blank"><u>Loo Teng Kiat</u></a>
+<br><strong>Master Teacher (Music)</strong>
 <br><a href="mailto:Chua_Siew_Ling@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LOO_Teng_Kiat@moe.gov.sg</a>
 </p>
 </td>
@@ -214,11 +213,10 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://star.moe.edu.sg/nurulhuda-mustafa/" rel="noopener nofollow" target="_blank">Nurulhuda Mustafa</a>
-</p>
-<p><strong>Academy Officer (Art)</strong>
-</p>
-<p><a href="Nurulhuda_Mustafa@moe.gov.sg" rel="noopener nofollow" target="_blank">Nurulhuda_Mustafa@moe.gov.sg</a>
+<p><a href="https://star.moe.edu.sg/nurulhuda-mustafa/" rel="noopener nofollow" target="_blank"><u>Nurulhuda Mustafa</u></a>
+<a href="/team-profiles/leongsujuen" rel="noopener noreferrer nofollow" target="_blank"></a>
+<br><strong>Academy Officer (Music)</strong>
+<br><a href="Nurulhuda_Mustafa@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurulhuda_Mustafa@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
