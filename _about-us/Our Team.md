@@ -21,7 +21,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p><a href="/team-profiles/clifford-chua" rel="noopener noreferrer nofollow" target="_blank">Clifford Chua</a>
 <br><strong>Academy Principal</strong>
-<br><a href="mailto:Clifford_chua@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Clifford_CHUA@moe.gov.sg</a>
+<br><a href="mailto:HAN_Zi_Rui@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Clifford_CHUA@moe.gov.sg</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
