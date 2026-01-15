@@ -189,7 +189,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/team-profiles/kelly-tang" rel="noopener noreferrer nofollow" target="_blank">Kelly Tang</a>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/team-profiles/lee-ley-har/" rel="noopener noreferrer nofollow" target="_blank">Kelly Tang</a>
 <br><strong> Master Teacher (Music)</strong>
 <br><a href="mailto:Kelly_Tang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kelly_TANG@moe.gov.sg</a>
 </p>
