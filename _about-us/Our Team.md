@@ -34,6 +34,7 @@ variant: tiptap
 <br>Deputy Director (Music)
 <br><a href="mailto:LEE_Ley_Har@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LEE_Ley_Har@moe.gov.sg</a>
 </p>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -154,7 +155,6 @@ variant: tiptap
 <br><strong> Master Teacher (Music)</strong>
 <br><a href="mailto:Chan_Yen_See@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHAN_Yen_See@moe.gov.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -169,6 +169,7 @@ variant: tiptap
 <br><strong>Master Teacher (Music)</strong>
 <br><a href="mailto:LOO_Teng_Kiat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LOO_Teng_Kiat@moe.gov.sg</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -193,6 +194,7 @@ variant: tiptap
 <br><strong> Master Teacher (Music)</strong>
 <br><a href="mailto:Kelly_Tang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kelly_TANG@moe.gov.sg</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -228,6 +230,7 @@ variant: tiptap
 <br><strong>Senior Academy Officer (Music)</strong>
 <br><a href="mailto:TOH_Sza_Hui@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>TOH_Sze_Hui@moe.gov.sg</u></a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
