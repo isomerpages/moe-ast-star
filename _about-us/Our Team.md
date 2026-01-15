@@ -50,50 +50,26 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Victoria_Loy_1_jpg__Use_This__.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Seow_Ai_Wee_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/team-profiles/victoria-loy" rel="noopener noreferrer nofollow" target="_blank">Victoria Loy</a>
-<br><strong>Master Teacher (Art)</strong>
-<br><a href="mailto:Victoria_Loy@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Victoria_LOY@moe.gov.sg</a>
+<p><a href="/team-profiles/seow-ai-wee" rel="noopener noreferrer nofollow" target="_blank">Seow Ai Wee</a>
+<br><strong>Principal Master Teacher (Art)</strong>
+<br><a href="mailto:Seow_Ai_Wee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SEOW_Ai_Wee@moe.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Lim_Kok_Boon_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Chua_Siew_Ling_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/team-profiles/lim-kok-boon" rel="noopener noreferrer nofollow" target="_blank">Lim Kok Boon</a>
-<br><strong> Master Teacher (Art)</strong>
-<br><a href="mailto:Lim_Kok_Boon@moe.schools.sg" rel="noopener noreferrer nofollow" target="_blank">LIM_Kok_Boon@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Chun_Wee_San_2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/team-profiles/chun-wee-san" rel="noopener noreferrer nofollow" target="_blank">Chun Wee San</a>
-<br><strong> Master Teacher (Art)</strong>
-<br><a href="mailto:Chun_Wee_San@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHUN_Wee_San@moe.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Ira_Wati_Sukaimi_4.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/team-profiles/ira-wati" rel="noopener noreferrer nofollow" target="_blank">Ira Wati Binte Sukaimi</a>
-<br><strong>Master Teacher (Art)</strong>
-<br><a href="mailto:Ira_Wati_Sukaimi@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ira_Wati_Sukaimi@moe.gov.sg</a>
+<p><a href="/team-profiles/chua-siew-ling" rel="noopener noreferrer nofollow" target="_blank">Chua Siew Ling</a>
+<br><strong>Principal Master Teacher (Music)</strong>
+<br><a href="mailto:Chua_Siew_Ling@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHUA_Siew_Ling@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -111,13 +87,37 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Seow_Ai_Wee_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Chun_Wee_San_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/team-profiles/seow-ai-wee" rel="noopener noreferrer nofollow" target="_blank">Seow Ai Wee</a>
+<p><a href="/team-profiles/chun-wee-san" rel="noopener noreferrer nofollow" target="_blank">Chun Wee San</a>
+<br><strong> Master Teacher (Art)</strong>
+<br><a href="mailto:Chun_Wee_San@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHUN_Wee_San@moe.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Ira_Wati_Sukaimi_4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/team-profiles/ira-wati" rel="noopener noreferrer nofollow" target="_blank">Ira Wati Binte Sukaimi</a>
 <br><strong>Master Teacher (Art)</strong>
-<br><a href="mailto:Seow_Ai_Wee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SEOW_Ai_Wee@moe.gov.sg</a>
+<br><a href="mailto:Ira_Wati_Sukaimi@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ira_Wati_Sukaimi@moe.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Lim_Kok_Boon_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/team-profiles/lim-kok-boon" rel="noopener noreferrer nofollow" target="_blank">Lim Kok Boon</a>
+<br><strong> Master Teacher (Art)</strong>
+<br><a href="mailto:Lim_Kok_Boon@moe.schools.sg" rel="noopener noreferrer nofollow" target="_blank">LIM_Kok_Boon@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -135,13 +135,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Chua_Siew_Ling_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Victoria_Loy_1_jpg__Use_This__.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/team-profiles/chua-siew-ling" rel="noopener noreferrer nofollow" target="_blank">Chua Siew Ling</a>
-<br><strong>Principal Master Teacher (Music)</strong>
-<br><a href="mailto:Chua_Siew_Ling@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHUA_Siew_Ling@moe.gov.sg</a>
+<p><a href="/team-profiles/victoria-loy" rel="noopener noreferrer nofollow" target="_blank">Victoria Loy</a>
+<br><strong>Master Teacher (Art)</strong>
+<br><a href="mailto:Victoria_Loy@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Victoria_LOY@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -160,6 +160,18 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Loo_Teng_Kiat_2.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://cms.isomer.gov.sg/team-profiles/suriati" rel="noopener noreferrer nofollow" target="_blank"><u>Loo Teng Kiat</u></a>
+<br><strong>Master Teacher (Music)</strong>
+<br><a href="mailto:Chua_Siew_Ling@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LOO_Teng_Kiat@moe.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Suriati_Suradi_1.jpg">
 </div>
 </td>
@@ -169,6 +181,8 @@ variant: tiptap
 <br><a href="mailto:Suriati_Suradi@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Suriati_Suradi@moe.gov.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Kelly_Tang_1.jpg">
@@ -178,19 +192,6 @@ variant: tiptap
 <p><a href="/team-profiles/kelly-tang" rel="noopener noreferrer nofollow" target="_blank">Kelly Tang</a>
 <br><strong> Master Teacher (Music)</strong>
 <br><a href="mailto:Kelly_Tang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kelly_TANG@moe.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Rafeeza_Khaliq_1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/team-profiles/rafeeza-khaliq" rel="noopener noreferrer nofollow" target="_blank">Rafeeza Khaliq</a>
-<br><strong>Academy Officer (Art)</strong>
-<br><a href="mailto:rafeeza_KHALIQ@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rafeeza_Khaliq@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -212,11 +213,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://star.moe.edu.sg/nurulhuda-mustafa/" rel="noopener nofollow" target="_blank">Nurulhuda Mustafa</a>
-</p>
-<p><strong>Academy Officer (Art)</strong>
-</p>
-<p><a href="Nurulhuda_Mustafa@moe.gov.sg" rel="noopener nofollow" target="_blank">Nurulhuda_Mustafa@moe.gov.sg</a>
+<p><a href="https://star.moe.edu.sg/nurulhuda-mustafa/" rel="noopener nofollow" target="_blank"><u>Nurulhuda Mustafa</u></a>
+<br><strong>Academy Officer (Music)</strong>
+<br><a href="Nurulhuda_Mustafa@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurulhuda_Mustafa@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -225,9 +224,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/team-profiles/felicia-toh/" rel="noopener noreferrer nofollow" target="_blank">Felicia Toh</a>
+<p><a href="https://cms.isomer.gov.sg/team-profiles/felicia-toh/" rel="noopener noreferrer nofollow" target="_blank"><u>Felicia Toh</u></a>
 <br><strong>Senior Academy Officer (Music)</strong>
-<br><a href="mailto:TOH_Sze_Hui@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">TOH_Sze_Hui@moe.gov.sg</a>
+<br><a href="https://cms.isomer.gov.sg/team-profiles/felicia-toh/" rel="noopener noreferrer nofollow" target="_blank"><u>TOH_Sze_Hui@moe.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -236,6 +235,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Leong_Su_Juen_3.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/team-profiles/leongsujuen" rel="noopener noreferrer nofollow" target="_blank">Leong Su Juen </a>
