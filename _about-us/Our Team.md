@@ -165,9 +165,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/team-profiles/suriati" rel="noopener noreferrer nofollow" target="_blank"><u>Loo Teng Kiat</u></a>
+<p><a href="https://cms.isomer.gov.sg/team-profiles/loo-teng-kiat" rel="noopener noreferrer nofollow" target="_blank"><u>Loo Teng Kiat</u></a>
 <br><strong>Master Teacher (Music)</strong>
-<br><a href="mailto:Chua_Siew_Ling@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LOO_Teng_Kiat@moe.gov.sg</a>
+<br><a href="mailto:LOO_Teng_Kiat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LOO_Teng_Kiat@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,7 +215,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://star.moe.edu.sg/nurulhuda-mustafa/" rel="noopener nofollow" target="_blank"><u>Nurulhuda Mustafa</u></a>
 <br><strong>Academy Officer (Music)</strong>
-<br><a href="Nurulhuda_Mustafa@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurulhuda_Mustafa@moe.gov.sg</a>
+<br><a href="mailto:Nurulhuda_Mustafa@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurulhuda_Mustafa@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -224,9 +224,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/team-profiles/felicia-toh/" rel="noopener noreferrer nofollow" target="_blank"><u>Felicia Toh</u></a>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/team-profiles/felicia-toh/" rel="noopener noreferrer nofollow" target="_blank"><u>Felicia Toh</u></a>
 <br><strong>Senior Academy Officer (Music)</strong>
-<br><a href="https://cms.isomer.gov.sg/team-profiles/felicia-toh/" rel="noopener noreferrer nofollow" target="_blank"><u>TOH_Sze_Hui@moe.gov.sg</u></a>
+<br><a href="mailto:TOH_Sza_Hui@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>TOH_Sze_Hui@moe.gov.sg</u></a>
 </p>
 </td>
 </tr>
