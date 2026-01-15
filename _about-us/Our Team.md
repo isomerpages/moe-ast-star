@@ -21,7 +21,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p><a href="/team-profiles/clifford-chua" rel="noopener noreferrer nofollow" target="_blank">Clifford Chua</a>
 <br><strong>Academy Principal</strong>
-<br><a href="mailto:Clifford_chua@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Clifford_CHUA@moe.gov.sg</a>
+<br><a href="mailto:HAN_Zi_Rui@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Clifford_CHUA@moe.gov.sg</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -139,7 +139,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/team-profiles/victoria-loy" rel="noopener noreferrer nofollow" target="_blank">Victoria Loy</a>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/team-profiles/lee-ley-har/" rel="noopener noreferrer nofollow" target="_blank">Victoria Loy</a>
 <br><strong>Master Teacher (Art)</strong>
 <br><a href="mailto:Victoria_Loy@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Victoria_LOY@moe.gov.sg</a>
 </p>
@@ -189,7 +189,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/team-profiles/kelly-tang" rel="noopener noreferrer nofollow" target="_blank">Kelly Tang</a>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/team-profiles/lee-ley-har/" rel="noopener noreferrer nofollow" target="_blank">Kelly Tang</a>
 <br><strong> Master Teacher (Music)</strong>
 <br><a href="mailto:Kelly_Tang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kelly_TANG@moe.gov.sg</a>
 </p>
