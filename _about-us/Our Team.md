@@ -165,7 +165,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://star.moe.edu.sg/team-profiles/loo-teng-kiat/" rel="noopener noreferrer nofollow" target="_blank"><u>Loo Teng Kiat</u></a>
+<p><a href="https://star.moe.edu.sg/loo-teng-kiat/" rel="noopener noreferrer nofollow" target="_blank"><u>Loo Teng Kiat</u></a>
 <br><strong>Master Teacher (Music)</strong>
 <br><a href="mailto:LOO_Teng_Kiat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LOO_Teng_Kiat@moe.gov.sg</a>
 </p>
