@@ -32,7 +32,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://star.moe.edu.sg/team-profiles/lee-ley-har/" rel="noopener noreferrer nofollow" target="_blank">Lee Ley Har</a>
 <br>Deputy Director (Music)
-<br><a href="mailto:LEE_Ley_Har@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Ley_Har@moe.gov.sg</a>
+<br><a href="mailto:LEE_Ley_Har@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LEE_Ley_Har@moe.gov.sg</a>
 </p>
 </td>
 </tr>
