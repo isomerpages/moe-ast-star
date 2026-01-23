@@ -140,7 +140,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/team-profiles/lee-ley-har/" rel="noopener noreferrer nofollow" target="_blank">Victoria Loy</a>
+<p><a href="https://star.moe.edu.sg/team-profiles/victoria-loy" rel="noopener noreferrer nofollow" target="_blank">Victoria Loy</a>
 <br><strong>Master Teacher (Art)</strong>
 <br><a href="mailto:Victoria_Loy@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Victoria_LOY@moe.gov.sg</a>
 </p>
