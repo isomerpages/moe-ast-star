@@ -226,7 +226,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/team-profiles/felicia-toh/" rel="noopener noreferrer nofollow" target="_blank"><u>Felicia Toh</u></a>
+<p><a href="https://star.moe.edu.sg/team-profiles/felicia-toh/" rel="noopener noreferrer nofollow" target="_blank"><u>Felicia Toh</u></a>
 <br><strong>Senior Academy Officer (Music)</strong>
 <br><a href="mailto:TOH_Sze_Hui@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>TOH_Sze_Hui@moe.gov.sg</u></a>
 </p>
