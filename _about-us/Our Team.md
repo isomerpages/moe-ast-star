@@ -140,7 +140,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/team-profiles/lee-ley-har/" rel="noopener noreferrer nofollow" target="_blank">Victoria Loy</a>
+<p><a href="https://star.moe.edu.sg/team-profiles/victoria-loy/" rel="noopener noreferrer nofollow" target="_blank">Victoria Loy</a>
 <br><strong>Master Teacher (Art)</strong>
 <br><a href="mailto:Victoria_Loy@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Victoria_LOY@moe.gov.sg</a>
 </p>
@@ -165,7 +165,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/team-profiles/loo-teng-kiat" rel="noopener noreferrer nofollow" target="_blank"><u>Loo Teng Kiat</u></a>
+<p><a href="https://star.moe.edu.sg/team-profiles/loo-teng-kiat/" rel="noopener noreferrer nofollow" target="_blank"><u>Loo Teng Kiat</u></a>
 <br><strong>Master Teacher (Music)</strong>
 <br><a href="mailto:LOO_Teng_Kiat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LOO_Teng_Kiat@moe.gov.sg</a>
 </p>
@@ -190,7 +190,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/team-profiles/lee-ley-har/" rel="noopener noreferrer nofollow" target="_blank">Kelly Tang</a>
+<p><a href="https://star.moe.edu.sg/team-profiles/kelly-tang/" rel="noopener noreferrer nofollow" target="_blank">Kelly Tang</a>
 <br><strong> Master Teacher (Music)</strong>
 <br><a href="mailto:Kelly_Tang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kelly_TANG@moe.gov.sg</a>
 </p>
@@ -226,7 +226,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/team-profiles/felicia-toh/" rel="noopener noreferrer nofollow" target="_blank"><u>Felicia Toh</u></a>
+<p><a href="https://star.moe.edu.sg/team-profiles/felicia-toh/" rel="noopener noreferrer nofollow" target="_blank"><u>Felicia Toh</u></a>
 <br><strong>Senior Academy Officer (Music)</strong>
 <br><a href="mailto:TOH_Sze_Hui@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>TOH_Sze_Hui@moe.gov.sg</u></a>
 </p>
