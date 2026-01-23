@@ -84,7 +84,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/team-profiles/chun-wee-san" rel="noopener noreferrer nofollow" target="_blank">Chun Wee San</a><br> Master Teacher (Art)<br><a href="mailto:Chun_Wee_San@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHUN_Wee_San@moe.gov.sg</a></strong>
+<p><strong><a href="/team-profiles/chun-wee-san" rel="noopener noreferrer nofollow" target="_blank">Chun Wee San</a><br>Master Teacher (Art)<br><a href="mailto:Chun_Wee_San@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHUN_Wee_San@moe.gov.sg</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,7 +104,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/team-profiles/lim-kok-boon" rel="noopener noreferrer nofollow" target="_blank">Lim Kok Boon</a><br> Master Teacher (Art)<br><a href="mailto:Lim_Kok_Boon@moe.schools.sg" rel="noopener noreferrer nofollow" target="_blank">LIM_Kok_Boon@schools.gov.sg</a></strong>
+<p><strong><a href="/team-profiles/lim-kok-boon" rel="noopener noreferrer nofollow" target="_blank">Lim Kok Boon</a><br>Master Teacher (Art)<br><a href="mailto:Lim_Kok_Boon@moe.schools.sg" rel="noopener noreferrer nofollow" target="_blank">LIM_Kok_Boon@schools.gov.sg</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,7 +137,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/team-profiles/li-yen-see" rel="noopener noreferrer nofollow" target="_blank">Li Yen See</a><br> Master Teacher (Music)<br><a href="mailto:Chan_Yen_See@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHAN_Yen_See@moe.gov.sg</a></strong>
+<p><strong><a href="/team-profiles/li-yen-see" rel="noopener noreferrer nofollow" target="_blank">Li Yen See</a><br>Master Teacher (Music)<br><a href="mailto:Chan_Yen_See@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHAN_Yen_See@moe.gov.sg</a></strong>
 </p>
 </td>
 </tr>
@@ -172,7 +172,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://star.moe.edu.sg/team-profiles/kelly-tang/" rel="noopener noreferrer nofollow" target="_blank">Kelly Tang</a><br> Master Teacher (Music)<br><a href="mailto:Kelly_Tang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kelly_TANG@moe.gov.sg</a></strong>
+<p><strong><a href="https://star.moe.edu.sg/team-profiles/kelly-tang/" rel="noopener noreferrer nofollow" target="_blank">Kelly Tang</a><br>Master Teacher (Music)<br><a href="mailto:Kelly_Tang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kelly_TANG@moe.gov.sg</a></strong>
 </p>
 <p></p>
 </td>
