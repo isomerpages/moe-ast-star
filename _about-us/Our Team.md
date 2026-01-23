@@ -13,27 +13,28 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Clifford_Chua_3.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong><a href="/team-profiles/clifford-chua" rel="noopener noreferrer nofollow" target="_blank">Clifford Chua</a><br>Academy Principal<br><a href="mailto:HAN_Zi_Rui@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Clifford_CHUA@moe.gov.sg</a></strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://star.moe.edu.sg/team-profiles/clifford-chua/" rel="noopener noreferrer nofollow" target="_blank">Clifford Chua</a>
+<br>Academy Principal
+<br><a href="mailto:Clifford_CHUA@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Clifford_CHUA@moe.gov.sg</a>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Lee_Ley_Har_3.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="/team-profiles/lee-ley-har/" rel="noopener noreferrer nofollow" target="_blank">Lee Ley Har</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://star.moe.edu.sg/team-profiles/lee-ley-har/" rel="noopener noreferrer nofollow" target="_blank">Lee Ley Har</a>
 <br>Deputy Director (Music)
-<br><a href="mailto:LEE_Ley_Har@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LEE_Ley_Har@moe.gov.sg</a>
+<br><a href="mailto:LEE_Ley_Har@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Ley_Har@moe.gov.sg</a>
 </p>
-<p></p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -42,7 +43,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/team-profiles/han-zi-rui" rel="noopener noreferrer nofollow" target="_blank">Han Zi Rui</a><br>Senior Assistant Director (Art)<br><a href="mailto:HAN_Zi_Rui@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">HAN_Zi_Rui@moe.gov.sg</a></strong>
+<p><a href="/team-profiles/han-zi-rui" rel="noopener noreferrer nofollow" target="_blank">Han Zi Rui</a>
+<br>Senior Assistant Director (Art)
+<br><a href="mailto:HAN_Zi_Rui@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">HAN_Zi_Rui@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,8 +54,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/team-profiles/seow-ai-wee" rel="noopener noreferrer nofollow" target="_blank">Seow Ai Wee</a></strong>
-<br><strong>Principal Master Teacher (Art)<br><a href="mailto:Seow_Ai_Wee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SEOW_Ai_Wee@moe.gov.sg</a></strong>
+<p><a href="/team-profiles/seow-ai-wee" rel="noopener noreferrer nofollow" target="_blank">Seow Ai Wee</a>
+<br>Principal Master Teacher (Art)
+<br><a href="mailto:Seow_Ai_Wee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SEOW_Ai_Wee@moe.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -63,8 +67,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/team-profiles/chua-siew-ling" rel="noopener noreferrer nofollow" target="_blank">Chua Siew Ling</a></strong>
-<br><strong>Principal Master Teacher (Music)<br><a href="mailto:Chua_Siew_Ling@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHUA_Siew_Ling@moe.gov.sg</a></strong>
+<p><a href="/team-profiles/chua-siew-ling" rel="noopener noreferrer nofollow" target="_blank">Chua Siew Ling</a>
+<br>Principal Master Teacher (Music)
+<br><a href="mailto:Chua_Siew_Ling@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHUA_Siew_Ling@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,7 +78,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/team-profiles/chia-wei-hou" rel="noopener noreferrer nofollow" target="_blank">Chia Wei Hou</a><br>Master Teacher (Art)<br><a href="mailto:Chia_Wei_Hou@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHIA_Wei_Hou@moe.gov.sg</a></strong>
+<p><a href="/team-profiles/chia-wei-hou" rel="noopener noreferrer nofollow" target="_blank">Chia Wei Hou</a>
+<br>Master Teacher (Art)
+<br><a href="mailto:Chia_Wei_Hou@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHIA_Wei_Hou@moe.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -84,7 +91,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/team-profiles/chun-wee-san" rel="noopener noreferrer nofollow" target="_blank">Chun Wee San</a><br>Master Teacher (Art)<br><a href="mailto:Chun_Wee_San@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHUN_Wee_San@moe.gov.sg</a></strong>
+<p><a href="/team-profiles/chun-wee-san" rel="noopener noreferrer nofollow" target="_blank">Chun Wee San</a>
+<br>Master Teacher (Art)
+<br><a href="mailto:Chun_Wee_San@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHUN_Wee_San@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,7 +102,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/team-profiles/ira-wati" rel="noopener noreferrer nofollow" target="_blank">Ira Wati Binte Sukaimi</a><br>Master Teacher (Art)<br><a href="mailto:Ira_Wati_Sukaimi@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ira_Wati_Sukaimi@moe.gov.sg</a></strong>
+<p><a href="/team-profiles/ira-wati" rel="noopener noreferrer nofollow" target="_blank">Ira Wati Binte Sukaimi</a>
+<br>Master Teacher (Art)
+<br><a href="mailto:Ira_Wati_Sukaimi@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ira_Wati_Sukaimi@moe.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -104,7 +115,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/team-profiles/lim-kok-boon" rel="noopener noreferrer nofollow" target="_blank">Lim Kok Boon</a><br>Master Teacher (Art)<br><a href="mailto:Lim_Kok_Boon@moe.schools.sg" rel="noopener noreferrer nofollow" target="_blank">LIM_Kok_Boon@schools.gov.sg</a></strong>
+<p><a href="/team-profiles/lim-kok-boon" rel="noopener noreferrer nofollow" target="_blank">Lim Kok Boon</a>
+<br>Master Teacher (Art)
+<br><a href="mailto:Lim_Kok_Boon@moe.schools.sg" rel="noopener noreferrer nofollow" target="_blank">LIM_Kok_Boon@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,9 +126,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/team-profiles/vivian-loh" rel="noopener noreferrer nofollow" target="_blank">Vivian Loh Lai Kuen</a></strong>
-<br><strong>Master Teacher (Art)</strong>
-<br><strong><a href="mailto:Vivian_LOH@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Vivian_LOH@moe.gov.sg</a></strong>
+<p><a href="/team-profiles/vivian-loh" rel="noopener noreferrer nofollow" target="_blank">Vivian Loh Lai Kuen</a>
+<br>Master Teacher (Art)
+<br><a href="mailto:Vivian_LOH@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Vivian_LOH@moe.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -126,9 +139,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://star.moe.edu.sg/team-profiles/victoria-loy/" rel="noopener noreferrer nofollow" target="_blank">Victoria Loy</a></strong>
-<br><strong>Master Teacher (Art)</strong>
-<br><strong><a href="mailto:Victoria_Loy@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Victoria_LOY@moe.gov.sg</a></strong>
+<p><a href="https://star.moe.edu.sg/team-profiles/victoria-loy/" rel="noopener noreferrer nofollow" target="_blank">Victoria Loy</a>
+<br>Master Teacher (Art)
+<br><a href="mailto:Victoria_Loy@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Victoria_LOY@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,7 +150,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/team-profiles/li-yen-see" rel="noopener noreferrer nofollow" target="_blank">Li Yen See</a><br>Master Teacher (Music)<br><a href="mailto:Chan_Yen_See@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHAN_Yen_See@moe.gov.sg</a></strong>
+<p><a href="/team-profiles/li-yen-see" rel="noopener noreferrer nofollow" target="_blank">Li Yen See</a>
+<br>Master Teacher (Music)
+<br><a href="mailto:Chan_Yen_See@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHAN_Yen_See@moe.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -149,8 +164,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://star.moe.edu.sg/loo-teng-kiat/" rel="noopener noreferrer nofollow" target="_blank"><u>Loo Teng Kiat</u></a></strong>
-<br><strong>Master Teacher (Music)<br><a href="mailto:LOO_Teng_Kiat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LOO_Teng_Kiat@moe.gov.sg</a></strong>
+<p><a href="https://star.moe.edu.sg/loo-teng-kiat/" rel="noopener noreferrer nofollow" target="_blank"><u>Loo Teng Kiat</u></a>
+<br>Master Teacher (Music)
+<br><a href="mailto:LOO_Teng_Kiat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LOO_Teng_Kiat@moe.gov.sg</a>
 </p>
 <p></p>
 </td>
@@ -160,8 +176,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/team-profiles/suriati" rel="noopener noreferrer nofollow" target="_blank">Suriati Bte SuradiI</a></strong>
-<br><strong>Master Teacher (Music)<br><a href="mailto:Suriati_Suradi@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Suriati_Suradi@moe.gov.sg</a></strong>
+<p><a href="/team-profiles/suriati" rel="noopener noreferrer nofollow" target="_blank">Suriati Bte SuradiI</a>
+<br>Master Teacher (Music)
+<br><a href="mailto:Suriati_Suradi@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Suriati_Suradi@moe.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -172,7 +189,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://star.moe.edu.sg/team-profiles/kelly-tang/" rel="noopener noreferrer nofollow" target="_blank">Kelly Tang</a><br>Master Teacher (Music)<br><a href="mailto:Kelly_Tang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kelly_TANG@moe.gov.sg</a></strong>
+<p><a href="https://star.moe.edu.sg/team-profiles/kelly-tang/" rel="noopener noreferrer nofollow" target="_blank">Kelly Tang</a>
+<br>Master Teacher (Music)
+<br><a href="mailto:Kelly_Tang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kelly_TANG@moe.gov.sg</a>
 </p>
 <p></p>
 </td>
@@ -182,7 +201,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/team-profiles/silvia/" rel="noopener noreferrer nofollow" target="_blank">Silvia Lim</a><br>Academy Officer (Art)<br><a href="mailto:Silvia_LIM@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Silvia_LIM@moe.gov.sg</a></strong>
+<p><a href="/team-profiles/silvia/" rel="noopener noreferrer nofollow" target="_blank">Silvia Lim</a>
+<br>Academy Officer (Art)
+<br><a href="mailto:Silvia_LIM@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Silvia_LIM@moe.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -193,7 +214,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://star.moe.edu.sg/nurulhuda-mustafa/" rel="noopener nofollow" target="_blank"><u>Nurulhuda Mustafa</u></a><br>Academy Officer (Music)<br><a href="mailto:Nurulhuda_Mustafa@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurulhuda_Mustafa@moe.gov.sg</a></strong>
+<p><a href="https://star.moe.edu.sg/nurulhuda-mustafa/" rel="noopener nofollow" target="_blank"><u>Nurulhuda Mustafa</u></a>
+<br>Academy Officer (Music)
+<br><a href="mailto:Nurulhuda_Mustafa@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurulhuda_Mustafa@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -202,7 +225,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://star.moe.edu.sg/team-profiles/felicia-toh/" rel="noopener noreferrer nofollow" target="_blank"><u>Felicia Toh</u></a><br>Senior Academy Officer (Music)<br><a href="mailto:TOH_Sze_Hui@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>TOH_Sze_Hui@moe.gov.sg</u></a></strong>
+<p><a href="https://star.moe.edu.sg/team-profiles/felicia-toh/" rel="noopener noreferrer nofollow" target="_blank"><u>Felicia Toh</u></a>
+<br>Senior Academy Officer (Music)
+<br><a href="mailto:TOH_Sze_Hui@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>TOH_Sze_Hui@moe.gov.sg</u></a>
 </p>
 <p></p>
 </td>
@@ -215,8 +240,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/team-profiles/leongsujuen" rel="noopener noreferrer nofollow" target="_blank">Leong Su Juen </a></strong>
-<br><strong>Academy Officer (Music)<br><a href="mailto:leong_su_juen@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LEONG_Su_Juen@moe.gov.sg</a></strong>
+<p><a href="/team-profiles/leongsujuen" rel="noopener noreferrer nofollow" target="_blank">Leong Su Juen </a>
+<br>Academy Officer (Music)
+<br><a href="mailto:leong_su_juen@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LEONG_Su_Juen@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -225,7 +251,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://star.moe.edu.sg/seah-cheng-tat/" rel="noopener noreferrer nofollow" target="_blank">Seah Cheng Tat</a><br>Academy Officer (Music)<br><a href="mailto:Seah_Cheng_Tat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SEAH_Cheng_Tat@moe.gov.sg</a></strong>
+<p><a href="https://star.moe.edu.sg/seah-cheng-tat/" rel="noopener noreferrer nofollow" target="_blank">Seah Cheng Tat</a>
+<br>Academy Officer (Music)
+<br><a href="mailto:Seah_Cheng_Tat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SEAH_Cheng_Tat@moe.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -236,9 +264,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/team-profiles/teolichin/" rel="noopener noreferrer nofollow" target="_blank">Teo Li Chin</a></strong>
-<br><strong>Academy Officer (Music)</strong>
-<br><strong><a href="mailto:TEO_li_chin@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">TEO_Li_Chin@moe.gov.sg</a></strong>
+<p><a href="/team-profiles/teolichin/" rel="noopener noreferrer nofollow" target="_blank">Teo Li Chin</a>
+<br>Academy Officer (Music)
+<br><a href="mailto:TEO_li_chin@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">TEO_Li_Chin@moe.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -247,7 +275,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/team-profiles/surinder-kaur" rel="noopener noreferrer nofollow" target="_blank">Surinder Kaur</a><br>Senior Administrative Executive<br><a href="mailto:Surinder_Kaur@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Surinder_KAUR@moe.gov.sg</a></strong>
+<p><a href="/team-profiles/surinder-kaur" rel="noopener noreferrer nofollow" target="_blank">Surinder Kaur</a>
+<br>Senior Administrative Executive
+<br><a href="mailto:Surinder_Kaur@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Surinder_KAUR@moe.gov.sg</a>
 </p>
 </td>
 </tr>
