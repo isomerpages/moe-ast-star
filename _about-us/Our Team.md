@@ -90,7 +90,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Chun_Wee_San_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chun_Wee_San_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -101,7 +101,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Ira_Wati_Sukaimi_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ira_Wati_Sukaimi_4.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +114,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Lim_Kok_Boon_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lim_Kok_Boon_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,7 +125,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Vivian_Loh_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vivian_Loh_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,7 +138,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Victoria_Loy_1_jpg__Use_This__.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Victoria_Loy_1_jpg__Use_This__.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,7 +149,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Chan_Yen_See_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chan_Yen_See_4.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,7 +175,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Suriati_Suradi_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Suriati_Suradi_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -188,8 +188,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Kelly_Tang_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kelly_Tang_1.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://star.moe.edu.sg/team-profiles/kelly-tang/" rel="noopener noreferrer nofollow" target="_blank">Kelly Tang</a>
@@ -200,7 +201,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Silvia_Lim_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Silvia_Lim.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,7 +214,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Nurulhuda_Mustafa_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurulhuda_Mustafa_4.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -224,7 +225,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Felicia_Toh_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Felicia_Toh_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -238,9 +239,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Leong_Su_Juen_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leong_Su_Juen_3.jpg">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/team-profiles/leongsujuen" rel="noopener noreferrer nofollow" target="_blank">Leong Su Juen </a>
@@ -250,7 +250,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Seah_Cheng_Tat_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Seah_Cheng_Tat_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -263,7 +263,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Teo_Li_Chin_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teo_Li_Chin_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
