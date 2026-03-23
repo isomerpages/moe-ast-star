@@ -26,8 +26,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Lee_Ley_Har_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lee_Ley_Har_3.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://star.moe.edu.sg/team-profiles/lee-ley-har/" rel="noopener noreferrer nofollow" target="_blank">Lee Ley Har</a>
@@ -40,7 +41,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Han_Zi_Rui_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Han_Zi_Rui_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,7 +52,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Seow_Ai_Wee_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Seow_Ai_Wee_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
