@@ -15,8 +15,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Clifford_Chua_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_AP_Clifford_Chua_3.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://star.moe.edu.sg/team-profiles/clifford-chua/" rel="noopener noreferrer nofollow" target="_blank">Clifford Chua</a>
@@ -65,7 +66,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Chua_Siew_Ling_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chua_Siew_Ling_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,7 +77,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Chia_Wei_Hou_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chia_Wei_Hou_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
