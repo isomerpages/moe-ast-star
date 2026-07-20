@@ -8,19 +8,22 @@ image: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star-post_art_january_2026" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STAR-Post (Art) Issue 1 Jan 2026" src="/images/Screenshot_2026_02_13_at_2_09_10_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR-Post (Art) Issue 1 Jan 2026</div><div class="isomer-card-description">What is process? Process looks different to each of us, yet it shares a common thread: it is the space between not knowing and knowing, where thinking becomes visible and learning takes shape. This edition explores process in action - both in the classroom, as well as our own art practice.</div><div class="isomer-card-link">Read here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star-post_art_july_2025" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/star-post-july-26-main" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STAR-Post (Art) Issue 2 July 2026" src="/images/Screenshot_2026_07_20_at_3_46_10_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR-Post (Art) Issue 2 July 2026</div><div class="isomer-card-description">Meeting Points in Art Education Today</div><div class="isomer-card-link">Read here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star-post_art_january_2026" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_08_18_at_3_26_40_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="STAR-Post (Art) Issue 1 Jan 2026" src="/images/Screenshot_2026_02_13_at_2_09_10_PM.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">STAR-Post (Art) Issue 2 July 2025</div>
-<div class="isomer-card-description">Inspired Art Teachers</div>
+<div class="isomer-card-title">STAR-Post (Art) Issue 1 Jan 2026</div>
+<div class="isomer-card-description">What is process? Process looks different to each of us, yet it shares
+a common thread: it is the space between not knowing and knowing, where
+thinking becomes visible and learning takes shape. This edition explores
+process in action - both in the classroom, as well as our own art practice.</div>
 <div class="isomer-card-link">Read here</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://issuu.com/moe_star/docs/star-post_art_july_2025" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_08_18_at_3_26_40_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR-Post (Art) Issue 2 July 2025</div><div class="isomer-card-description">Inspired Art Teachers</div><div class="isomer-card-link">Read here</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/jan2025" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jan 2025" src="/images/Jan_2025.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STAR-Post (Art) Issue 1 Jan 2025</div><div class="isomer-card-description">Journeying The Changes in Art Learning Together</div><div class="isomer-card-link">Read here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/spartjul24" class="isomer-card">
