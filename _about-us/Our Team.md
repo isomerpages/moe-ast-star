@@ -201,6 +201,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nadiah_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/team-profiles/silvia/" rel="noopener noreferrer nofollow" target="_blank">Nadiah Abdul Nasir</a>
+<br>Senior Academy Officer (Art)
+<br><a href="mailto:Nadiah_Abdul_NASIR@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nadiah_Abdul_NASIR@moe.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurulhuda_Mustafa_4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://star.moe.edu.sg/nurulhuda-mustafa/" rel="noopener nofollow" target="_blank"><u>Nurulhuda Mustafa</u></a>
+<br>Academy Officer (Art)
+<br><a href="mailto:Nurulhuda_Mustafa@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurulhuda_Mustafa@moe.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Silvia_Lim.jpg">
 </div>
 </td>
@@ -214,38 +238,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurulhuda_Mustafa_4.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://star.moe.edu.sg/nurulhuda-mustafa/" rel="noopener nofollow" target="_blank"><u>Nurulhuda Mustafa</u></a>
-<br>Academy Officer (Music)
-<br><a href="mailto:Nurulhuda_Mustafa@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurulhuda_Mustafa@moe.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Felicia_Toh_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://star.moe.edu.sg/team-profiles/felicia-toh/" rel="noopener noreferrer nofollow" target="_blank"><u>Felicia Toh</u></a>
 <br>Senior Academy Officer (Music)
-<br><a href="mailto:TOH_Sze_Hui@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>TOH_Sze_Hui@moe.gov.sg</u></a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leong_Su_Juen_3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/team-profiles/leongsujuen" rel="noopener noreferrer nofollow" target="_blank">Leong Su Juen </a>
-<br>Academy Officer (Music)
-<br><a href="mailto:leong_su_juen@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LEONG_Su_Juen@moe.gov.sg</a>
+<br><a href="mailto:TOH_Sze_Hui@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>TOH_Sze_Hui@moe.gov.s</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -274,6 +273,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leong_Su_Juen_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/team-profiles/leongsujuen" rel="noopener noreferrer nofollow" target="_blank">Leong Su Juen </a>
+<br>Academy Officer (Music)
+<br><a href="mailto:leong_su_juen@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LEONG_Su_Juen@moe.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width:350px" height="auto" width="100%" src="/images/surinder.jpg">
 </div>
 </td>
@@ -282,6 +294,12 @@ variant: tiptap
 <br>Senior Administrative Executive
 <br><a href="mailto:Surinder_Kaur@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Surinder_KAUR@moe.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
