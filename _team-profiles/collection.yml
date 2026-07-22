@@ -2,7 +2,6 @@ collections:
   team-profiles:
     output: true
     order:
-      - Nadiah Abdul Nasir.md
       - Clifford Chua.md
       - Lee Ley Har.md
       - Han Zi Rui.md
@@ -18,6 +17,7 @@ collections:
       - Loo Teng Kiat.md
       - Suriati Bte Suradi.md
       - Kelly Tang.md
+      - Nadiah Abdul Nasir.md
       - Silvia Lim.md
       - Nurulhuda Mustafa.md
       - Felicia Toh.md
