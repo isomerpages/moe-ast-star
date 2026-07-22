@@ -205,8 +205,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/team-profiles/silvia/" rel="noopener noreferrer nofollow" target="_blank">Nadiah Abdul Nasir</a>
-<br>Senior Academy Officer (Art)
+<p>Nadiah Abdul Nasir Senior Academy Officer (Art)
 <br><a href="mailto:Nadiah_Abdul_NASIR@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nadiah_Abdul_NASIR@moe.gov.sg</a>
 </p>
 </td>
