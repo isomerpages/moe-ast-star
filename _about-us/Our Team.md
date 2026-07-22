@@ -284,9 +284,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:350px" height="auto" width="100%" src="/images/surinder.jpg">
 </div>
@@ -294,8 +291,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/team-profiles/surinder-kaur" rel="noopener noreferrer nofollow" target="_blank">Surinder Kaur</a>
 <br>Senior Administrative Executive
-<br><a href="mailto:Surinder_Kaur@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Surinder_KAUR@moe.gov.s</a>
+<br><a href="mailto:Surinder_Kaur@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Surinder_KAUR@moe.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 <p></p>
 <p></p>
