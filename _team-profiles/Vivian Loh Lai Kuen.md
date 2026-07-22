@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/18.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vivan_Loh_Master_Teacher__Art_.png">
 </div>
 <p><strong>Vivian</strong>&nbsp;sees teaching as a vocation and a service
 to others, and she is thankful for the opportunity to serve as an art teacher
