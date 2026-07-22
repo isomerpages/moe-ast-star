@@ -214,17 +214,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurulhuda_Mustafa_4.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://star.moe.edu.sg/nurulhuda-mustafa/" rel="noopener nofollow" target="_blank"><u>Nurulhuda Mustafa</u></a>
-<br>Academy Officer (Art)
-<br><a href="mailto:Nurulhuda_Mustafa@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurulhuda_Mustafa@moe.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Silvia_Lim.jpg">
 </div>
 </td>
@@ -232,6 +221,17 @@ variant: tiptap
 <p><a href="/team-profiles/silvia/" rel="noopener noreferrer nofollow" target="_blank">Silvia Lim</a>
 <br>Academy Officer (Art)
 <br><a href="mailto:Silvia_LIM@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Silvia_LIM@moe.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nurulhuda_Mustafa_4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://star.moe.edu.sg/nurulhuda-mustafa/" rel="noopener nofollow" target="_blank"><u>Nurulhuda Mustafa</u></a>
+<br>Academy Officer (Art)
+<br><a href="mailto:Nurulhuda_Mustafa@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurulhuda_Mustafa@moe.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -244,31 +244,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://star.moe.edu.sg/team-profiles/felicia-toh/" rel="noopener noreferrer nofollow" target="_blank"><u>Felicia Toh</u></a>
 <br>Senior Academy Officer (Music)
-<br><a href="mailto:TOH_Sze_Hui@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>TOH_Sze_Hui@moe.gov.s</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Seah_Cheng_Tat_2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://star.moe.edu.sg/seah-cheng-tat/" rel="noopener noreferrer nofollow" target="_blank">Seah Cheng Tat</a>
-<br>Academy Officer (Music)
-<br><a href="mailto:Seah_Cheng_Tat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SEAH_Cheng_Tat@moe.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teo_Li_Chin_3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/team-profiles/teolichin/" rel="noopener noreferrer nofollow" target="_blank">Teo Li Chin</a>
-<br>Academy Officer (Music)
-<br><a href="mailto:TEO_li_chin@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">TEO_Li_Chin@moe.gov.sg</a>
+<br><a href="mailto:TOH_Sze_Hui@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>TOH_Sze_Hui@moe.gov.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -280,6 +256,30 @@ variant: tiptap
 <p><a href="/team-profiles/leongsujuen" rel="noopener noreferrer nofollow" target="_blank">Leong Su Juen </a>
 <br>Academy Officer (Music)
 <br><a href="mailto:leong_su_juen@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LEONG_Su_Juen@moe.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Seah_Cheng_Tat_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://star.moe.edu.sg/seah-cheng-tat/" rel="noopener noreferrer nofollow" target="_blank"><u>Seah Cheng Tat</u></a>
+<br>Academy Officer (Music)
+<br><a href="mailto:SEAH_Cheng_Tat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>SEAH_Cheng_Tat@moe.gov.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teo_Li_Chin_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/team-profiles/teolichin/" rel="noopener noreferrer nofollow" target="_blank">Teo Li Chin</a>
+<br>Academy Officer (Music)
+<br><a href="mailto:TEO_li_chin@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">TEO_Li_Chin@moe.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -303,10 +303,8 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p></p>
 <p></p>
 <p></p>
