@@ -201,11 +201,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nadiah_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nadiah_Profile_photo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://star.moe.edu.sg/team-profiles/nadiah-abdul-nasir/" rel="noopener nofollow" target="_blank">Nadiah Abdul Nasir</a>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/nadiah-abdul-nasir/" rel="noopener nofollow" target="_blank">Nadiah Abdul Nasir</a>
 <br>Senior Academy Officer (Art)
 <br><a href="mailto:Nadiah_Abdul_NASIR@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nadiah_Abdul_NASIR@moe.gov.sg</a>
 </p>
